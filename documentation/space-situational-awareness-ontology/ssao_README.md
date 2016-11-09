@@ -1,19 +1,20 @@
-# The  (ODO)
+# The Space Situational Awareness Ontology (SSAO)
 
-# Description
-ODO is an ontology of orbital debris. It minimally consists of class terms for types of orbital debris, their properties and the interelations thereof. 
-It is intended to help facilitate data-sharing among disparate orbital debris databases or space object catalogs [1]. It is also intended to provide a common terminology for orbital debris concepts an objects.
+## Description
+The SSAO is an ontology of the SSA domain. It minimally consists of class terms for the processes and infrastructure by which persons and organizations achieve situational awareness of the the orbital space environment.
+These specificlly include:
+- observation, detection, identification, re-identification, and tracking processes of satellites in orbit
+- the physical systems and infrastructure, e.g., SSA networks (telescopes, etc.)
+- the observations and measurements themselves
+
+If expanded, the SSAO scope is the broader SSA domain. This includes class terms for the satellites themselves, other types of orbiting objects, etc. As such, an expanded version of the SSA will include terms from ODO.
+This is TBD.
+
+## Status
 
 ## Creator
-Robert J. Rovetto
-rrovetto@terpalum.umd.edu
-ORCID: 
 
-# Status
-Under development (dependent on funding, collaboration, and circumstances to sustainably work on the project).
-Subject to revision, merger with other ontologies, name-change etc.
-No claims to completeness are made.
+## Publications
 
-# Publications & References
-
-[1] "An 
+## Contact
+ 
