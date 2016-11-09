@@ -1,7 +1,7 @@
 # The Orbital Debris Ontology (ODO)
 
 ## Description
-ODO is a computational ontology of orbital debris. 
+ODO is a computational ontology formally representing orbital debris. 
 
 #Publications#
 * [1]_“An Ontological Architecture for Orbital Debris Data”_, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 
