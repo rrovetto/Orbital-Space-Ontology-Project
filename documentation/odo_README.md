@@ -10,7 +10,9 @@ rrovetto@terpalum.umd.edu
 ORCID: 
 
 # Status
-
+Under development (dependent on funding, collaboration, and circumstances to sustainably work on the project).
+Subject to revision, merger with other ontologies, name-change etc.
+No claims to completeness are made.
 
 # Publications & References
 
