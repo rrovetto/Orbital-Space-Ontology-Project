@@ -3,17 +3,17 @@
 ## Description
 ODO is a computational ontology formally representing orbital debris. 
 
-#Publications#
+## Publications
 * [1]_“An Ontological Architecture for Orbital Debris Data”_, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 
 URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
 
-##Scope
+## Scope
 * ODO minimally consists of class terms for types of orbital debris, their properties and the interelations thereof.
 The scope/domain-demarcation of ODO and my related ontologies is under development, and the overall ontology suite subject to revision:
 * The orbital debris domain, broadly construed, involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion) of objects in space. As such this is part of the space situational awareness domain, of which orbital debris is a major concern. The central focus is the orbital space environment. 
 * OD domain classes can be part of or imported into a broader ontology, e.g., an Orbital Space Ontology[3][4], Orbital Object Ontology, Space Situational Awareness Ontology [2], etc. See my other repositories. 
 
-##Purpose and Goals##
+## Purpose and Goals
 ODO is intended to...
 * Provide a general and common terminology and taxonomy of orbital debris about Earth and any central body, and other relevant entities. (= a general purpose space debris ontology/vocabulary)
 * Help facilitate data-sharing and integration among orbital debris and space object catalogues/databases
@@ -39,9 +39,9 @@ NOTE: Contact rrovetto@terpalum.umd.edu if you are interested in helping with th
 ## History & Contextual-Efforts
 This has been a pursuit since 2011, when I conceived of this concept (verification available upon request).  Since then I've been searching for a funded opportunity (employment, PhD fellowship, research position, researcher-training network, mentors, a team, etc.) to sustainably work on, develop, and implement this ontology in a team environment with professionals in astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed enough paper cocepts on this to make it a Phd project.
 
-##Contact##
+##Contact
 Ontology creator: Robert J. Rovetto
-Email: rrovetto@terpalum.umd.edu
+Email: rrovetto[at]terpalum.umd.edu
 
-##License##
+## License
 (c) Copyright 2011-2016 Robert J. Rovetto. All rights reserved.
