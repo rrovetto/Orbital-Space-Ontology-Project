@@ -52,5 +52,8 @@ Space studies coursework from American Military University.
 
 * [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
 
+## History, Author Bio-Contextual-Efforts
+This project has been a pursuit since 2011, when I conceived of the concept for applying ontology to the orbital debris domain toward improving the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). When not pursuing employment or maritime search and rescue, I've searched for (and continue to) a funded opportunity to sustainably work on, develop, and implement this ontology in a team environment with professionals in the requisite disciplines astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed enough paper cocepts on this to make it a PhD project, and seek to also complete a space discipline degree, astronauitcs and orbital dynamics being my original passions. 
+
 ## License
 Copyright (c) Robert J. Rovetto 2011-2017.
