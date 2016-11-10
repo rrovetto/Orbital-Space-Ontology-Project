@@ -16,6 +16,10 @@ This project consists of developing one or more ontologies for the orbital space
   An ontology of objects in orbital motion with orbital space of some central body or barycenter
 * **NESEO - THe Near-Earth Space Environment Ontology**
   An ontology specifically for the near-Earth environment
+* **AMO - The Astrodynamics Modeling Ontology**
+  An ontology of the astrodynamic models for objects in orbits. 
+* **SWO - Space Weather Ontology**
+  An ontology of space weather phenomena.
 
 ## Status
 Under development.
