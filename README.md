@@ -1,7 +1,8 @@
 # The Orbital Space Ontology Project
 This project consists of developing one or more ontologies for the orbital space domain, construed to be orbital space environemnt and the scope of space situational awareness. The following non-exhaustive list of ontologies are under development and conceived as part of a modular architecture, some or all of which may compse or be imported into a single large ontology called OSO (OSEO) (to be developed) to encompass the entire scope or domain of the ontology.
 
-## Ontologies (subject to revision, merger, etc.)
+## Ontologies 
+(subject to revision, merger, etc.)
 * **OO - The Orbital Ontology**
   A general purpose ontology for (i) representing orbits of any satellite, (ii) providing a common orbital terminology for other ontologies.
 * **OSO (OSEO)- The Orbital Space Ontology (Orbital Space Environment/Domain Ontology)**
@@ -23,11 +24,11 @@ This project consists of developing one or more ontologies for the orbital space
   SWO classes may be found in existing astronomy ontologies(TBD) 
 
 ## Status
-Under development. Subject to revision. No claims to completeness. 
+Under development. Subject to revision. No claims to completeness. Project partners wanted.
 
-**SEEKING funded opportunities to sustainably develop and complete the ontologies:**
-* Funded degree program (BS, MS in space subject; PhD in ontology, phi, interdisciplinary, or space studies); 
-* Employment contract, 
+**SEEKING funded opportunities to sustainably develop this project. Example opportunnities of interest include:**
+* Funded degree program (BS, MS in a space subject; PhD in ontology, philosophy, or interdisciplinary with space); 
+* Employment contract 
 * Grants (e.g., with NASA, ESA, EU, etc.)
 * University professors or companies to partner with to apply for grants 
 * Partners, coauthors, etc.
