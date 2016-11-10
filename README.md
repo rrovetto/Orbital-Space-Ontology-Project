@@ -42,9 +42,9 @@ rrovetto[at]terpalum.umd.edu
 
 * [2]_“Preliminaries of a Space Situational Awareness Ontology”_, Robert John Rovetto, T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
 
-* [3] _"The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data", AMOS 2016, (Paper, and Poster presentation http://amostech.com/agenda/poster-presenters-2/)
+* [3] _"[The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf)", The Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016, (Paper, and Poster presentation)
 
-* [4] "Orbital Space Environment and Space Situational Awareness Domain Ontology" In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016. [Project summary paper] (http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)
+* [4] "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)" In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016.
 
 
 ## License
