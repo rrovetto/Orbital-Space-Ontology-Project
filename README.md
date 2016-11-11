@@ -1,5 +1,5 @@
 # The Orbital Space Ontology Project
-This project consists of developing one or more ontologies for the orbital space domain, construed to be orbital space environemnt and the scope of space situational awareness. The following non-exhaustive list of ontologies are under development and conceived as part of a modular architecture, some or all of which may compse or be imported into a single large ontology called OSO (OSEO) (to be developed) to encompass the entire scope or domain of the ontology.
+This project consists of developing one or more ontologies whose scope or domain is that of the orbital space environemnt and space situational awareness (SSA). The focus is on orbital phenomena and SSA. The following non-exhaustive list of ontologies are under development and conceived as part of a modular architecture, some or all of which may compse or be imported into a single large ontology called OSO (OSEO) (to be developed) to encompass the entire scope or domain of the ontology.
 
 ## Ontologies 
 (subject to revision, merger, etc.)
@@ -24,16 +24,16 @@ This project consists of developing one or more ontologies for the orbital space
   SWO classes may be found in existing astronomy ontologies(TBD) 
 
 ## Status
-Under development. Subject to revision. No claims to completeness. Project partners wanted.
+Under development. Subject to revision. No claims to completeness. _Funding and project partners wanted_.
 
-**SEEKING funded opportunities to sustainably develop this project. Example opportunnities of interest include:**
-* Funded degree program (BS, MS in a space subject; PhD in ontology, philosophy, or interdisciplinary with space); 
-* Employment contract 
+**SEEKING funded opportunities to sustainably develop this project. Opportunnities of interest include:**
+* A funded degree studentship (BS, MS in a space discipline; and PhD in ontology, philosophy, or interdisciplinary with space) 
+* An employment contract 
 * Grants (e.g., with NASA, ESA, EU, etc.)
-* University professors or companies to partner with to apply for grants 
+* University professors and companies to partner with to apply for grants 
 * Partners, coauthors, etc.
 
-The scope of each ontology will overalp, which means there will be a set of ontology terms shared among the subdomain ontologies. This set of classes will tentatively be placed in an ontology file to be imported as a space term ontology core for the others.
+The scope of each ontology will overalp--there will be a set of ontology terms shared among the subdomain ontologies. This set of classes will tentatively be placed in an ontology file to be imported as a core orbital ontology for the others.
 
 ## Creator/Developer
 Robert J. Rovetto
@@ -54,7 +54,7 @@ Space studies coursework from American Military University.
 * [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
 
 ## History, Author Bio-Contextual-Efforts
-This project has been a pursuit since 2011, when I conceived of the concept for applying ontology to the orbital debris domain toward improving the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). When not pursuing employment or maritime search and rescue, I've searched for (and continue to) a funded opportunity to sustainably work on, develop, and implement this ontology in a team environment with professionals in the requisite disciplines astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed enough paper cocepts on this to make it a PhD project, and seek to also complete a space discipline degree, astronauitcs and orbital dynamics being my original passions. 
+This has been a pursuit since 2011 when I conceived of the concept for applying ontology to the orbital debris domain toward improving the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). I continue to search for an opportunity to sustainably work on and complete this project, ideally in a team environment with professionals with the required knowledge, e.g., astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed enough paper concepts to make this a PhD project, but also seek to enter a space discipline degree program, with astronauitcs and orbital dynamics being my original passions. 
 
 ## License
 Copyright (c) Robert J. Rovetto 2011-2017.
