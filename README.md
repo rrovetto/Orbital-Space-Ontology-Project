@@ -38,7 +38,7 @@ The scope of each ontology will overalp--there will be a set of ontology terms s
 ## Creator/Developer
 Robert J. Rovetto
 rrovetto[at]terpalum.umd.edu
-Ontologist, Philosopher, Volunteer maritime search & rescue trainee, Aspiring student
+Ontologist, Philosopher, Aspiring student
 Alumnus of Univ.of Maryland, & The State University of New York. 
 Space studies coursework from American Military University.
 
