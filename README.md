@@ -35,6 +35,9 @@ Under development. Subject to revision. No claims to completeness. _Funding and 
 
 The scope of each ontology will overalp--there will be a set of ontology terms shared among the subdomain ontologies. This set of classes will tentatively be placed in an ontology file to be imported as a core orbital ontology for the others.
 
+### Example Users
+* A planetary orbit visualization application, NASA
+
 ## Creator/Developer
 Robert J. Rovetto
 rrovetto[at]terpalum.umd.edu
