@@ -7,7 +7,7 @@ ODO is a computational ontology formally representing orbital debris.
 * [1]_“An Ontological Architecture for Orbital Debris Data”_, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 
 URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
 * [2] “Orbital Debris Ontology”, Center for Orbital Debris Education and Research (CODER), University of Maryland, 15-17 November 2016. URL= http://dx.doi.org/10.13140/RG.2.2.26231.21928
-* [2] “Preliminaries of a Space Situational Awareness Ontology”, Robert John Rovetto, T.S. Kelso. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016. Proceedings published in the Advances in the Astronautical Sciences, vol 158, Univelt Inc. URL= http://www.univelt.com/book=5920. Proceedings URL= http://www.univelt.com/book=5955. Pre-print(PDF): https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf
+* [3] “Preliminaries of a Space Situational Awareness Ontology”, Robert John Rovetto, T.S. Kelso. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016. Proceedings published in the Advances in the Astronautical Sciences, vol 158, Univelt Inc. URL= http://www.univelt.com/book=5920. Proceedings URL= http://www.univelt.com/book=5955. Pre-print(PDF): https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf
 
 ## Scope
 * ODO minimally consists of class terms for types of orbital debris, their properties and the interelations thereof.
