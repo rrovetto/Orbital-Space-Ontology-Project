@@ -1,12 +1,14 @@
 Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). 
 
-**PROJECT GOAL(General):**  the development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. 
-**SCOPE/DOMAIN:** SSA and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
-**STATUS:**
+### PROJECT GOAL(General) 
+The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. 
+
+### SCOPE/DOMAIN
+SSA and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
+
+### STATUS
 * Under development, subject to revision. No claims to completeness. Seeking subject-matter experts.
 * Funding needed to sustainably develop the project. Interested parties should contact the author.
-
-**Ontology:** _Computational ontologies_ are computer-readable generic terminologies with a formal semantics. They provide data and knowledge models for software applications to draw from and reason over. Their class terms (and formal definitions) provide semantic annotation of database terms, which provides meaning to data. Ontology engineering is related to the fields of information/data science, linked-data, semantic web, artificial intelligence, and database management. Semantic interoperability, data-exchange, data-fusion, data-mining, data-extraction, and knowledge representation are practical aims of ontologies. Concepts and distinctions from philosophical and formal ontology are often used.
 
 ###Project Goals (specific)
 * an orbital and SSA _terminology_ that can be used across ontologies and platforms
@@ -58,6 +60,10 @@ Robert J. Rovetto
 
 ## History: Author Bio-Contextual-Efforts
 This project has been a pursuit since 2011, when I conceived of the concept for applying ontology to the orbital debris (1) (OD) domain toward improving the OD hazard via ontology-based data sharing and integration (verifying documents and references available upon request). When not pursuing employment or maritime search and rescue, I've searched for (and continue to) a funded opportunity to sustainably work on this project in a team environment with professionals in the required disciplines astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed enough paper cocepts on this to make it a PhD project, and seek to also complete a space discipline degree, astronautics and orbital dynamics being my original passions. 
+
+### Background
+_Computational ontologies_ are computer-readable generic terminologies with a formal semantics. They provide data and knowledge models for software applications to draw from and reason over. Their class terms (and formal definitions) provide semantic annotation of database terms, which provides meaning to data. Ontology engineering is related to the fields of information/data science, linked-data, semantic web, artificial intelligence, and database management. Semantic interoperability, data-exchange, data-fusion, data-mining, data-extraction, and knowledge representation are practical aims of ontologies. Concepts and distinctions from philosophical and formal ontology are often used.
+
 
 ## License
 Copyright (c) Robert J. Rovetto 2011-2017.
