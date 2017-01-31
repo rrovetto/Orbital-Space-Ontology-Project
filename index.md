@@ -1,16 +1,16 @@
 Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). 
 
-### PROJECT GOAL(General)
+## PROJECT GOAL(General)
 The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. 
 
-### SCOPE/DOMAIN
+## SCOPE/DOMAIN
 SSA and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
 
-### STATUS
+## STATUS
 * Under development, subject to revision. No claims to completeness. Seeking subject-matter experts.
 * Funding needed to sustainably develop the project. Interested parties should contact the author.
 
-###Project Goals (specific)
+## Project Goals (specific)
 * an orbital and SSA _terminology_ that can be used across ontologies and platforms
 * formal, conceptual and philosophical analysis of fundamental astronautical, astrodynamic and orbital concepts
 * a general-purpose orbital ontology to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
@@ -19,7 +19,7 @@ SSA and the orbital and near-Earth space environment. A specific sub-domain focu
 * _Reducing complexity_ of programming by providing a thorough data model for software to draw upon
 * Identifying applications in space agencies where it may be of benefit, e.g., interconnection with NASA SWEET ontologies
 
-###Ontologies being developed include
+## Ontologies being developed include
 * The Orbital Debris Ontology (ODO) (1)  
 
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
