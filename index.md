@@ -2,7 +2,7 @@ Welcome to the current landing page for the [Orbital Space Ontology Project](htt
 
 _Computational ontologies_ are computer-readable generic terminologies and taxonomies with a formal semantics. They are applicable to any data-intensive field, and provide data and knowledge models for software applications to draw from and reason over. Their class terms (and formal definitions) provide semantic annotation of database terms, which provides meaning to data. Ontology engineering is related to the fields of information/data science, linked-data, semantic web, artificial intelligence, and database management. Semantic interoperability, data-exchange, data-fusion, data-mining, data-extraction, and knowledge representation are practical aims of ontologies. Concepts and distinctions from philosophical and formal ontology are often used.
 
-**Project goals include**
+###Project goals include###
 * an orbital and SSA _terminology_ that can be used across ontologies and platforms
 * formal, conceptual and philosophical analysis of fundamental astronautical, astrodynamic and orbital concepts
 * a general-purpose orbital ontology to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
@@ -11,7 +11,7 @@ _Computational ontologies_ are computer-readable generic terminologies and taxon
 * _Reducing complexity_ of programming by providing a thorough data model for software to draw upon
 * Identifying applications in space agencies where it may be of benefit, e.g., interconnection with NASA SWEET ontologies
 
-**Ontologies being developed include**
+###Ontologies being developed include###
 * The Orbital Debris Ontology (ODO) (1)  
 
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
