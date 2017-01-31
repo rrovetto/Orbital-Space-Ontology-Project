@@ -7,8 +7,12 @@ The development of a computational ontology or ontology suite for astronautical 
 Space situational awareness(SSA) and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
 
 ### STATUS
-* Under development, subject to revision. No claims to completeness. Seeking subject-matter experts.
-* Funding needed to sustainably develop the project. Interested parties should contact the author.
+* Ontoogies are under development, subject to revision. No claims to completeness.
+Seeking:
+* funding, partners, subject-matter experts, developers to sustainably develop. Interested parties should contact the author at rrovetto@buffalo.edu
+* Contract work, distance work
+* Grants & professors or companies to apply for grants
+* Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
 ### Project Goals (specific)
 * one or more orbital and SSA _terminology_ 
@@ -21,23 +25,15 @@ Space situational awareness(SSA) and the orbital and near-Earth space environmen
 
 ### Ontologies being developed include 
 * The Orbital Debris Ontology (ODO) (1)  
-
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
+  
 * The Space Situational Awareness Ontology (SSAO) (2)  
-
   Near Future: the SSAO OWL file will be located at www.purl.org/space-ontology/ssao.owl  
-
   The SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery) project at NASA.
-* Orbital Ontology - a generic base ontology containing the core orbital terms used by ODO, SSAO and other terms
-(subject to revisiono, merger, etc.)
+ 
+* Orbital Ontology - a generic base ontology containing the core orbital terms used by ODO, SSAO and other terms (subject to revisiono, merger, etc.)
  
 Each ontology may form a sub-domain of the overall scope, collectively forming a _modular architecture_ for reuse is distinct applications. For example, an ontology of orbital space environment requires modeling the object, events, their interrelations; and the observations, measurements, and astrodynamic modeling thereof.
-
-**SEEKING funded opportunities such as**
-* Contract work, distance work
-* Grants (e.g., with NASA, ESA, EU, etc.)
-* University professors or organizations to apply for grants (contact author for details)
-* Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
 ### Publications
 * (1)_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
@@ -63,7 +59,6 @@ This project has been a desired PhD topic since 2011 when I realized applying on
 
 ### Background
 _Computational ontologies_ are computer-readable generic terminologies with a formal semantics. They provide data and knowledge models for software applications to draw from and reason over. Their class terms (and formal definitions) provide semantic annotation of database terms, which provides meaning to data. Ontology engineering is related to the fields of information/data science, linked-data, semantic web, artificial intelligence, and database management. Semantic interoperability, data-exchange, data-fusion, data-mining, data-extraction, and knowledge representation are practical aims of ontologies. Concepts and distinctions from philosophical and formal ontology are often used.
-
 
 ## License
 Copyright (c) Robert J. Rovetto 2011-2017.
