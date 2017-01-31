@@ -22,7 +22,7 @@ Space situational awareness(SSA) and the orbital and near-Earth space environmen
 * Teaching Innovation by applying ontologies to _space visualizations/graphical-simulations_, and conceptual modeling.
 * _Reducing complexity_ of programming by providing a thorough data model for software to draw upon
 * Identifying applications in space agencies where it may be of benefit, e.g., interconnection with NASA SWEET ontologies
-
+ 
 #### Ontologies being developed include 
 * The Orbital Debris Ontology (ODO) (1)  
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
