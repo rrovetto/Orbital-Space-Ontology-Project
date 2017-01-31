@@ -25,7 +25,7 @@ The development of a computational ontology or ontology suite for astronautical 
 * Orbital Ontology - a generic base ontology containing the core orbital terms used by ODO, SSAO and other terms (subject to revisiono, merger, etc.)
  
 Each ontology may form a sub-domain of the overall scope, collectively forming a _modular architecture_ for reuse is distinct applications. For example, an ontology of orbital space environment requires modeling the object, events, their interrelations; and the observations, measurements, and astrodynamic modeling thereof.
-
+ 
 #### Project Goals (specific)
 * one or more orbital and SSA _terminology_ 
 * a general-purpose orbital ontology (OO) to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
