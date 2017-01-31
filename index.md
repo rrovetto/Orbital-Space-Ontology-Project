@@ -1,19 +1,19 @@
 Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). 
 
-### PROJECT GOAL(General)
+### PROJECT GOAL (general)
 The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. 
 
-### SCOPE/DOMAIN
-SSA and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
+### SCOPE/DOMAIN OF INTEREST
+Space situational awareness(SSA) and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
 
 ### STATUS
 * Under development, subject to revision. No claims to completeness. Seeking subject-matter experts.
 * Funding needed to sustainably develop the project. Interested parties should contact the author.
 
 ### Project Goals (specific)
-* an orbital and SSA _terminology_ that can be used across ontologies and platforms
-* formal, conceptual and philosophical analysis of fundamental astronautical, astrodynamic and orbital concepts
+* one or more orbital and SSA _terminology_ 
 * a general-purpose orbital ontology to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
+* formal, conceptual and philosophical analysis of fundamental astronautical, astrodynamic and orbital concepts
 * _Data sharing_ and integration among orbital debris or space object catalogues
 * Teaching Innovation by applying ontologies to _space visualizations/graphical-simulations_, and conceptual modeling.
 * _Reducing complexity_ of programming by providing a thorough data model for software to draw upon
@@ -59,7 +59,7 @@ Robert J. Rovetto
 * Alumnus of Univ.of Maryland, and The State University of New York. Some space studies coursework from American Military University.
 
 ### History: Author Bio-Contextual-Efforts
-This project has been a pursuit since 2011, when I conceived of the concept for applying ontology to the orbital debris (1) (OD) domain toward improving the OD hazard via ontology-based data sharing and integration (verifying documents and references available upon request). When not pursuing employment or maritime search and rescue, I've searched for (and continue to) a funded opportunity to sustainably work on this project in a team environment with professionals in the required disciplines astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed enough paper cocepts on this to make it a PhD project, and seek to also complete a space discipline degree, astronautics and orbital dynamics being my original passions. 
+This project has been a desired PhD topic since 2011 when I realized applying ontology to the orbital debris (1) (OD) domain might help improving the OD hazard by facilitating sharing and integration (verifying documents/references available upon request. Hat tip to David Vallado, AGI.). I've hoped to use it toward a foot-in-the-door to space eduation and entering the space sector (ideally NASA or ESA). However, since 2011 I've not been able to find a PhD or undergraduate position for this as a thesis. Additionally in that time, I pursued an ongoing search to do public service in maritime search and rescue. Finally and unfortunately, in the time since ideation of this project, persons and companies have seen the potential utility of it and took my ideas. I therefore urgently seek a funded opportunity to sustainably work on this project in a team environment with professionals in the required disciplines of astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed many paper cocepts for co-authorship with interested parties, and have identified grants we may apply to. In pursuing this project I seek to find an opportunity to complete a STEM or interdisciplinary space degree (e.g., astronautics, astronautical engienering, astrodynamics, etc). 
 
 ### Background
 _Computational ontologies_ are computer-readable generic terminologies with a formal semantics. They provide data and knowledge models for software applications to draw from and reason over. Their class terms (and formal definitions) provide semantic annotation of database terms, which provides meaning to data. Ontology engineering is related to the fields of information/data science, linked-data, semantic web, artificial intelligence, and database management. Semantic interoperability, data-exchange, data-fusion, data-mining, data-extraction, and knowledge representation are practical aims of ontologies. Concepts and distinctions from philosophical and formal ontology are often used.
