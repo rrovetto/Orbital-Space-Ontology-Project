@@ -17,7 +17,7 @@ The development of a computational ontology or ontology suite for astronautical 
 #### Ontologies being developed include 
 * **The Orbital Debris Ontology (ODO)** (1)  
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
-   
+    
 * **The Space Situational Awareness Ontology (SSAO)** (2) (possibly renaming to the Orbital Space Environment Ontology(OSO)  
   Near Future: the SSAO OWL file will be located at www.purl.org/space-ontology/ssao.owl  
   The SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery) project at NASA.
