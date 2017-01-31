@@ -1,4 +1,4 @@
-Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Interested parties should contact the author at rrovetto@buffalo.edu.
+Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@buffalo.edu.
 
 #### Project Goal (general)
 The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. The scope/domain-of-interest is Space situational awareness(SSA) and the orbital and near-Earth space environment. A specific sub-domain is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
@@ -8,24 +8,29 @@ The development of a computational ontology or ontology suite for astronautical 
 * Contact rrovetto@buffalo.edu for the ontology files
 * Open development - contact to help develop the ontologies
 
-**_Seeking:_**
+##### Seeking
 * funding, partners, subject-matter experts, developers to sustainably develop. 
 * Contract work, distance work
 * Grants & professors or companies to apply for grants
 * Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
 #### Ontologies being developed include 
-* The Orbital Debris Ontology (ODO) (1)  
+* **The Orbital Debris Ontology (ODO)** (1)  
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
    
-* The Space Situational Awareness Ontology (SSAO) (2) (possibly renaming to the Orbital Space Environment Ontology(OSO)  
+* **The Space Situational Awareness Ontology (SSAO)** (2) (possibly renaming to the Orbital Space Environment Ontology(OSO)  
   Near Future: the SSAO OWL file will be located at www.purl.org/space-ontology/ssao.owl  
   The SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery) project at NASA.
  
 * Orbital Ontology - a generic base ontology containing the core orbital terms used by ODO, SSAO and other terms (subject to revisiono, merger, etc.)
- 
+
 Each ontology may form a sub-domain of the overall scope, collectively forming a _modular architecture_ for reuse is distinct applications. For example, an ontology of orbital space environment requires modeling the object, events, their interrelations; and the observations, measurements, and astrodynamic modeling thereof.
- 
+
+The ontologies aiim to be used by and developed for NASA ontologies and data resources, e.g., NASA SWEET, IVOA ontologies, and elsewhere.
+
+Database-specific Ontologies
+* [The Union of Concerned Scientists Satellite Database Ontology](www.purl.org/space-ontology/ucsso) (UCSSO) (6)
+
 #### Project Goals (specific)
 * one or more orbital and SSA _terminology_ 
 * a general-purpose orbital ontology (OO) to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
@@ -44,7 +49,10 @@ Each ontology may form a sub-domain of the overall scope, collectively forming a
 
 * (4) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)", Rovetto, R.J. In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016.
 
-* [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
+* (5) "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
+
+* (6) "An Ontology for Satellite Databases" (forthcoming, Earth Science Informatics, 2017)
+* (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming)
 
 #### Author/Creator 
 Robert J. Rovetto
