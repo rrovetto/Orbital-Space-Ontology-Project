@@ -1,14 +1,14 @@
 Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). 
 
-#### PROJECT GOAL (general)
+#### Project Goal (general)
 The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. 
 
-#### SCOPE/DOMAIN OF INTEREST
+#### Scope/Domain of Interest
 Space situational awareness(SSA) and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
 
-#### STATUS
-* Ontoogies are under development, subject to revision. No claims to completeness.
-Seeking:
+#### Status
+* Ontoogies (SSAO/OSO, ODO, OO, UCSSO) are under development, subject to revision. No claims to completeness.
+**_Seeking:_**
 * funding, partners, subject-matter experts, developers to sustainably develop. Interested parties should contact the author at rrovetto@buffalo.edu
 * Contract work, distance work
 * Grants & professors or companies to apply for grants
