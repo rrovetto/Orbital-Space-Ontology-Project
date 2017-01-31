@@ -5,7 +5,7 @@ The development of a computational ontology or ontology suite for astronautical 
 
 #### Status
 * Ontoogies are under development, subject to revision, No claims to completeness are made. 
-* Open development - contact author to help develop the ontologies
+* Open development - contact author to help develop the ontologies 
 ##### Seeking
 * funding, partners, subject-matter experts, developers to sustainably develop. 
 * Contract work, distance work
