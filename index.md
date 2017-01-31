@@ -1,20 +1,18 @@
-Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@buffalo.edu.
+Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@buffalo.edu. Ontologies available upon request.
 
 #### Project Goal (general)
 The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. The scope/domain-of-interest is Space situational awareness(SSA) and the orbital and near-Earth space environment. A specific sub-domain is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
 
 #### Status
-* Ontoogies are under development, subject to revision. No claims to completeness.
-* Contact rrovetto@buffalo.edu for the ontology files
-* Open development - contact to help develop the ontologies
-
+* Ontoogies are under development, subject to revision, No claims to completeness are made. 
+* Open development - contact author to help develop the ontologies
 ##### Seeking
 * funding, partners, subject-matter experts, developers to sustainably develop. 
 * Contract work, distance work
 * Grants & professors or companies to apply for grants
 * Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
-#### Ontologies being developed include 
+#### Ontologies being developed include (Available upon request)
 * **The Orbital Debris Ontology (ODO)** (1)  
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
     
@@ -28,7 +26,7 @@ Each ontology may form a sub-domain of the overall scope, collectively forming a
 
 The ontologies aiim to be used by and developed for NASA ontologies and data resources, e.g., NASA SWEET, IVOA ontologies, and elsewhere.
 
-Database-specific Ontologies
+**Database-specific Ontologies**
 * [The Union of Concerned Scientists Satellite Database Ontology](www.purl.org/space-ontology/ucsso) (UCSSO) (6)
 
 #### Project Goals (specific)
@@ -56,8 +54,7 @@ Database-specific Ontologies
 
 #### Author/Creator 
 Robert J. Rovetto
-* rrovetto[at]terpalum.umd.edu
-* robert.rovetto[at]amu.apus.edu
+* Emails: rrovetto[at]terpalum.umd.edu, robert.rovetto[at]amu.apus.edu, rrovetto@buffalo.edu
 * [Author ORCID](http://orcid.org/0000-0003-3835-7817)
 * [Author GitHub homepage](http://github.com/rrovetto)
 * Alumnus of Univ.of Maryland, and The State University of New York. Some space studies coursework from American Military University.
