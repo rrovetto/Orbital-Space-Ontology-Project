@@ -2,7 +2,7 @@ title: The Orbital Space Ontology Project
 description: Ontology Engineering for Space
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
