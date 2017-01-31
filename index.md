@@ -13,7 +13,7 @@ The development of a computational ontology or ontology suite for astronautical 
 * Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
 #### Ontologies being developed include (Available upon request)
-* **[The Orbital Debris Ontology](www.purl.org/space-ontology/odo) (ODO)** (1)  
+* [The Orbital Debris Ontology](https://www.purl.org/space-ontology/odo) (ODO) (1)  
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
     
 * **The Space Situational Awareness Ontology (SSAO)** (2) (possibly renaming to the Orbital Space Environment Ontology(OSO)  
@@ -28,7 +28,7 @@ The ontologies aiim to be used by and developed for NASA ontologies and data res
 
 **Database-specific Ontologies**
 
-* [The Union of Concerned Scientists Satellite Database Ontology](www.purl.org/space-ontology/ucsso) (UCSSO) (6)
+* [The Union of Concerned Scientists Satellite Database Ontology](https://www.purl.org/space-ontology/ucsso) (UCSSO) (6)
 
 #### Project Goals (specific)
 * one or more orbital and SSA _terminology_ 
