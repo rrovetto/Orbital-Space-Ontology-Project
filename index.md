@@ -1,12 +1,12 @@
 Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). 
 
-### PROJECT GOAL (general)
+#### PROJECT GOAL (general)
 The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. 
 
-### SCOPE/DOMAIN OF INTEREST
+#### SCOPE/DOMAIN OF INTEREST
 Space situational awareness(SSA) and the orbital and near-Earth space environment. A specific sub-domain focus is [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015),[space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), general orbitology, space operations, and modeling activities. 
 
-### STATUS
+#### STATUS
 * Ontoogies are under development, subject to revision. No claims to completeness.
 Seeking:
 * funding, partners, subject-matter experts, developers to sustainably develop. Interested parties should contact the author at rrovetto@buffalo.edu
@@ -14,7 +14,7 @@ Seeking:
 * Grants & professors or companies to apply for grants
 * Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
-### Project Goals (specific)
+#### Project Goals (specific)
 * one or more orbital and SSA _terminology_ 
 * a general-purpose orbital ontology to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
 * formal, conceptual and philosophical analysis of fundamental astronautical, astrodynamic and orbital concepts
@@ -23,7 +23,7 @@ Seeking:
 * _Reducing complexity_ of programming by providing a thorough data model for software to draw upon
 * Identifying applications in space agencies where it may be of benefit, e.g., interconnection with NASA SWEET ontologies
 
-### Ontologies being developed include 
+#### Ontologies being developed include 
 * The Orbital Debris Ontology (ODO) (1)  
   Near Future: the ODO OWL file will be located at www.purl.org/space-ontology/odo.owl
   
@@ -35,7 +35,7 @@ Seeking:
  
 Each ontology may form a sub-domain of the overall scope, collectively forming a _modular architecture_ for reuse is distinct applications. For example, an ontology of orbital space environment requires modeling the object, events, their interrelations; and the observations, measurements, and astrodynamic modeling thereof.
 
-### Publications
+#### Publications
 * (1)_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
 
 * (2)_“[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
@@ -46,7 +46,7 @@ Each ontology may form a sub-domain of the overall scope, collectively forming a
 
 * [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
 
-### Author/Creator 
+#### Author/Creator 
 Robert J. Rovetto
 * rrovetto[at]terpalum.umd.edu
 * robert.rovetto[at]amu.apus.edu
@@ -54,10 +54,10 @@ Robert J. Rovetto
 * [Author GitHub homepage](http://github.com/rrovetto)
 * Alumnus of Univ.of Maryland, and The State University of New York. Some space studies coursework from American Military University.
 
-### History: Author Bio-Contextual-Efforts
+#### History: Author Bio-Contextual-Efforts
 This project has been a desired PhD topic since 2011 when I realized applying ontology to the orbital debris (1) (OD) domain might help improving the OD hazard by facilitating sharing and integration (verifying documents/references available upon request. Hat tip to David Vallado, AGI.). I've hoped to use it toward a foot-in-the-door to space eduation and entering the space sector (ideally NASA or ESA). However, since 2011 I've not been able to find a PhD or undergraduate position for this as a thesis. Additionally in that time, I pursued an ongoing search to do public service in maritime search and rescue. Finally and unfortunately, in the time since ideation of this project, persons and companies have seen the potential utility of it and took my ideas. I therefore urgently seek a funded opportunity to sustainably work on this project in a team environment with professionals in the required disciplines of astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed many paper cocepts for co-authorship with interested parties, and have identified grants we may apply to. In pursuing this project I seek to find an opportunity to complete a STEM or interdisciplinary space degree (e.g., astronautics, astronautical engienering, astrodynamics, etc). 
 
-### Background
+#### Backgorund - Ontology
 _Computational ontologies_ are computer-readable generic terminologies with a formal semantics. They provide data and knowledge models for software applications to draw from and reason over. Their class terms (and formal definitions) provide semantic annotation of database terms, which provides meaning to data. Ontology engineering is related to the fields of information/data science, linked-data, semantic web, artificial intelligence, and database management. Semantic interoperability, data-exchange, data-fusion, data-mining, data-extraction, and knowledge representation are practical aims of ontologies. Concepts and distinctions from philosophical and formal ontology are often used.
 
 ## License
