@@ -1,6 +1,6 @@
 Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). 
 
-### PROJECT GOAL(General) 
+### PROJECT GOAL(General)
 The development of a computational ontology or ontology suite for astronautical and space science applications. A specific aim is to develop domain ontologies for that can be used across federated databases. It is based on the publications listed below. 
 
 ### SCOPE/DOMAIN
