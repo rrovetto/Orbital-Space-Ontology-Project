@@ -30,7 +30,7 @@ SSA and the orbital and near-Earth space environment. A specific sub-domain focu
   The SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery) project at NASA.
 * Orbital Ontology - a generic base ontology containing the core orbital terms used by ODO, SSAO and other terms
 (subject to revisiono, merger, etc.)
-
+ 
 Each ontology may form a sub-domain of the overall scope, collectively forming a _modular architecture_ for reuse is distinct applications. For example, an ontology of orbital space environment requires modeling the object, events, their interrelations; and the observations, measurements, and astrodynamic modeling thereof.
 
 **SEEKING funded opportunities such as**
