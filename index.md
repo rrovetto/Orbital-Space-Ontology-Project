@@ -51,7 +51,7 @@ The ontologies aiim to be used by and developed for NASA ontologies and data res
 * (5) "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
 
 * (6) "An Ontology for Satellite Databases" (forthcoming, Earth Science Informatics, 2017)
-* (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming)
+* (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming) 
 
 #### Author/Creator 
 Robert J. Rovetto
