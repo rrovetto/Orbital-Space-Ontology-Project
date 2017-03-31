@@ -1,11 +1,13 @@
-# The Orbital Space Ontology Project
-This project consists of developing an ontology or ontology suite whose scope or domain is that of the orbital space environemnt and space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The ontologies are focused on formal representaitons of orbital phenomena, orbital concepts, space objects, and SSA. 
+# The Orbital Space Environment Domain Ontology Project
+This project consists of developing a domain reference ontology or ontology suite, whose scope is the orbital space environemnt and space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The focus is formal representaitons of orbits and other orbital phenomena, orbital concepts, space objects, spacecraft maneuvers, and SSA. The ontology is intended to be generalized so that it is applicable to any central body or orbital reference frame, i.e., to any planet where space situational awareness is necessary.
 
 The following non-exhaustive list of ontologies are under development and conceived as part of a modular architecture. Some or all of which may compse or be imported into a single large ontology (to be developed) called OSO (orbital space onology), OSDO (orbital space domain ontology), or OSEO (orbital space environment domain ontology) to encompass the entire scope or domain of the ontology.
 
-## Ontologies 
+When integrated each ontology module into a single ontology file, the whole may be called OSDO: The Orbital Space Domain Ontology. 
+
+## Ontologies
 (subject to revision, merger, etc.)
-* **OO - The Orbital Ontology**
+* **OO - The Orbital Ontology Core (the "Orbitology Ontology")**
   A general purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This will serve as a core ontology of high-level domain-specific classes for orbital entities for space domain ontologies. 
   www.purl.org/space-ontology/orbital
 * **OSO / OSDO/ OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology**
