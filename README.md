@@ -1,24 +1,24 @@
 # The Orbital Space Environment Domain Ontology Project
-This project consists of developing a domain reference ontology or ontology suite, whose scope is the orbital space environemnt and space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The focus is formal representaitons of orbits and other orbital phenomena, orbital concepts, space objects, spacecraft maneuvers, and SSA. The ontology is intended to be generalized so that it is applicable to any central body or orbital reference frame, i.e., to any planet where space situational awareness is necessary.
+This project consists of developing a domain reference ontology or ontology suite, whose scope is the orbital space environemnt and space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The focus is formal representaitons of orbits and other orbital phenomena, orbital concepts, space objects, spacecraft maneuvers, and SSA. The ontology is intended to be generalized so that it is applicable to any central body or orbital reference frame, i.e., to any planet. 
 
-The following non-exhaustive list of ontologies are under development and conceived as part of a modular architecture. Some or all of which may compse or be imported into a single large ontology (to be developed) called OSO (orbital space onology), OSDO (orbital space domain ontology), or OSEO (orbital space environment domain ontology) to encompass the entire scope or domain of the ontology.
+The following non-exhaustive list of ontologies are conceived as part of a modular architecture of the ontology suite. Some are under development, others are concepts. Some or all of these ontologies  may compse or be imported into a single large ontology (to be developed) I call OSO (orbital space onology), OSDO (orbital space domain ontology), or OSEO (orbital space environment domain ontology) (name is work-in-progress) to encompass the entire scope or domain of the ontology.
 
-When integrated each ontology module into a single ontology file, the whole may be called OSDO: The Orbital Space Domain Ontology. 
+When integrated each ontology module into a single ontology file, the whole may be called OSDO: The Orbital Space Domain Ontology. Project landing page: http://purl.org/space-ontology
 
 ## Ontologies
 (subject to revision, merger, etc.)
-* **OO - The Orbital Ontology Core (the "Orbitology Ontology")**
-  A general purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This will serve as a core ontology of high-level domain-specific classes for orbital entities for space domain ontologies. 
-  www.purl.org/space-ontology/orbital
-* **OSO / OSDO/ OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology**
-  The broadest scope encompassing and consisting of the following ontologies. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame.  
-* **OO - The Orbital Ontology
 * **ODO - The Orbital Debris Ontology**
   An ontology for orbital debris objects.
-  www.purl.org/space-ontology/odo
+  https://purl.org/space-ontology/odo
 * **SSAO - The Space Situational Awareness Ontology**
   An ontology for SSA processes yielding knowledge of orbital space environment 
-  www.purl.org/space-ontology/ssao
+  https://purl.org/space-ontology/ssao
+* **UCSSO - The Union of Concerned Scientists Satellite Ontology**
+  https://purl.org/space-ontology/ucsso
+* **OO - The Orbital Ontology Core (the "Orbitology Ontology")**
+  A general purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This will serve as a core ontology of high-level domain-specific classes for orbital entities for space domain ontologies. 
+* **OSO / OSDO/ OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology**
+  The broadest scope encompassing and consisting of the following ontologies. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame.  
 * **OEO - Orbital Event & Process Ontology**
   An ontology of occurrences in orbit, e.g. collisions
 * **OOO - Orbital Object Ontology**
@@ -32,7 +32,7 @@ When integrated each ontology module into a single ontology file, the whole may 
   SWO classes may be found in existing astronomy ontologies(TBD) 
 
 ## Status
-Under development. Subject to revision. No claims to completeness. _Funding and project partners wanted_.
+Under development. Subject to revision. No claims to completeness. _Funding and project partners wanted_
 
 **SEEKING funded opportunities to sustainably develop this project. Opportunnities of interest include:**
 * A funded degree studentship (BS, MS in a space discipline; and PhD in ontology, philosophy, or interdisciplinary with space) 
@@ -50,11 +50,14 @@ The scope of each ontology will overalp--there will be a set of ontology terms s
 Robert J. Rovetto
 rrovetto[at]terpalum.umd.edu
 Ontologist, Philosopher, Aspiring student
+[Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
+[National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
 Alumnus of Univ.of Maryland, & The State University of New York. 
 Space studies coursework from American Military University.
 
 ## Publications
 * [1]_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
+PDF: 
 
 * [2]_“[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
 
@@ -65,6 +68,8 @@ Space studies coursework from American Military University.
 * [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
 
 * [6] "Orbital Debris Ontology" (PPT presentation), presented at Center for Orbital Debris Education and Research (CODER), University of Maryland, College Park, MD, USA, 2016. Panel URL= http://www.coder.umd.edu/coder2016/sessions
+
+* [7] "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 
 ## History, Author Bio-Contextual-Efforts
 This has been a pursuit since 2011 when I conceived of the concept for applying ontology to the orbital debris domain to help ameliorate the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). I continue to search for an opportunity to work sustainably on and complete this project, ideally in a team environment with professionals with the required knowledge, e.g., astrodynamics, astroinformatics, computer science, and ontological engineering. I have developed enough paper concepts to make this a PhD project, but also seek to enter a space discipline degree program, with astronauitcs and orbital dynamics being my original passions. 
