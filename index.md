@@ -17,6 +17,20 @@ The scope or domain-of-interest include: the orbital and near-Earth space enviro
 * Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
 #### Ontologies being developed include (Available upon request)
+
+
+
+
+
+| Ontology Name        | Link           | Description  |
+| ------------- |:-------------:| -----:|
+| The Orbital Debris Ontology (ODO)     | https://purl.org/space-ontology/odo | An ontology for orbital debris objects. |
+| SSAO - The Space Situational Awareness Ontology   | https://purl.org/space-ontology/ssao      |   An ontology for SSA processes yielding knowledge of orbital space environment |
+| zebra stripes | are neat      |    $1 |
+
+
+
+
 * [The Orbital Debris Ontology](https://purl.org/space-ontology/odo) (ODO) (1)  
   Near Future: the ODO OWL file will be located at https://purl.org/space-ontology/odo.owl
     
