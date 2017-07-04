@@ -1,14 +1,14 @@
 Welcome to the current landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@terpalum.umd.edu. Ontologies available upon request.
 
-#### Project Goal (general)
-The development of a computational ontology or ontology suite for astronautics, the orbital space environment, space sciences, and applications thereof. A specific goal is to develop domain reference ontologies that can be used across federated space databases. A conceptual goal is the philosophical and formal ontological analysis of fundamental orbital and astrodynamic concepts. Work is based on the publications listed below.
+#### Project Goals
+The development of a computational ontology or ontology suite for astronautics, the orbital space environment and applications thereof. A specific goal is to develop accurate domain reference ontologies that can be used across federated space databases. A conceptual goal is the philosophical and formal ontological analysis of fundamental orbital and astrodynamic concepts. Work is based on the publications listed below.
 ### Scope 
-The scope or domain-of-interest include: the orbital and near-Earth space environment and space situational awareness(SSA). This includes: [orbital debris ontology](http://link.springer.com/article/10.1007/s12145-015-0233-3)(1)(Rovetto, ESI 2015), [space situational awareness(SSA)](https://arxiv.org/abs/1606.01924) (2)(Rovetto & Kelso, 2016), basic orbital concepts, space operations, spacecraft and other space objects, orbital processes, and modeling activities. 
+The scope or domain-of-interest include: the orbital and near-Earth space environment and space situational awareness(SSA). This includes: basic orbital concepts, satellites and other space objects, spacecraft maneuvers and operation, astrodynymic modeling, and thus [orbital debris ontology](https://arxiv.org/abs/1704.01014)(1)(Rovetto, ESI 2015) ([PPT here](https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail), [space situational awareness (SSA)](https://arxiv.org/abs/1606.01924)(2)(Rovetto & Kelso, 2016). 
 
 #### Status
 * Ontoogies are under development, subject to revision. No claims to completeness are made. 
-* Open development - contact author to help develop the ontologies 
-* Need funding or employment/studentship opportunity to work sustainably.
+* Open to collaborative development - contact author to help develop the ontologies 
+* Need funding or employment/studentship opportunity to work sustainably
 #### Seeking
 * Funding
 * Partners/co-workers: subject-matter experts (astrodynamicists) ontology developers, informaticists, computer scientistis. 
@@ -19,20 +19,14 @@ The scope or domain-of-interest include: the orbital and near-Earth space enviro
 #### Ontologies being developed include (Available upon request)
 
 
-
-
-
-| Ontology Name        | Link           | Description  |
+| Ontology Name        | Links           | Description  |
 | ------------- |:-------------:| -----:|
-| The Orbital Debris Ontology (ODO)     | https://purl.org/space-ontology/odo | An ontology for orbital debris objects. |
+| The Orbital Debris Ontology (ODO)     | [https://purl.org/space-ontology/odo](https://purl.org/space-ontology/odo) 
+Near Future: the ODO OWL file will be located at https://purl.org/space-ontology/odo.owl
+| An ontology for orbital debris objects and their properties. See reference (1) |
 | SSAO - The Space Situational Awareness Ontology   | https://purl.org/space-ontology/ssao      |   An ontology for SSA processes yielding knowledge of orbital space environment |
 | zebra stripes | are neat      |    $1 |
 
-
-
-
-* [The Orbital Debris Ontology](https://purl.org/space-ontology/odo) (ODO) (1)  
-  Near Future: the ODO OWL file will be located at https://purl.org/space-ontology/odo.owl
     
 * **The Space Situational Awareness Ontology (SSAO)** (2) (possibly renaming to the Orbital Space Environment Ontology(OSO)  
   Near Future: the SSAO OWL file will be located at https://purl.org/space-ontology/ssao.owl  
@@ -61,6 +55,7 @@ These ontologies aiim to be used by and developed for NASA ontologies and data r
 
 #### Publications
 * (1)_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
+PDF: https://arxiv.org/abs/1704.01014
 
 * (2)_“[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
 
@@ -72,6 +67,10 @@ These ontologies aiim to be used by and developed for NASA ontologies and data r
 
 * (6) "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 * (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming) 
+
+* "[Orbital Debris Ontology]" (https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail), PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
+
+* (9) [Ontology for Europe's Space Situational Awareness Programme] (https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf), 7th European Conference on Space Debris, Darmstadt, Germany.
 
 #### Author
 Robert J. Rovetto
