@@ -24,12 +24,12 @@ All ontologies in need of funding and partners to develop sustainably.
 * Other ontologies include: Space Weather ontology (SWO), Astrodynamics Modeling Ontology (AMO), Orbital Event & Process Ontology, Orbital Object Ontology, Space Object Ontology, Near-Earth Space Environment Ontology (NESEO), etc. 
 
 ### Specific Project Goals
-* one or more orbital and SSA _terminologies_ 
-* a general-purpose orbital ontology (OO) to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
-* formal, conceptual and philosophical analysis of fundamental astronautical, astrodynamic and orbital concepts
+* one or more orbital and SSA _terminologies_ and classification schemes for orbital debris objects and other space objects
+* to develop a scientifically accurate ontological model of the respective domains 
+* a general-purpose orbital ontology (OO) to ontologically model any orbit from inputted instance data (data on particular satellites)
 * _Data sharing_ and integration among orbital debris or space object catalogues
 * Teaching Innovation by applying ontologies to _space visualizations/graphical-simulations_, and conceptual modeling.
-* _Reducing complexity_ of programming by providing a thorough data model for software to draw upon
+* _Reducing complexity_ of programming by providing a thorough knowledge model
 * Identifying applications in space agencies where it may be of benefit, e.g., interconnection with NASA SWEET ontologies
 * ...
 
