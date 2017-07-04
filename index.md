@@ -6,7 +6,7 @@ The development of a computational ontology or ontology suite for astronautics, 
 The scope or domain-of-interest include: the orbital and near-Earth space environment and space situational awareness(SSA). This includes: basic orbital concepts, satellites and other space objects, spacecraft maneuvers and operation, astrodynymic modeling, and thus [orbital debris ontology](https://arxiv.org/abs/1704.01014)(1)(Rovetto, ESI 2015) ([PPT here](https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail), [space situational awareness (SSA)](https://arxiv.org/abs/1606.01924)(2)(Rovetto & Kelso, 2016). 
 
 #### Status
-* Ontoogies are under development, subject to revision. No claims to completeness are made. 
+* Ontoogies are under development, currently independently and unfunded. They are subject to revision. No claims to completeness are made. 
 * Open to collaborative development - contact author to help develop the ontologies 
 * Need funding or employment/studentship opportunity to work sustainably
 #### Seeking
@@ -17,26 +17,19 @@ The scope or domain-of-interest include: the orbital and near-Earth space enviro
 * Author seeks a university degree studentship (toward a BS or MS in a space discipline; and a PhD in ontology, philosophy, or an interdisciplinary PhD with space).
 
 #### Ontologies being developed include (Available upon request)
+All ontologies in need of funding and partners to develop sustainably.
 
-
-| Ontology Name        | OWL File Link           | Description  |
-| ------------- |:-------------:| -------------------------:|
-| [The Orbital Debris Ontology (ODO)](https://purl.org/space-ontology/odo) | (Contact Author) Near Future: the ODO OWL file will be located at https://purl.org/space-ontology/odo.owl | An ontology for orbital debris objects and their properties. See reference (1)   |
-| [The Space Situational Awareness Ontology (SSAO)](https://purl.org/space-ontology/ssao) (possibly renaming to the Orbital Space Environment Ontology(OSO) | Near Future: the SSAO OWL file will be located at https://purl.org/space-ontology/ssao.owl  | An ontology of the SSA domain, minimally of activities yielding knowledge of orbital space environment. See publication (2) |
-| Orbital Ontology Core ("The orbitology ontology") (OO) | TBD | A generic base ontology containing the core orbital terms used by ODO, SSAO and other terms (subject to revisiono, merger, etc.). Importable into other ontologies needing orbital concepts. | 
-|OSO / OSDO/ OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology | TBD | A potential single ontology file containing the above modules. The SSAO may be renamed this. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame. |
-| The Union of Concerned Scientists Satellite Database Ontology](https://purl.org/space-ontology/ucsso)(UCSSO) | https://purl.org/space-ontology/ucsso | A data-base specific ontology for the UCS Satellite Database. Uses terms from the other ontologies. }
+| Ontology Name        | Description            | Link to OWL File  | Status |
+| ------------- |:-------------:| -------------------------:| --------------: |
+| [The Orbital Debris Ontology (ODO)](https://purl.org/space-ontology/odo) | An ontology of orbital debris objects and their properties. See pub/reference (1),(8) | (Contact Author) Near Future: the ODO OWL file will be located at https://purl.org/space-ontology/odo.owl | Under development. Seeking funding & partners. |
+| [The Space Situational Awareness Ontology (SSAO)](https://purl.org/space-ontology/ssao) | An ontology of the SSA domain, minimally of activities yielding knowledge of orbital space environment. See pub/reference (2). | (Contact Author)  Near Future: the SSAO OWL file will be located at https://purl.org/space-ontology/ssao.owl | Under development. Seeking funding & partners. Possibly renaming to the Orbital Space Environment Ontology(OSO). |
+| Orbital Ontology Core ("The orbitology ontology") (OO) | A generic base ontology containing the core orbital terms used by ODO, SSAO and other terms. Importable into other ontologies needing orbital concepts. | TBD | Under development | 
+| OSO / OSDO/ OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology | TBD | A potential single ontology file containing the above modules. The SSAO may be renamed this. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame. | Under development |
+| The Union of Concerned Scientists Satellite Database Ontology](https://purl.org/space-ontology/ucsso)(UCSSO) | A data-base specific ontology for the UCS Satellite Database. Uses terms from the other ontologies. | https://purl.org/space-ontology/ucsso | Complete, but subject to minor revisions as requested from UCS or other users | 
    
    
-  The SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery) project at NASA.
- 
-* **OSO / OSDO/ OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology**
- A potential single ontology file containing the above modules. The SSAO may be renamed this. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame.  
-
-**Database-specific Ontologies**
-* **[(UCSSO) The Union of Concerned Scientists Satellite Database Ontology]**(https://purl.org/space-ontology/ucsso) (UCSSO) (6)
-  https://purl.org/space-ontology/ucsso
-  
+ The SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery) project at NASA.
+   
 These ontologies aiim to be used by and developed for NASA ontologies and data resources, e.g., NASA SWEET, IVOA ontologies, and elsewhere.
 
 #### Project Goals (specific)
@@ -64,7 +57,7 @@ PDF: https://arxiv.org/abs/1704.01014
 * (6) "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 * (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming) 
 
-* "[Orbital Debris Ontology]" (https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail), PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
+(8) * "[Orbital Debris Ontology]" (https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail), PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
 
 * (9) [Ontology for Europe's Space Situational Awareness Programme] (https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf), 7th European Conference on Space Debris, Darmstadt, Germany.
 
