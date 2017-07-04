@@ -48,9 +48,9 @@ PDF: https://arxiv.org/abs/1704.01014
 * (6) "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 * (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming) 
 
-(8) * "[Orbital Debris Ontology]" (https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail), PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
+(8) * "[Orbital Debris Ontology](https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail)", PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
 
-* (9) [Ontology for Europe's Space Situational Awareness Programme] (https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf), 7th European Conference on Space Debris, Darmstadt, Germany.
+* (9) "[Ontology for Europe's Space Situational Awareness Programme](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf)", 7th European Conference on Space Debris, Darmstadt, Germany.
 
 ### Author
 Robert J. Rovetto
