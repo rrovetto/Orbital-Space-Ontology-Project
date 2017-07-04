@@ -21,8 +21,7 @@ The scope or domain-of-interest include: the orbital and near-Earth space enviro
 
 | Ontology Name        | Links           | Description  |
 | ------------- |:-------------:| -----:|
-| The Orbital Debris Ontology (ODO)     | [https://purl.org/space-ontology/odo](https://purl.org/space-ontology/odo) 
-Near Future: the ODO OWL file will be located at https://purl.org/space-ontology/odo.owl
+| The Orbital Debris Ontology (ODO)     | [https://purl.org/space-ontology/odo](https://purl.org/space-ontology/odo)  Near Future: the ODO OWL file will be located at https://purl.org/space-ontology/odo.owl
 | An ontology for orbital debris objects and their properties. See reference (1) |
 | SSAO - The Space Situational Awareness Ontology   | https://purl.org/space-ontology/ssao      |   An ontology for SSA processes yielding knowledge of orbital space environment |
 | zebra stripes | are neat      |    $1 |
