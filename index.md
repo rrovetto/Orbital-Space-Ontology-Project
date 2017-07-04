@@ -9,7 +9,7 @@ The scope or domain-of-interest include: the orbital and near-Earth space enviro
 * Ontoogies are under development, subject to revision. No claims to completeness are made. 
 * Open development - contact author to help develop the ontologies 
 * Need funding or employment/studentship opportunity to work sustainably.
-##### Seeking
+#### Seeking
 * Funding
 * Partners/co-workers: subject-matter experts (astrodynamicists) ontology developers, informaticists, computer scientistis. 
 * Contract work, distance work
@@ -56,7 +56,7 @@ These ontologies aiim to be used by and developed for NASA ontologies and data r
 
 * (5) "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
 
-* (6) "An Ontology for Satellite Databases" (forthcoming, Earth Science Informatics, 2017)
+* (6) "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 * (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming) 
 
 #### Author
