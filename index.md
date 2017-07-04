@@ -23,7 +23,7 @@ All ontologies in need of funding and partners to develop sustainably.
 * These, and other concepts for, space ontologies aim to be used by and with NASA and other space actor ontologies and data resources, e.g., NASA SWEET ontologies, IVOA ontologies.
 * Other ontologies include: Space Weather ontology (SWO), Astrodynamics Modeling Ontology (AMO), Orbital Event & Process Ontology, Orbital Object Ontology, Space Object Ontology, Near-Earth Space Environment Ontology (NESEO), etc. 
 
-### Project Goals (specific)
+### Specific Project Goals
 * one or more orbital and SSA _terminologies_ 
 * a general-purpose orbital ontology (OO) to ontologically model any orbit from inputted instance data (data on particular satellites), and ontologies for classifying orbital debris and other orbital space objects. 
 * formal, conceptual and philosophical analysis of fundamental astronautical, astrodynamic and orbital concepts
@@ -34,12 +34,12 @@ All ontologies in need of funding and partners to develop sustainably.
 * ...
 
 ### Publications
-* (1)_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014, online 2015). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3.
+* (1) “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014, online 2015). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3.
 PDF: https://arxiv.org/abs/1704.01014
 
-* (2)_“[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
+* (2) “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
 
-* (3) _"[The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf)", Rovetto, R.J. The Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016, (Paper, and Poster presentation)
+* (3) "[The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf)", Rovetto, R.J. The Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016, (Paper, and Poster presentation)
 
 * (4) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)", Rovetto, R.J. In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016.
 
@@ -48,7 +48,7 @@ PDF: https://arxiv.org/abs/1704.01014
 * (6) "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 * (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming) 
 
-(8) * "[Orbital Debris Ontology](https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail)", PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
+* (8) "[Orbital Debris Ontology](https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail)", PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
 
 * (9) "[Ontology for Europe's Space Situational Awareness Programme](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf)", 7th European Conference on Space Debris, Darmstadt, Germany.
 
