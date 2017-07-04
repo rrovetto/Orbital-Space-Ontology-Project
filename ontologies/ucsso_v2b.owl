@@ -1,0 +1,1916 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://purl.org/space-ontology/ucsso.owl#"
+     xml:base="https://purl.org/space-ontology/ucsso.owl"
+     xmlns:space-ontology="http://purl.org/space-ontology/"
+     xmlns:dictionary="https://purl.org/space-ontology/dictionary#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:untitled-ontology-33="http://www.semanticweb.org/miopc2/ontologies/2016/1/untitled-ontology-33#"
+     xmlns:UCS-Satellite-Ontology="http://www.semanticweb.org/rrovetto/ontologies/2016/1/UCS-Satellite-Ontology#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="https://purl.org/space-ontology/ucsso.owl">
+        <dc:creator xml:lang="en">Robert J. Rovetto
+rrovetto@terpalum.umd.edu
+http://orcid.org/0000-0003-3835-7817</dc:creator>
+        <rdfs:comment xml:lang="en">The Union of Concerned Scientists (UCS) Satellite Database Ontology (UCSSO) is an ontology of the UCS Satellite Database. It is accessible online via: http://purl.org/space-ontology/ucsso
+
+Ontology class terms, and some definitions, are drawn from the UCS Satellite Database Excel Spreadsheet file (1) and the users manual (2). UCSSO is under development and subject to revision (See the Status Note comment for important details).
+
+USE:
+(I) It may be used as a local ontology by the UCS. It can then be mapped to ontologies such as the Space Situational Awareness Ontology (SSAO) (Rovetto &amp; Kelso, 2016). 
+
+(II) As an alternative, the UCS (and other satellite databses) may use the SSAO as their domain ontology. The SSAO has all classes found in UCSSO in addition to many others necessary to thoroughly represent the orbital space and SSA domain.
+
+(III) With further development, UCSSO may serve as a case-study and testbed for SSA ontology development (Rovetto, 2015). 
+
+PUBLICATIONS
+Rovetto, R.J. An Ontology for Satellite Databases (Forthcoming, Earth Science Informatics)
+
+(&apos;/&apos; indicates names referring to essentially the same uninverse of discourse.)
+
+(1) 
+URL1= https://s3.amazonaws.com/ucs-documents/nuclear-weapons/sat-database/8-11-16+update/UCS_Satellite_Database_7-1-16.xls
+
+URL2= https://s3.amazonaws.com/ucs-documents/nuclear-weapons/sat-database/2-25-16+update/UCS_Satellite_Database_1-1-16.xls
+
+(2) UCS Satellite Database User’s Manual 1-1-16
+URL= https://s3.amazonaws.com/ucs-documents/nuclear-weapons/sat-database/2-25-16+update/User+Guide+1-1-16+wAppendix.pdf
+
+Description of UCS Satellite Database: &quot;[...]the Satellite Database is a listing of the more than 1000 operational satellites currently in orbit around Earth.&quot; URL= http://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database?utm_content=buffer3c8a4&amp;utm_medium=social&amp;utm_source=linkedin.com&amp;utm_campaign=buffer
+
+Data sources: &quot;The data in the UCS Satellite Database come from public sources, with much of the information provided by the satellite owners themselves.&quot; Quote from URL= https://s3.amazonaws.com/ucs-documents/nuclear-weapons/sat-database/common-misconceptions.pdf</rdfs:comment>
+        <owl:versionInfo xml:lang="en">UCSSO Version 2</owl:versionInfo>
+        <rdfs:comment xml:lang="en">STATUS NOTE:
+Classes and relations are being given numerical identifiers (URIs) corresponding to those in the authors Orbital Space Ontology project (www.purl.org/space-ontology). These classes and relations are found in the Orbital Debris Ontology (ODO), SSA Ontology (SSAO), and related orbital ontologies that form parts of the project.
+
+Funding is required to work on this effort. Please contact author to help.</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rrovetto/ontologies/2016/1/UCS-Satellite-Ontology#Ontology_Curator -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/rrovetto/ontologies/2016/1/UCS-Satellite-Ontology#Ontology_Curator"/>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Alternate_Name -->
+
+    <owl:AnnotationProperty rdf:about="https://purl.org/space-ontology/dictionary#Alternate_Name"/>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Definition -->
+
+    <owl:AnnotationProperty rdf:about="https://purl.org/space-ontology/dictionary#Definition"/>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Ontology_Creator -->
+
+    <owl:AnnotationProperty rdf:about="https://purl.org/space-ontology/dictionary#Ontology_Creator"/>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Source_of_Definition -->
+
+    <owl:AnnotationProperty rdf:about="https://purl.org/space-ontology/dictionary#Source_of_Definition"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Alternate_Satellite_Name -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Alternate_Satellite_Name">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Name"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Alternate_Satelite_Name"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert J. Rovetto</dc:creator>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Apogee -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Apogee">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Property"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Apogee"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Country_of_Origin -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Country_of_Origin">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Expected_Lifetime -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Expected_Lifetime">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Function -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Function">
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Function"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Launch_Date -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Launch_Date">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Launch_Site -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Launch_Site">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Launch_Vehicle -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Launch_Vehicle">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Vehicle"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Longitude_of_GEO -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Longitude_of_GEO">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Property"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Longitude_of_GEO"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_NORAD_number -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_NORAD_number">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Name -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Name"/>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Operator -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Operator">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Operator"/>
+        <rdfs:comment xml:lang="en">Ternary relation relating an Artificial Satellite, an Operator, and a time t or temporal interval [tn, tm]</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbit -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbit">
+        <rdfs:domain rdf:resource="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Orbit"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Property"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Eccentricity"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbital_Inclination -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbital_Inclination">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Property"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Inclination"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbital_Parameter -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbital_Parameter">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Property"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbital_Property -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbital_Property">
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert J. Rovetto</dc:creator>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Owner -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Owner">
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Owner"/>
+        <rdfs:comment xml:lang="en">Ternary relation relating an Artificial Satellite, an Owner, and a time t or temporal interval [tn, tm]</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Perigee -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Perigee">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Property"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Perigee"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Purpose -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Purpose">
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Purpose"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Satellite_Name -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Satellite_Name">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_Name"/>
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#Satellite_Name"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_User -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#has_User">
+        <rdfs:range rdf:resource="https://purl.org/space-ontology/dictionary#User"/>
+        <rdfs:comment xml:lang="en">Ternary relation relating an Artificial Satellite, a User, and a time t or temporal interval [tn, tm]</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#is_a -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#is_a">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:comment xml:lang="en">Class-subclass / class subsumption relation.
+Domain and range are classes</rdfs:comment>
+        <dictionary:Definition xml:lang="en">A is_a B =def. all instances of A are instances of B</dictionary:Definition>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#is_instance_of -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#is_instance_of">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <dictionary:Definition xml:lang="en">Primitive.
+Domain are individuals (particulars, instances),
+Range is classes (universals, types)</dictionary:Definition>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#is_operated_by -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#is_operated_by">
+        <rdfs:range>
+            <owl:Class>
+                <owl:unionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Operator"/>
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Owner"/>
+                </owl:unionOf>
+            </owl:Class>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#is_registered_Country_in_UN_Register_of_Space_Objects_for -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#is_registered_Country_in_UN_Register_of_Space_Objects_for">
+        <rdfs:comment>&quot;This indicates the country that is registered as responsible for the satellite in the United Nations Register of Space Objects. http://www.unoosa.org/oosa/en/osoindex.html&quot; [UCS Satellite Database User’s Manual 1-1-16]</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#is_registered_Organization_in_UN_Register_of_Space_Objects_for -->
+
+    <owl:ObjectProperty rdf:about="https://purl.org/space-ontology/dictionary#is_registered_Organization_in_UN_Register_of_Space_Objects_for"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Apogee_value -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Apogee_value">
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">The numeric value in kilometers, quantifying the spatial distance from the center of Earth to the farthest point in the satellite orbit from Earth (=Apogee)</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_COSPAR_number -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_COSPAR_number">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Longitude_of_GEO -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Longitude_of_GEO">
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_NORAD_number -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_NORAD_number"/>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity_value -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity_value">
+        <rdfs:domain rdf:resource="https://purl.org/space-ontology/dictionary#Orbit"/>
+        <rdfs:range>
+            <rdfs:Datatype>
+                <owl:onDatatype rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+                <owl:withRestrictions rdf:parseType="Collection">
+                    <rdf:Description>
+                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2002/07/owl#rational">0.0</xsd:minInclusive>
+                    </rdf:Description>
+                    <rdf:Description>
+                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2002/07/owl#rational">1.0</xsd:maxInclusive>
+                    </rdf:Description>
+                </owl:withRestrictions>
+            </rdfs:Datatype>
+        </rdfs:range>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">The numeric decimal value, ranging from 0 to 1 for the eccentricity of the orbit.</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbital_Inclination_value -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbital_Inclination_value">
+        <rdfs:range>
+            <rdfs:Datatype>
+                <owl:oneOf>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                        <rdf:first rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                                <rdf:first rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</rdf:first>
+                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </owl:oneOf>
+            </rdfs:Datatype>
+        </rdfs:range>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">The numeric value in degrees of the orbits inclination.</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Orbital_Period_value -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Orbital_Period_value">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Perigee_value -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Perigee_value">
+        <rdfs:range rdf:resource="http://www.w3.org/2002/07/owl#rational"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">The numeric value in kilometers, quantifying the spatial distance from the center of Earth to the point of closest approach to Earth (=Perigee)</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Satellite_Name -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Satellite_Name"/>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_Source_of_Orbital_Data -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_Source_of_Orbital_Data">
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">The source of orbital data can be displayed as website URL, name of organization, group, person, etc.</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_dry_mass -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_dry_mass">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_mass"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_launch_mass -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_launch_mass">
+        <rdfs:subPropertyOf rdf:resource="https://purl.org/space-ontology/dictionary#has_mass"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#has_mass -->
+
+    <owl:DatatypeProperty rdf:about="https://purl.org/space-ontology/dictionary#has_mass">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/rrovetto/ontologies/2016/1/UCS-Satellite-Ontology#Semi-Synchronous_Orbit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rrovetto/ontologies/2016/1/UCS-Satellite-Ontology#Semi-Synchronous_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Medium_Earth_Orbit"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Academic_Civil_user -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Academic_Civil_user">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Civil_User"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Alternate_Satelite_Name -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Alternate_Satelite_Name">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Satellite_Identifier"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Amateur_Civil_User -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Amateur_Civil_User">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Civil_User"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Apogee -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Apogee">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Property"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The altitude above the Earth’s surface of the satellite’s apogee, which is the point of the orbit 
+farthest from the Earth’s center of mass, given in kilometers. </dictionary:Definition>
+        <dictionary:Source_of_Definition xml:lang="en">UCS Satellite Database User’s Manual 1-1-16
+
+URL= https://s3.amazonaws.com/ucs-documents/nuclear-weapons/sat-database/2-25-16+update/User+Guide+1-1-16+wAppendix.pdf</dictionary:Source_of_Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Ariane_5_ECA -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Ariane_5_ECA">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Vehicle"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Artificial_Satellite -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">An artifact intentionally created by persons to operate in orbit and perform one or more functions.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Atlas_V -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Atlas_V">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Vehicle"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Automatic_Identification_System_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Automatic_Identification_System_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Maritime_Tracking_Purpose"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#COSPAR_Number -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#COSPAR_Number">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Satellite_Identifier"/>
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <rdfs:comment xml:lang="en">&quot;The number reflects the year of the launch and sequence of launch within that year.&quot;  </rdfs:comment>
+        <dictionary:Definition xml:lang="en">&quot;the international designation assigned by the Committee on Space Research (COSPAR) to each object launched into space.&quot;</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Cislunar_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Cislunar_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Elliptical_Orbit"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">an Elliptical Orbit whose apogee is greater than 318,200 km</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Civil_User -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Civil_User">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#User"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Commercial_User -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Commercial_User">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#User"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Communications_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Communications_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Purpose"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Communications_Satellite -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Communications_Satellite">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Function"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Communications_Purpose"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Purpose"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Communications_Purpose"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">An Aritifial Satellite that has the Communications purpose/function</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Contractor -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Contractor">
+        <dictionary:Definition xml:lang="en">&quot;The prime contractor for the satellite’s construction.&quot;</dictionary:Definition>
+        <dictionary:Definition xml:lang="en">an organization paid to perform some task or service relevant to the satellite. Examples include, construction.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Corporation -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Corporation">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Country -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Country">
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <rdfs:comment xml:lang="en">Definition of this class may be drawn from...
+a) an ontology of political or geographic entities
+b) a national reference document, e.g., encyclopedia, etc.
+c) dictionary</rdfs:comment>
+        <rdfs:comment xml:lang="en">This class is not specific to this domain, but may be part of, say, a GeoSocial Entity Ontology.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Data_Relay_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Data_Relay_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Communications_Purpose"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Deep_Highly_Eccentric_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Deep_Highly_Eccentric_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Elliptical_Orbit"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">an Elliptical Orbit whose orbital period is greater than 25 hours and eccentricity is greater than 0.5.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Dry_Mass -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Dry_Mass">
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The mass of the satellite without fuel, measured in kilograms</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Early_Warning_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Early_Warning_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Communications_Purpose"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Earth-Observing_Satellite -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Earth-Observing_Satellite">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Purpose"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Earth_Observation_Puprose"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">An Aritifial Satellite that has the Earth-observing purpose/function</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Earth_Observation_Puprose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Earth_Observation_Puprose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Purpose"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">Subclasses of this clas are drawn form section G.(Purpose) of the UCSSD manual.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Earth_Science_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Earth_Science_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Earth_Observation_Puprose"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Electronic_Intelligence_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Electronic_Intelligence_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Earth_Observation_Puprose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Elliptical_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Elliptical_Orbit">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Orbit"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Apogee_value"/>
+                        <owl:allValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">318200</xsd:minInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity_value"/>
+                        <owl:allValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.14</xsd:minInclusive>
+                                    </rdf:Description>
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:allValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <rdfs:comment xml:lang="en">An orbit whose eccentricity is greater than or equal to 0.14 (with 1 being the upper limit).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Equatorial_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Equatorial_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Low_Earth_Orbit"/>
+        <dictionary:Definition xml:lang="en">a Low Earth Orbit that has an orbital inclination between 0º and 20º</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Falcon_9 -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Falcon_9">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Vehicle"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Function -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Function">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">This is an upper-level, abstract, category for the functions of artificial and natural entiteis.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Geosynchronous_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Geosynchronous_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Nearly_Circular_Orbit"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">a Nearly Circular Orbit with altitude of approximately &quot;35,700 kilometers, which corresponds to an orbital period of approximately 24 hours&quot;</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Global_Positioning_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Global_Positioning_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Navigation_Purpose"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Government_User -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Government_User">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#User"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Imaging_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Imaging_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Purpose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Imaging_Satellite -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Imaging_Satellite">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Purpose"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Imaging_Purpose"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">An Aritifial Satellite that has the Imaging purpose/function</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Infrared_Imaging_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Infrared_Imaging_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Imaging_Purpose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Launch_Date -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Launch_Date">
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The date a satellite was launched from Earth into space</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Launch_Mass -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Launch_Mass">
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The mass of the satellite at the time of launch, including fuel, given in kilograms.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Launch_Site -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Launch_Site">
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The geographical location where the satellite was launched from</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Launch_Vehicle -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Launch_Vehicle">
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">A space artefact used to transport a satellite, cargo, persons, or other entities, beyond Earth&apos;s atmosphere, and into orbit</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Longitude_of_GEO -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Longitude_of_GEO">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Property"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">&quot;the earth longitude of the point over which the satellite sits, in degrees&quot;</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Low_Earth_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Low_Earth_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Nearly_Circular_Orbit"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">a Nearly Circular Orbit with altitude &quot;between 80 km and roughly 1,700 km, where the upper altitude is chosen to correspond to an orbital period of 2 hours.&quot;</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Maritime_Tracking_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Maritime_Tracking_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Navigation_Purpose"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Medium_Earth_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Medium_Earth_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Nearly_Circular_Orbit"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">a Nearly Circular Orbit with altitude &quot;greater than 1700 km and less than 35,700, corresponding to orbital periods between 2 and 24 hours.&quot;</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Meterology_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Meterology_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Earth_Science_Purpose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Military_Organization -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Military_Organization">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Military_User -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Military_User">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#User"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Molniya_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Molniya_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Elliptical_Orbit"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">an Elliptical Orbit whose period is between 11.5 and 12.5 hours, eccentricity between 0.5 and 0.77, and inclination between 62º and 64º.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#NORAD_Number -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#NORAD_Number">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Satellite_Identifier"/>
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">the five-digit number assigned by the North American Aerospace Defense Command (NORAD) for each satellite in their catalogue.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Navigation_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Navigation_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Purpose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Navigational_Satellite -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Navigational_Satellite">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Purpose"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Navigation_Purpose"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">An Aritifial Satellite that has the Navgation purpose/function</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Nearly_Circular_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Nearly_Circular_Orbit">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Orbit"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity_value"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:oneOf>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                                        <rdf:first rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</rdf:first>
+                                        <rdf:rest>
+                                            <rdf:Description>
+                                                <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                                                <rdf:first rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.14</rdf:first>
+                                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                            </rdf:Description>
+                                        </rdf:rest>
+                                    </rdf:Description>
+                                </owl:oneOf>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity_value"/>
+                        <owl:someValuesFrom>
+                            <rdfs:Datatype>
+                                <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                                <owl:withRestrictions rdf:parseType="Collection">
+                                    <rdf:Description>
+                                        <xsd:minInclusive rdf:datatype="http://www.w3.org/2002/07/owl#rational">0.0</xsd:minInclusive>
+                                    </rdf:Description>
+                                    <rdf:Description>
+                                        <xsd:maxInclusive rdf:datatype="http://www.w3.org/2002/07/owl#rational">0.14</xsd:maxInclusive>
+                                    </rdf:Description>
+                                </owl:withRestrictions>
+                            </rdfs:Datatype>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">An orbit whose eccentricity is less than 0.14</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Non-Polar_Inclined_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Non-Polar_Inclined_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Low_Earth_Orbit"/>
+        <dictionary:Alternate_Name xml:lang="en">Low Earth Intermediate Orbit</dictionary:Alternate_Name>
+        <dictionary:Definition xml:lang="en">a Low Earth Orbit (an intermediate orbit) with orbital inclination between 20º and 85º</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Operator -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Operator">
+        <dc:creator>Robert J. Rovetto</dc:creator>
+        <rdfs:comment xml:lang="en">&quot;The operator is not necessarily the satellite’s owner,&quot;
+This quote, from the UCSSD manual, implies a distinction between operator and owner.
+I have made distinct classes, accordingly.
+Ths is consistent with natural language, conceptual and ontological distinctions</rdfs:comment>
+        <dictionary:Definition xml:lang="en">&quot;The satellite’s current operational controller.&quot;</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Optical_Imaging_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Optical_Imaging_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Imaging_Purpose"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Orbit">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Orbit"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Apogee"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Apogee"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Eccentricity"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Inclination"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Inclination"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Perigee"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Perigee"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Orbital_Eccentricity_value"/>
+                <owl:allValuesFrom>
+                    <rdfs:Datatype>
+                        <owl:onDatatype rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+                        <owl:withRestrictions rdf:parseType="Collection">
+                            <rdf:Description>
+                                <xsd:minInclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.0</xsd:minInclusive>
+                            </rdf:Description>
+                            <rdf:Description>
+                                <xsd:maxExclusive rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</xsd:maxExclusive>
+                            </rdf:Description>
+                        </owl:withRestrictions>
+                    </rdfs:Datatype>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <rdfs:comment xml:lang="en">Eccentricity, e=0.14, distinguishes Nearly Circular from Elliptical Orbits</rdfs:comment>
+        <rdfs:comment xml:lang="en">The class of orbit is currently a topic of ontological and philosophical research by the author. Papers under review and in progress.</rdfs:comment>
+        <rdfs:comment xml:lang="en">There are varous ways to classify orbits. This ontology classifies them according to the UCSSD mannual with editing by the ontology creator. 
+
+The edits are: the distinction between orbit Type and orbit Class mentioned in the UCSSD manual is ommited. Instead, their respective subtypes/subclasses are merged into a single Orbit hierarchy.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Orbital_Eccentricity -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Orbital_Eccentricity">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Property"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <rdfs:comment xml:lang="en">describes how strongly the orbit deviates from a circle</rdfs:comment>
+        <dictionary:Definition xml:lang="en">an orbital paramter describing the geometric and geometrico-physical relation:
+(ha - hp)/(ha+ hp + 2R) , where a h isa the altitude of the satellite above the earth at apogee, hp is the altitude at perigee, and R is the earth’s radius (using the approximate value of the mean earth radius, e R = 6370 km).</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Orbital_Inclination -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Orbital_Inclination">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Property"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">&quot;The angle between the orbital plane of the satellite and equatorial plane of the Earth, measured in 
+degrees.&quot;</dictionary:Definition>
+        <dictionary:Source_of_Definition xml:lang="en">UCS Satellite Database User’s Manual 1-1-16
+
+URL= http://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database</dictionary:Source_of_Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Orbital_Period -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Orbital_Period">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Property"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The time required for the satellite to complete one full orbit of the Earth, given in minutes.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Orbital_Property -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Orbital_Property">
+        <dc:creator xml:lang="en">Robert J. Rovetto
+rrovetto@terpalum.umd.edu</dc:creator>
+        <rdfs:comment xml:lang="en">This is a general class to encompass all sorts of properties of orbits: the classical orbital paramters/elements, apogee, perigee, etc.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Organization -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Organization">
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Owner -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Owner">
+        <rdfs:comment xml:lang="en">May be identical to Country_of_Operator.</rdfs:comment>
+        <dictionary:Definition xml:lang="en">The current owner of the satellite.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Perigee -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Perigee">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Property"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The altitude above the Earth’s surface of the satellite’s perigee, which is the point of the orbit closest to the Earth’s center of mass, given in kilometers</dictionary:Definition>
+        <dictionary:Source_of_Definition xml:lang="en">UCS Satellite Database User’s Manual 1-1-16
+
+URL= https://s3.amazonaws.com/ucs-documents/nuclear-weapons/sat-database/2-25-16+update/User+Guide+1-1-16+wAppendix.pdf</dictionary:Source_of_Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Polar_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Polar_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Low_Earth_Orbit"/>
+        <dictionary:Definition xml:lang="en">a Low Earth Orbit whose orbital inclination is between 85º and 95º and greater than 104º</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Power -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Power">
+        <dictionary:Definition xml:lang="en">The amount of useable electric power produced by the satellite, often by solar panels, given in 
+watts.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Purpose">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <rdfs:comment xml:lang="en">A general category or type of purpose or function of the satellite.
+
+The purpose is &quot;self-reported by the satellite’s operator.&quot;</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Radar_Imaging_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Radar_Imaging_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Imaging_Purpose"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Satellite_Expected_Lifetime -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Satellite_Expected_Lifetime">
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <dictionary:Definition xml:lang="en">The planned operational lifetime of the satellite, given in years</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Satellite_Identifier -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Satellite_Identifier">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Satellite_Name -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Satellite_Name">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Satellite_Identifier"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+        <rdfs:comment xml:lang="en">&quot;The current or most popularly used name is listed first, with alternate or previously used names given in parentheses&quot;
+[UCS Satellite Database User’s Manual 1-1-16]</rdfs:comment>
+        <rdfs:comment xml:lang="en">It is TBD whether this and similar identifier classes will be changed to Protege Annotation properties.</rdfs:comment>
+        <dictionary:Definition xml:lang="en">The alphanumeric name of a satellite</dictionary:Definition>
+        <dictionary:Source_of_Definition xml:lang="en">Robert Rovetto, ontologos@yahoo.com</dictionary:Source_of_Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Source_of_Orbital_Data -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Source_of_Orbital_Data">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">&quot;the source used for the orbital data (perigee, apogee, inclination, period)&quot;</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Space_Agency -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Space_Agency">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Space_Observation_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Space_Observation_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Purpose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Space_Observation_Satellite -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Space_Observation_Satellite">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Purpose"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Space_Observation_Purpose"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">An Aritifial Satellite that has the Space-observation purpose/function</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Space_Science_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Space_Science_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Space_Observation_Purpose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Space_Shuttle -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Space_Shuttle">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Vehicle"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto
+rrovetto@terpalum.umd.edu</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Sun-Synchronous_Orbit -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Sun-Synchronous_Orbit">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Low_Earth_Orbit"/>
+        <dictionary:Definition xml:lang="en">a Low Earth Orbit whose inclination is approximately between 95º and 104º</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Technology_Development_Purpose -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Technology_Development_Purpose">
+        <rdfs:subClassOf rdf:resource="https://purl.org/space-ontology/dictionary#Purpose"/>
+        <dc:creator xml:lang="en">Robert J. Rovetto</dc:creator>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Technology_Development_Satellite -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#Technology_Development_Satellite">
+        <rdfs:subClassOf>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#Artificial_Satellite"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="https://purl.org/space-ontology/dictionary#has_Purpose"/>
+                        <owl:someValuesFrom rdf:resource="https://purl.org/space-ontology/dictionary#Technology_Development_Purpose"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </rdfs:subClassOf>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+        <dictionary:Definition xml:lang="en">An Aritifial Satellite that has the Technology development purpose/function</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#University -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#University">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:Class>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#User -->
+
+    <owl:Class rdf:about="https://purl.org/space-ontology/dictionary#User">
+        <rdfs:comment xml:lang="en">&quot;The affiliation of the primary users of the satellite is described with one or more of the keywords: civil (academic, amateur), commercial, government (meteorological, scientific, etc.), military. Satellites can be multi-use, hosting, for example, dedicated transponders for both commercial and military applications.&quot;</rdfs:comment>
+        <dictionary:Definition xml:lang="en">The type of user of the satellite, either Civil, Commercial, Governmental, or MIlitary.</dictionary:Definition>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/space-ontology/2016-025E -->
+
+    <owl:NamedIndividual rdf:about="http://purl.org/space-ontology/2016-025E">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#COSPAR_Number"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/miopc2/ontologies/2016/1/untitled-ontology-33#&apos;Aalborg_University_Cubesat_5&apos; -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/miopc2/ontologies/2016/1/untitled-ontology-33#&apos;Aalborg_University_Cubesat_5&apos;"/>
+    
+
+
+    <!-- http://www.semanticweb.org/miopc2/ontologies/2016/1/untitled-ontology-33#JM/12_15 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/miopc2/ontologies/2016/1/untitled-ontology-33#JM/12_15"/>
+    
+
+
+    <!-- http://www.semanticweb.org/miopc2/ontologies/2016/1/untitled-ontology-33#Space_Shuttle_(STS_93) -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/miopc2/ontologies/2016/1/untitled-ontology-33#Space_Shuttle_(STS_93)">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Space_Shuttle"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4 -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Earth-Observing_Satellite"/>
+        <dictionary:has_Country_of_Origin rdf:resource="https://purl.org/space-ontology/dictionary#Denmark"/>
+        <dictionary:has_Operator rdf:resource="https://purl.org/space-ontology/dictionary#University_of_Aalborg"/>
+        <dictionary:has_Orbital_Eccentricity rdf:resource="https://purl.org/space-ontology/dictionary#AAUSat-4_Orbital_Eccentricity"/>
+        <dictionary:has_Orbital_Inclination rdf:resource="https://purl.org/space-ontology/dictionary#AAUSat-4_Inclination"/>
+        <dictionary:has_Owner rdf:resource="https://purl.org/space-ontology/dictionary#University_of_Aalborg"/>
+        <dictionary:has_Satellite_Name rdf:resource="https://purl.org/space-ontology/dictionary#&apos;AAUSat-4&apos;"/>
+        <dictionary:has_Apogee_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">687</dictionary:has_Apogee_value>
+        <dictionary:has_Longitude_of_GEO rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dictionary:has_Longitude_of_GEO>
+        <dictionary:has_Orbital_Eccentricity_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.02</dictionary:has_Orbital_Eccentricity_value>
+        <dictionary:has_Orbital_Inclination_value rdf:datatype="http://www.w3.org/2002/07/owl#rational">98.2</dictionary:has_Orbital_Inclination_value>
+        <dictionary:has_Orbital_Period_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">95.9</dictionary:has_Orbital_Period_value>
+        <dictionary:has_Perigee_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">442</dictionary:has_Perigee_value>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_Apogee -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_Apogee">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Apogee"/>
+        <dictionary:has_Apogee_value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">687</dictionary:has_Apogee_value>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_Inclination -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_Inclination">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Inclination"/>
+        <dictionary:has_Orbital_Inclination_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.2</dictionary:has_Orbital_Inclination_value>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_LaunchMass -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_LaunchMass">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Mass"/>
+        <dictionary:has_launch_mass>1 kg</dictionary:has_launch_mass>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_Longitude_of_GEO -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_Longitude_of_GEO">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Longitude_of_GEO"/>
+        <dictionary:has_Longitude_of_GEO rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dictionary:has_Longitude_of_GEO>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_Orbit -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_Orbit">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Sun-Synchronous_Orbit"/>
+        <dictionary:has_Apogee rdf:resource="https://purl.org/space-ontology/dictionary#AAUSat-4_Apogee"/>
+        <dictionary:has_Orbital_Eccentricity rdf:resource="https://purl.org/space-ontology/dictionary#AAUSat-4_Orbital_Eccentricity"/>
+        <dictionary:has_Orbital_Inclination rdf:resource="https://purl.org/space-ontology/dictionary#AAUSat-4_Inclination"/>
+        <dictionary:has_Perigee rdf:resource="https://purl.org/space-ontology/dictionary#AAUSat-4_Perigee"/>
+        <dictionary:has_Orbital_Eccentricity_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.02</dictionary:has_Orbital_Eccentricity_value>
+        <dictionary:has_Orbital_Inclination_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">98.2</dictionary:has_Orbital_Inclination_value>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_Orbital_Eccentricity -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_Orbital_Eccentricity">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Eccentricity"/>
+        <dictionary:has_Orbital_Eccentricity_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.02</dictionary:has_Orbital_Eccentricity_value>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_Perigee -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_Perigee">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Perigee"/>
+        <dictionary:has_Perigee_value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</dictionary:has_Perigee_value>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#AAUSat-4_Period -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#AAUSat-4_Period">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Orbital_Period"/>
+        <dictionary:has_Orbital_Period_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">95.9</dictionary:has_Orbital_Period_value>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Aalborg_University -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Aalborg_University">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Contractor"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Aerospace_Corporation -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Aerospace_Corporation">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Corporation"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Argentina -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Argentina">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Baikonur_Cosmodrome -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Baikonur_Cosmodrome">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Canada -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Canada">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Cape_Canaveral -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Cape_Canaveral">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#China -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#China">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Denmark -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Denmark">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#European_Space_Agency -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#European_Space_Agency">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Space_Agency"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#France -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#France">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Germany -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Germany">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Guiana_Space_Center -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Guiana_Space_Center">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#India -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#India">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#International_Space_Station -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#International_Space_Station">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Italy -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Italy">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Japan -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Japan">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Nanorack_Deployer -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Nanorack_Deployer">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Vehicle"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Norway -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Norway">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Plesetsk_Cosmodrome -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Plesetsk_Cosmodrome">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Poland -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Poland">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Russia -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Russia">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Satish_Dhawan_Space_Center -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Satish_Dhawan_Space_Center">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Spain -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Spain">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#U.S._Air_Force -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#U.S._Air_Force">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Military_Organization"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#UK -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#UK">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#USA -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#USA">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Country"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Uchinoura_Space_Center -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Uchinoura_Space_Center">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#University_of_Aalborg -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#University_of_Aalborg">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#University"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Vandenberg_AFB -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Vandenberg_AFB">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#Xichang_Satellite_Launch_Center -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#Xichang_Satellite_Launch_Center">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Launch_Site"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#&apos;AAUSat-4&apos; -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#&apos;AAUSat-4&apos;">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#Satellite_Name"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://purl.org/space-ontology/dictionary#41460 -->
+
+    <owl:NamedIndividual rdf:about="https://purl.org/space-ontology/dictionary#41460">
+        <rdf:type rdf:resource="https://purl.org/space-ontology/dictionary#NORAD_Number"/>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#has_Longitude_of_GEO">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#has_NORAD_number">
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://purl.org/space-ontology/dictionary#has_Satellite_Name">
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert J. Rovetto</dc:creator>
+        <dc:creator rdf:resource="http://orcid.org/0000-0003-3835-7817"/>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
