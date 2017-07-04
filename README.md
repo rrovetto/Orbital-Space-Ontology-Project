@@ -10,10 +10,8 @@ When integrated each ontology module into a single ontology file, the whole may 
 
 | Ontology Name        | Link           | Description  |
 | ------------- |:-------------:| -----:|
-| The Orbital Debris Ontology (ODO)     | https://purl.org/space-ontology/odo | An ontology for orbital debris objects.
-  |
-| SSAO - The Space Situational Awareness Ontology 
-      | https://purl.org/space-ontology/ssao      |   An ontology for SSA processes yielding knowledge of orbital space environment |
+| The Orbital Debris Ontology (ODO)     | https://purl.org/space-ontology/odo | An ontology for orbital debris objects. |
+| SSAO - The Space Situational Awareness Ontology   | https://purl.org/space-ontology/ssao      |   An ontology for SSA processes yielding knowledge of orbital space environment |
 | zebra stripes | are neat      |    $1 |
 
 
