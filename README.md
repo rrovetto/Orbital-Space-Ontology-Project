@@ -1,9 +1,7 @@
 # The Orbital Space Environment Domain Ontology Project
-This project consists of developing a domain reference ontology or ontology suite, whose scope is the orbital space environemnt and space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The focus is formal representaitons of orbits and other orbital phenomena, orbital concepts, space objects, spacecraft maneuvers, and SSA. The ontology is intended to be generalized so that it is applicable to any central body or orbital reference frame, i.e., to any planet. 
+This project consists of developing a domain reference ontology or ontology suite, whose scope is the orbital space environemnt and space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The focus is formal representaitons of orbits and other orbital phenomena, orbital concepts, space objects, spacecraft maneuvers, and SSA. It is intended to be applicable to any central body or orbital reference frame, i.e., to any planet. Project landing page: http://purl.org/space-ontology. Contact the author for the ontology files.   
 
-The following non-exhaustive list of ontologies are conceived as part of a modular architecture of the ontology suite. Some are under development, others are concepts. Some or all of these ontologies  may compse or be imported into a single large ontology (to be developed) I call OSO (orbital space onology), OSDO (orbital space domain ontology), or OSEO (orbital space environment domain ontology) (name is work-in-progress) to encompass the entire scope or domain of the ontology.
-
-When integrated each ontology module into a single ontology file, the whole may be called OSDO: The Orbital Space Domain Ontology. Project landing page: http://purl.org/space-ontology
+The following ontologies are conceived as part of a modular architecture. Some are under development, others are concepts. Some or all of these ontologies may compse a single ontology I call the Orbital Space Onology (OSO). Alternative names are 'orbital space domain ontology' (OSDO), and 'orbital space environment domain ontology' (OSEDO). In isolation, modular ontologies can be used for specific applications or offices, e.g. NASA's Orbital Debris Office. 
 
 ## Ontologies
 (subject to revision, merger, etc.)
@@ -34,6 +32,8 @@ When integrated each ontology module into a single ontology file, the whole may 
 
 ## Status
 Under development. Subject to revision. No claims to completeness. _Funding and project partners wanted_
+
+This effort is currently independent and unfunded by the author so funding and partners are needed to thoroughly develop the ontologies. Interested parties should make contact. Informaticisits, Astrodynamicists, computer scientistis, ontology engineers, AI professionals, etc. are requested.
 
 **SEEKING funded opportunities to sustainably develop this project. Opportunnities of interest include:**
 * A funded degree studentship (BS, MS in a space discipline; and PhD in ontology, philosophy, or interdisciplinary with space) 
