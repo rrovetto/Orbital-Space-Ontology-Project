@@ -52,7 +52,7 @@ PDF: https://arxiv.org/abs/1704.01014
 ### Author
 Robert J. Rovetto
 * Ontologist, Philosopher, Aspiring student
-* _Emails_: rrovetto[at]terpalum.umd.edu (preferred), robert.rovetto[at]amu.apus.edu, rrovetto@buffalo.edu (alumnus email)
+* _Emails_: rrovetto@terpalum.umd.edu (preferred), ontologos@yahoo.com; robert.rovetto[at]amu.apus.edu, rrovetto[at]buffalo[dot]edu (alumnus email)
 * _Current Status_: seeking employment or studentship
 * [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded, volunteer affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/) (Unfunded, volunteer affiliation)
