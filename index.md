@@ -1,4 +1,5 @@
-Welcome to the landing page for the [Orbital Space Ontology & Taxonomy Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Ontologies are available upon request. Interested parties should contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@terpalum.umd.edu. Work is based on the publications listed below.
+Welcome to the landing page for the [Orbital Space Ontology & Taxonomy Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Ontologies are available upon request. Interested parties should contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@terpalum.umd.edu. Work is based on the [author's publications](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) listed below.
+
 [DONATE/FUND this project here](https://www.patreon.com/user?u=6298778).
 
 | Project Detail | Description |
@@ -56,6 +57,7 @@ Robert J. Rovetto
 * _Current Status_: seeking employment or studentship
 * [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded, volunteer affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/) (Unfunded, volunteer affiliation)
+* [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
 * [Author ORCID](http://orcid.org/0000-0003-3835-7817)
 * [Author GitHub homepage](http://github.com/rrovetto)
 * Alumnus of Univ.of Maryland, College Park (BA, philosophy; minor Business & Management w/IT focus); & Alumnus of The State University of New York (Philosophy, Ontology focus (interdisciplinary-comp sci, geography, phi)). 
