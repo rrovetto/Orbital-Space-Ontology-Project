@@ -1,4 +1,4 @@
-Welcome to the landing page for the [Orbital Space Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Ontologies are available upon request. Interested parties should contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@terpalum.umd.edu. Work is based on the publications listed below.
+Welcome to the landing page for the [Orbital Space Ontology & Taxonomy Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Ontologies are available upon request. Interested parties should contact [the author](http://orcid.org/0000-0003-3835-7817) at rrovetto@terpalum.umd.edu. Work is based on the publications listed below.
 [DONATE/FUND this project here](https://www.patreon.com/user?u=6298778).
 
 | Project Detail | Description |
