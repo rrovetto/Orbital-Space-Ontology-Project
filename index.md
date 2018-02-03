@@ -1,6 +1,7 @@
-Welcome to the landing page for the [Orbital Space Ontology & Taxonomy Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Ontologies are available upon request. Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) at rrovetto@terpalum.umd.edu. Work has been at the expense of the author, and based on the [my publications](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) listed below. I've developed many paper concepts and am open to co-authorship, grant-writing, and have identified grants that can be applied to but in orer to do so I need to be affiliated with a company or a university. The author seeks a studentship or other funded opportunity for this subject to be a thesis or project. Interested professors or orgs. should contact the author. 
+Welcome to the landing page for the [Orbital Space Ontology & Taxonomy Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project). Ontologies are available upon request. [DONATE HERE to support continuing this project and papers](https://www.patreon.com/user?u=6298778).
 
-[DONATE HERE to support continuing this project and papers](https://www.patreon.com/user?u=6298778).
+Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) at rrovetto@terpalum.umd.edu. Work has been independent, and based on the [author's publications](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) listed below. The author seeks a studentship or other funded opportunity for this (or related work) to be a thesis or project, and is open to co-authorship, and grant writing (having identified grants of interest). Interested professors or orgs. should contact the author.
+
 
 | Project Detail | Description |
 | -------------|:-------------|
