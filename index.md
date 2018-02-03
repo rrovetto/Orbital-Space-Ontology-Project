@@ -37,23 +37,26 @@ The following publications were unfunded, independent work, and not associated w
 
 * (1) “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014, online 2015). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3. [Download Paper (PDF)] (https://arxiv.org/ftp/arxiv/papers/1704/1704.01014.pdf): https://arxiv.org/abs/1704.01014
 
-* (2) “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto, R,J. and Kelso, T.S. In proceedings of 26th AIAA/AAS Space Flight Mechanics meeting, Napa, California, USA, Feb 14-18th, 2016. Advances in the Astronautical Sciences, Univelt Inc. Download Paper (PDF): https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf
+* (2) “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto, R,J. and Kelso, T.S. In proceedings of 26th AIAA/AAS Space Flight Mechanics meeting, Napa, California, USA, Feb 14-18th, 2016. Advances in the Astronautical Sciences, Univelt Inc. Download Paper(PDF): https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf, [Download PPT Presentation](http://www.slideshare.net/RobertRovetto/napa2016presentation-ssaorovettov8-59614620)
 
 * (3) "[The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf)", Rovetto, R.J. The Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016. [Download Poster (PDF)](https://www.academia.edu/26541860/_POSTER_The_Orbital_Space_Environment_and_Space_Situational_Awareness_Domain_Ontology_-_Toward_an_integrated_joint_space_ontology_and_space_data_system). [Download Paper](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf): http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf
 
-* (4) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)", Rovetto, R.J. In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016.
+* (4) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)", Rovetto, R.J. In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016. http://ceur-ws.org/Vol-1660/ecs-paper1.pdf
 
 * (5) "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems. Download Paper(PDF): http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf
 
-* (6) "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
+* (6) "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x, Download Paper(PDF): https://arxiv.org/ftp/arxiv/papers/1801/1801.02940.pdf
 
-* (7) "Space Object Ontology" URL= https://philpapers.org/archive/ROVSOO.pdf (forthcoming, under journal review since 2016) 
+* (7) "Space Object Ontology" Rovetto, R.J. https://philpapers.org/archive/ROVSOO.pdf (forthcoming, under journal review since 2016) 
 
 * (8) "[Orbital Debris Ontology](https://www.researchgate.net/profile/Robert_Rovetto/publication/311707634_Orbital_Debris_Ontology/links/585609c408ae77ec3706a80f/Orbital-Debris-Ontology.pdf?origin=publication_detail)", PPT presentation (part of SSA panel) at Center for Orbital Debris Education and Researh Workshop, University of Maryland, College Park.
 
 * (9) "[Ontology for Europe's Space Situational Awareness Programme](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf)", 7th European Conference on Space Debris, Darmstadt, Germany. [Download Paper (PDF)](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf): https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf. [Download Poster(PDF)](https://www.researchgate.net/profile/Robert_Rovetto/publication/316648084_An_Ontology_Architecture_Concept_for_Europe%27s_Space_Situational_Awareness_Program/links/5909c256458515ebb499498f/An-Ontology-Architecture-Concept-for-Europes-Space-Situational-Awareness-Program.pdf)
 
-* (10) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)" In CEUR Workshop proceedings for The Joint Ontology Workshops at the 9th International Conference of Formal Ontology for Information Systems (FOIS), Early Career Symposium, Annecy, France July 2016. [Download Paper(PDF)](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf): http://ceur-ws.org/Vol-1660/ecs-paper1.pdf
+* (10) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)" In CEUR Workshop proceedings for The Joint Ontology Workshops at the 9th International Conference of Formal Ontology for Information Systems (FOIS), Early Career Symposium, Annecy, France July 2016. [Download Paper(PDF)](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf): http://ceur-ws.org/Vol-1660/ecs-paper1.pdf , [Download PPT Presentation](https://www.dropbox.com/s/kels9r6b8ltmd1l/Presentation_TrentoPhDCourse2016_Rovetto.pdf?dl=0)
+
+* (11) "Ontology" Live Webinar to the NASA Datanauts, Spring 2017 (PPT available on request) 
+* (12) "Ontologies – Creating Human-centered Taxonomies to Annotate Data" in Data Discovery Magazine, Summer 2017 (p.15), by ISSUU, SecondMuse. https://issuu.com/secondmuse/docs/nasa-datanauts-2017
 
 ### Author
 Robert J. Rovetto
