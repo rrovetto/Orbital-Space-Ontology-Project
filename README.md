@@ -13,6 +13,7 @@ The following ontologies are conceived as part of a modular architecture. Some a
   An ontology for SSA processes yielding knowledge of orbital space environment 
   https://purl.org/space-ontology/ssao
 * **UCSSO - The Union of Concerned Scientists Satellite Ontology**
+  An ontology for spacecraft, based on the UCS Satellite Database. 
   https://purl.org/space-ontology/ucsso
 * **OO - The Orbital Ontology Core (the "Orbitology Ontology")**
   A general purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This will serve as a core ontology of high-level domain-specific classes for orbital entities for space domain ontologies. 
@@ -22,6 +23,8 @@ The following ontologies are conceived as part of a modular architecture. Some a
   An ontology of occurrences in orbit, e.g. collisions
 * **OOO - Orbital Object Ontology**
   An ontology of objects in orbital motion with orbital space of some central body or barycenter
+* **Space Mission Ontology**
+  An ontology of generic Space mission design concepts.
 * **NESEO - THe Near-Earth Space Environment Ontology**
   An ontology specifically for the near-Earth environment
 * **AMO - The Astrodynamics Modeling Ontology**
@@ -68,9 +71,12 @@ PDF:
 
 * [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
 
-* [6] "Orbital Debris Ontology" (PPT presentation), presented at Center for Orbital Debris Education and Research (CODER), University of Maryland, College Park, MD, USA, 2016. Panel URL= http://www.coder.umd.edu/coder2016/sessions
+* [6] "[Orbital Debris Ontology](http://dx.doi.org/10.13140/RG.2.2.26231.21928)" (PPT presentation), presented at Center for Orbital Debris Education and Research (CODER), University of Maryland, College Park, MD, USA, 15-17 November 2016. Panel URL= http://www.coder.umd.edu/coder2016/sessions
 
 * [7] "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
+
+
+“Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
 ## History, Author Bio-Contextual-Efforts
 This has been a pursuit since 2011 when I conceived of the concept for applying ontology to the orbital debris domain to help ameliorate the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). I continue to search for an opportunity to work sustainably on and complete this project, ideally in a team environment with professionals with the required knowledge, e.g., astrodynamics, astroinformatics, computer science, and ontological engineering. I have developed enough paper concepts to make this a PhD project, but also seek to enter a space discipline degree program, with astronauitcs and orbital dynamics being my original passions. 
