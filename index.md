@@ -2,8 +2,8 @@ Welcome to the landing page for the [Orbital Space Ontology & Terminology/Taxono
 Ontologies available on request. Work has been independent, and based on the [author's publications](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) listed below. Funding and partnerships for this project has been needed since inception. The author seeks a studentship or other funded opportunity for this (or related work) to be a thesis or project. The author is open to co-authorship, and grant-writing. Interested professors or organizations should contact me at rrovetto@terpalum.umd.edu
 
 **What you can do to help**
-* Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) 
-* [DONATE HERE](https://www.patreon.com/user?u=6298778) to support the project and associated papers.
+* Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
+[DONATE HERE](https://www.patreon.com/user?u=6298778) to support the project and associated papers.
 
 | Project Detail | Description |
 | -------------|:-------------|
@@ -79,16 +79,14 @@ Robert J. Rovetto
 * Space Studies coursework from American Military University (APUS).
 
 ###Update
-As of January there is a NASA student fellowship on ontologies. This, after a few months earlier of suggesting the topic to NASA technical advisor, and after asking about finding opportunities for myself. May God grant that I be allowed to participate.
+As of January there is a NASA student fellowship on ontologies. This, after a few months earlier of suggesting the topic to NASA technical advisor, and after asking about finding opportunities for myself.
 
 ### History: Author Bio-Contextual-Efforts
 I have been struggling to find opportunties for these ideas for years. I want this to be a project or thesis so I can return to studies in space disciplines. My oriingal interest is astronautics and space, but my most recent studies are interdisciplianry. 
 
 Since 2011 I've wanted this project to be an opportunity for further space education, and a hopeful foot-in-the-door to serve at NASA and a career in the space sector. I've wanted to build ontologies at NASA and space agencies. I've wanted this since 2011 when I thought of applying ontology to help with the orbital debris problem(1), after David Vallado of Agi Inc. mentioned the need for more debris data-integration and sharing during a presentation at the ISDC conference in Boulder, CO. My idea was to (i) help the debris hazard by facilitating data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts. (I wish to learn astrodynamics, and orbital concepts have been a facination since I was in my teens). This is part of my hopeful vision for a future degree on a space or astronautics topic, and a career in the space sector. I ideally want to work, intern, or temp for NASA or the ESA.
 
-Unfortunately, I've not been able to find a PhD-ship, other level studentship, or funding, despite applying to various programs. My non-stem degrees have been obstacles, despite the fact that by its very nature ontology is interdisciplinary and many projects use ontologists from non-STEM background to work on STEM topic areas.
-
-Additionally since that time, I've pursueing public and mil. community service in another field of interest. I've also experience some persons and companies run with some of my ideas (proof of plagarism available upon request). A sense of urgeny to realize this project (a dream-work, a life aspiration) has therefore driven me to write and publish at my expense, and to search for any funded opportunity.
+Unfortunately, I've not been able to find a PhD-ship, other level studentship, or funding, despite applying to various programs. My non-stem degrees have been obstacles, despite the fact that others with similar backgrounds used connections to get positions, and despite the fact that by its very nature ontology is interdisciplinary and many projects use ontologists from non-STEM background to work on STEM topic areas. Additionally since that time, I've pursued community service in another field of interest. I've also experiencde some persons and companies that have taken my ideas (proof of plagarism available upon request). A sense of urgeny to realize this project (a dream-work, a life aspiration) has therefore driven me to write and publish at my expense, and to search for any funded opportunity.
 
 If you are interested in helping realize this project, please contact me. I wish to work ideally in a team environment so that I can learn from professionals in the repsective disciplines (astrodynamics, astroinformatics, systems engineering, computer science, knowledge engineering, etc.). I seek a studentship for STEM or interdisciplinary space degree (e.g., astronautics, astronautical engienering, astrodynamics, space studies, etc). Funding sources, professors, and professionals who have intereste in this project should contact me (rrovetto@terpalum.umd.edu)
 
