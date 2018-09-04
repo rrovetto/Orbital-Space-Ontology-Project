@@ -7,7 +7,7 @@ Welcome to the landing page for the [Orbital Space Ontology & Terminology/Taxono
 * <i> Interested persons, professors, or organizations should contact me at rrovetto@terpalum.umd.edu </i>
 
 **What you can do to help**
-* Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) or [DONATE HERE](https://www.patreon.com/user?u=6298778) to support the project and associated papers.
+* Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) or [DONATE HERE](https://www.patreon.com/user?u=6298778) to support the project
 
 | Project Detail | Description |
 | -------------|:-------------|
