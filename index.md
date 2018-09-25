@@ -1,9 +1,9 @@
 Welcome to the landing page for the [Orbital Space Ontology & Terminology/Taxonomy Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
 <br><center><strong> Ontologies available on request.</strong> Contact me at rrovetto@terpalum.umd.edu.</center>
-* The author seeks a funded opportunity for this, including returning to school as a student to pursue it. (This effort has been independent, and based on the publications listed below)
+* **SEEKING:** The author seeks a funded opportunity in order to work on this, including studentship with this as a PhD or Master's thesis. (This effort has been independently pursued in the author's own time, and based on the publications listed below)
 * The author is open to co-authorship, and grant-writing.
-* The author is open to collaboration with authors of similar and precedeing works (partnership ideas is recent publications).
-* <em> Interested persons, professors, or organizations should contact me at rrovetto@terpalum.umd.edu </em>
+* The author is open to collaboration with authors of similar and precedeing works (example partnership ideas are in some of the publications).
+* <em> Interested persons, professors, or organizations should contact rrovetto@terpalum.umd.edu </em>
 
 **What you can do to help**
 * Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) or [DONATE HERE](https://www.patreon.com/user?u=6298778) to support the project
