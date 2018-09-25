@@ -65,6 +65,7 @@ The following publications were unfunded, independent work, and not associated w
 
 * (13) "[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/)", 68th International Astronautical Congress. September, 2017. [Download PDF here](https://www.researchgate.net/publication/320148742_Ontology-based_Knowledge_Management_for_Space_Data)
 
+* (14) "Ontology Engineering for Space Systems, Missions, and NASA Data", (Grant proposal), NASA Fellowship activity (2018).
 
 ### Author
 Robert J. Rovetto
