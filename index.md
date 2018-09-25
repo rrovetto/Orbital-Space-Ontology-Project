@@ -40,7 +40,7 @@ Welcome to the landing page for the [Orbital Space Ontology & Terminology/Taxono
 
 The following publications were unfunded, independent work, and not associated with any of my past or present affiliations.
 
-* (1) “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014, online 2015). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3. [Download Paper (PDF)] (https://arxiv.org/ftp/arxiv/papers/1704/1704.01014.pdf): https://arxiv.org/abs/1704.01014
+* (1) “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014, online 2015). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3. "[Download Paper (PDF)] (https://arxiv.org/ftp/arxiv/papers/1704/1704.01014.pdf)" https://arxiv.org/abs/1704.01014
 
 * (2) “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto, R,J. and Kelso, T.S. In proceedings of 26th AIAA/AAS Space Flight Mechanics meeting, Napa, California, USA, Feb 14-18th, 2016. Advances in the Astronautical Sciences, Univelt Inc. Download Paper(PDF): https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf, [Download PPT Presentation](http://www.slideshare.net/RobertRovetto/napa2016presentation-ssaorovettov8-59614620)
 
