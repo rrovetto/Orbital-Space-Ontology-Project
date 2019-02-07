@@ -1,15 +1,14 @@
 Welcome to the landing page for the [Orbital Space Ontology & Terminology/Taxonomy Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
 <br><center><strong> Ontologies available on request.</strong> Contact: rrovetto@terpalum.umd.edu.</center>
-* **SEEKING:** The author seeks a funded opportunity to work sustainably on this, as well as general employment. <br>
-[DONATE HERE](https://tinyurl.com/y9qegjsh)<br>
+* **SEEKING:** The author needs a funded opportunity to work sustainably on this, including general employment. <br>
+In the meantime, please [DONATE HERE](https://tinyurl.com/y9qegjsh) so development can continue. <br>
 * The author is open to pursuing this project as a  university degree thesis. (This effort has been independently pursued in the author's own time, and based on the publications listed below)
 * The author is open to co-authorship, and grant-writing.
 * The author is open to collaboration with authors of similar and precedeing works (example partnership ideas are in some of the publications).
-* <em> Interested persons, professors, or organizations should contact rrovetto@terpalum.umd.edu </em>
+* <em> Interested persons, professors, or organizations should contact the author at rrovetto@terpalum.umd.edu </em>
 
 **What you can do to help**
-* Interested parties should contact [the author](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) or [
-HERE](https://www.patreon.com/user?u=6298778) to support the project
+* Support by [DONATING HERE](https://tinyurl.com/y9qegjsh) or [BECOMING A PATRON HERE](https://www.patreon.com/user?u=6298778)
 
 | Project Detail | Description |
 | -------------|:-------------|
@@ -74,20 +73,17 @@ The following publications were unfunded, independent work, and not associated w
 Robert J. Rovetto
 * Seeking opportunities: seeking studentship or employment 
 * Ontologist, Philosopher, Aspiring student
-* _Emails_: rrovetto@terpalum.umd.edu (preferred), ontologos@yahoo.com; robert.rovetto[at]amu.apus.edu, 
+* _Emails_: rrovetto@terpalum.umd.edu (preferred. forwards to: ontologos@yahoo.com); robert.rovetto[at]amu.apus.edu, 
 * [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/) (Unfunded affiliation)
-* [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
-* [Author ORCID](http://orcid.org/0000-0003-3835-7817)
+* [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra),  [Author ORCID](http://orcid.org/0000-0003-3835-7817)
 * [Author GitHub homepage](http://github.com/rrovetto)
-* Alumnus of Univ.of Maryland, College Park (BA, Philosophy; Minor Business & Management w/IT focus)
-* Alumnus of The State University of New York (Philosophy, Ontology focus (interdisciplinary-comp sci, geography, phi)). 
+* B.A. Philosophy; Minor Business & Management w/IT focus, University of Maryland (2007) 
+* M.A. Philosophy (Ontology focus), The State University of New York (2011) 
 * Space Studies coursework from American Military University (APUS).
 
 ### History & Context
-I have been struggling to find opportunties for this project for years. Unnecessary obstacles have been either red-tape, my non-stem (but interdisciplinary) degrees, or other things.  Since 2011 I've wanted this project to be an opportunity for further space education, and a hopeful foot-in-the-door to serve at NASA (or other agency) and a career path in the space sector. I've wanted to help build ontologies at NASA and other agencies. I've wanted this since 2011 when I thought of applying ontology to help with the orbital debris problem(1), after David Vallado of Agi Inc. mentioned the need for more debris data-integration and sharing during a presentation at the ISDC conference in Boulder, CO. My idea was to (i) help the debris hazard by facilitating data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts. 
-
-I wish to learn astrodynamics, and orbital concepts have been a facination since I was in my teens. This is part of my hopeful vision for a future degree on a space or astronautics topic, and a career in the space sector.
+Orbital concepts have fascinated me since I was in my teens. I have been struggling to find opportunties for this project for years. Unnecessary obstacles and resistance to affording an opportunity have been the challenge. Since 2011 I've wanted this project to be an opportunity for further space education, and a foot-in-the-door to serve at NASA (or another space org.) toward a career path in the space sector. I want to help build ontologies at NASA and other agencies. I've wanted this since 2011 when I thought of applying ontology to help with the orbital debris problem(1), after David Vallado of Agi Inc. mentioned the need for more debris data-integration and sharing during a presentation at the ISDC conference in Boulder, CO. My idea was to (i) help the debris hazard by facilitating data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts. Through a studensthip or employer-funded opportunity, I wish to learn astrodynamics. This is part of my hopeful vision for a future degree on a space or astronautics topic, and a career in the space sector.
 
 Unfortunately, no opportunity has been forthcoming. I've not been able to find a PhD spot or departments/professors interested in the topic. My non-stem degrees have been obstacles, despite the fact that others with similar backgrounds used connections to get positions, and despite the fact that by its very nature, ontology is interdisciplinary and many projects use ontologists from non-STEM background to work on STEM topic areas. I've also experienced some persons and companies take my ideas (proof of plagarism available upon request). A sense of urgeny to realize this project (a dream-work, a life aspiration) has therefore driven me to write and publish at my expense. However, a job, a studenthip or other funded opportunity is needed to work on the project.  
 
