@@ -4,7 +4,7 @@ Welcome to the description page for the [Orbital Space Domain Ontology & Termino
 <center><em>If you are interested in helping realize this project, please contact me.</em></center>
 <center>Open to partners & collaborative development. Interested persons or organizations should contact</center>
 
-In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A Patron Here](https://www.patreon.com/user?u=6298778) so development can continue. (Has been independently pursued in author's own time. Based on publications below)
+In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A Patron Here](https://www.patreon.com/user?u=6298778) so development can continue. (This has been independently pursued in author's own time, based on publications below)
 
 | Project Detail | Description |
 | -------------|:-------------|
@@ -22,6 +22,7 @@ In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A
 | Orbital Ontology Core ("The orbitology ontology") (OO) | A generic base ontology containing the core orbital terms used by ODO, SSAO and other terms. A general-purpose ontology to ontologically model any orbit from inputted instance data (data on particular satellites). Will be importable into other ontologies needing orbital concepts. | TBD | Under development | 
 | OSO/OSDO/OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology | A single ontology file containing the above modules. The SSAO may be renamed accordingly. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame. | TBD | Under development |
 | The Space Mission Ontology | An ontology of space mission design and system concepts. A module to focus on the mission-level, but which draws on concepts from other modules, such as spacecraft ontology. | 
+| The Space Traffic Management Ontology | An ontology of STM concepts. |
 | [The Union of Concerned Scientists Satellite Database Ontology](https://purl.org/space-ontology/ucsso)(UCSSO) | A database-specific ontology for the [UCS Satellite Database](http://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database). Uses terms from the other ontologies to demonstrate reuse. | https://purl.org/space-ontology/ucsso | Complete, but subject to minor revisions when/if requested by users or the UCS. | 
    
 **NOTES:**
