@@ -4,7 +4,7 @@ Welcome to the description page for the [Orbital Space Domain Ontology & Termino
 <center><em>If you are interested in helping realize this project, please contact me.</em></center>
 <center>Open to partners & collaborative development. Interested persons or organizations should contact rrovetto@terpalum.umd.edu</center>
 
-In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A Patron Here](https://www.patreon.com/user?u=6298778) so development can continue. (This has been independently pursued in the author's own time, and based on the publications listed below)
+In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A Patron Here](https://www.patreon.com/user?u=6298778) so development can continue. (Has been independently pursued in author's own time. Based on publications below)
 
 | Project Detail | Description |
 | -------------|:-------------|
