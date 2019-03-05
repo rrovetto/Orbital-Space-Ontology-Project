@@ -23,6 +23,8 @@ In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A
 | OSO/OSDO/OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology | A single ontology file containing the above modules. The SSAO may be renamed accordingly. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame. | TBD | Under development |
 | The Space Mission Ontology | An ontology of space mission design and system concepts. A module to focus on the mission-level, but which draws on concepts from other modules, such as spacecraft ontology. | 
 | The Space Traffic Management Ontology | An ontology of STM concepts. |
+| The Orbital Object Ontology | An ontology of all objects and their parts in orbit |
+| The Spacecraft Ontology | An ontology of spacecraft and their systems and parts |
 | [The Union of Concerned Scientists Satellite Database Ontology](https://purl.org/space-ontology/ucsso)(UCSSO) | A database-specific ontology for the [UCS Satellite Database](http://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database). Uses terms from the other ontologies to demonstrate reuse. | https://purl.org/space-ontology/ucsso | Complete, but subject to minor revisions when/if requested by users or the UCS. | 
    
 **NOTES:**
