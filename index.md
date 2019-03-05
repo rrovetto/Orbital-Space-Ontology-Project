@@ -74,9 +74,8 @@ Robert J. Rovetto,  [Google Scholar](https://scholar.google.com/citations?user=j
 * [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/) (Unfunded affiliation)
 * _Emails_: rrovetto@terpalum.umd.edu (preferred. forwards to: ontologos@yahoo.com); robert.rovetto[at]amu.apus.edu 
-* [Author ORCID](http://orcid.org/0000-0003-3835-7817)
-* [Author GitHub homepage](http://github.com/rrovetto)
-* B.A. Philosophy; Minor Business & Management w/IT focus, University of Maryland (2007) 
+* [Author ORCID](http://orcid.org/0000-0003-3835-7817),  [Author GitHub homepage](http://github.com/rrovetto)
+* B.A. Philosophy, Minor Business & Management w/IT focus, University of Maryland (2007) 
 * M.A. Philosophy (Ontology focus), The State University of New York (2011) 
 * Space Studies graduate coursework from American Military University (APUS) (varia 2009-2012).
 
