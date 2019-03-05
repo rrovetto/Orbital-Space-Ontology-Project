@@ -2,7 +2,7 @@ Welcome to the description page for the [Orbital Space Ontology & Terminology/Ta
 <br>
 <center><strong>SEEKING funding, or a funded work or student opportunity to work sustainably on this.</strong></center>
 <center><em>Open to partners. Interested persons or organizations should contact the author at rrovetto@terpalum.umd.edu </em></center>
-<br>
+
 In the meantime, please [DONATE HERE](https://tinyurl.com/y9qegjsh) or [BECOMING A PATRON HERE](https://www.patreon.com/user?u=6298778) so development can continue. (This has been independently pursued in the author's own time, and based on the publications listed below) Ontologies available on request.
 
 | Project Detail | Description |
