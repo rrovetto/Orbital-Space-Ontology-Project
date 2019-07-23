@@ -12,7 +12,7 @@ In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A
 | Status | <strong>NEEDs funding or opportunity to continue development.</strong> Currently unfunded and independently pursued by author. Ontoogies subject to revision. No claims to completeness are made. |
 | Seeking / Needing | <strong>-Funding or employment </strong> to pursue this project. Please [DONATE HERE](https://www.patreon.com/user?u=6298778) <br><strong>- Partners</strong>: university departments, professors; subject-matter experts, ontology developers, informaticists, computer scientistis, etc. <br><strong>- Potential applications </strong>of these ontologies in space agencies, university projects, or industry <br>-Author seeks a degree studentship for this project (toward a BS or MS in a space discipline; and/or a PhD in ontology, philosophy, or interdisciplinary dept.)|
 
-### Ontologies (Available upon request)
+### Ontologies
 
 | Ontology Name        | Description            | Link to OWL File    | Status     |
 | ------------- |:-------------:|:-------------------------:|:----------------------:|
