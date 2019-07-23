@@ -1,8 +1,7 @@
 Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto@terpalum.umd.edu)
 <br>
-<center><strong>- This project NEEDs FUNDING OR AN OPPORTUNITY (EMPLOYMENT OR STUDENTSHIP) to continue development -</strong></center>
-<center><em>If you are interested in helping realize this project, please contact me.</em></center>
-<center>Open to partners & collaborative development. Interested persons or organizations should contact</center>
+<center><strong>- This project NEEDs AN OPPORTUNITY (SPONSORSHIP, FUNDING, EMPLOYMENT or STUDENTSHIP) to continue development -</strong></center>
+<center>Open to partners, & collaborative development. Interested persons or organizations should contact me.</center>
 
 In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Become A Patron Here](https://www.patreon.com/user?u=6298778) so development can continue. (This has been independently pursued in author's own time, based on publications below)
 
@@ -71,21 +70,22 @@ The following publications were unfunded, independent work, and not associated w
 
 * (13) "[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/)", 68th International Astronautical Congress. September, 2017. [Download PDF here](https://www.researchgate.net/publication/320148742_Ontology-based_Knowledge_Management_for_Space_Data)
 
-* (14) "Ontology Engineering for Space Systems, Missions, and NASA Data", (Grant proposal), NASA Fellowship activity (2018).
-
-### Author
-Robert J. Rovetto,  [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)(Ontologist, Philosopher, Aspiring student)
-* Seeking opportunities: studentships, employment. Available as consultant as well. 
+### Author Bio
+Robert J. Rovetto, (Ontologist, Philosopher, Aspiring student), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
+* <em>Seeking opportunities</em>: studentships, entry-level employment. Available as consultant. 
 * [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/) (Unfunded affiliation)
-* _Emails_: rrovetto@terpalum.umd.edu (preferred. forwards to: ontologos@yahoo.com); robert.rovetto[at]amu.apus.edu 
-* [Author ORCID](http://orcid.org/0000-0003-3835-7817),  [Author GitHub homepage](http://github.com/rrovetto)
+* Committee member for Standards, American Institute of Aeronautics and Astronautics
+* Education Committee member, International Association for Ontology and its Applications
+* _Emails_: rrovetto[at]terpalum.umd.edu (Preferred. Forwards to: ontologos@yahoo.com); robert.rovetto[at]amu.apus.edu; robertjohnrovetto[at]gmail[dot]com
+* [ORCID Profile](http://orcid.org/0000-0003-3835-7817),  &nbsp; [GitHub Homepage](http://github.com/rrovetto)
 * B.A. Philosophy, Minor Business & Management w/IT focus, University of Maryland (2007) 
-* M.A. Philosophy (Ontology focus), The State University of New York (2011) 
-* Space Studies graduate coursework from American Military University (APUS) (varia 2009-2012).
+* M.A. Philosophy, Ontology focus, The State University of New York (2011) 
+* Coursework in Space Studies, American Military University (APUS) (varia 2009-2012, TBD).
+* Maritime training, credentials and experience available on request 
 
 ### History & Context
-Orbital concepts have fascinated me since I was in my teens. In 2011 I thought of applying ontology to help with the orbital debris problem(1), after David Vallado (AGI Inc.) mentioned the need for more debris data-integration and sharing during a presentation at the ISDC conference in Boulder, CO. My idea was to (i) help by facilitating data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts so that I could gain greater understanding.
+Orbital concepts have fascinated me since I was in my teens. In 2011 I thought of applying ontology to help with the orbital debris problem(1), after a astronautics conference presentation in Boulder, Colorado mentioned the need for more debris data-integration and sharing. My idea was to (i) help by facilitating data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts so that I could gain greater understanding.
 
 I want to help build ontologies at/for space agencies, academia projects, and in industry. I want to learn astrodynamics and any necessary coding skills through a studensthip or employer-funded opportunity. I want to work in a team environment so that I can learn from professionals in the repsective disciplines (astrodynamics, astroinformatics, systems engineering, computer science, knowledge engineering, etc.). I seek interested professors and university departments so I can return to school for a philosophy or interedisciplinary ontology PhD. Since 2011 <em>I've wanted this project to be a PhD thesis and an opportunity for further space education toward a foot-in-the-door to my original passion--space--</em>and to serve at NASA (or another space org.) toward a career path in the space sector. <em>This is part of my hopeful vision for a future degree on a space or astronautics topic, and a career in the space sector.</em>
 
