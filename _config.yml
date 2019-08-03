@@ -5,7 +5,7 @@ name: Robert J. Rovetto
 url: https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
