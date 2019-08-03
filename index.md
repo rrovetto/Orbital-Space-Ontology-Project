@@ -1,6 +1,6 @@
-Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto@terpalum.umd.edu) I want to help build ontologies for space organizations and academia projects.
+Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto[at]terpalum.umd.edu). I want to help build ontologies for space organizations and academia projects. I want my ontologies to be used and developed.
 <br>
-<center><strong>- I need an opportunity (sponsorship, employment, or studentship) to continue development of my ontologies -</strong></center>
+<center><strong>- I need an opportunity (sponsorship, employment, or studentship) to continue development -</strong></center>
 <center>I want this to be a PhD, but I need to find professors interested in it, as well as mentors.</center>
 <center>Open to partners & collaborative development. Interested persons or organizations should contact me.</center>
 
