@@ -63,22 +63,22 @@ The following publications were unfunded, independent work, and not associated w
 
 * (9) "[Ontology for Europe's Space Situational Awareness Programme](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf)", 7th European Conference on Space Debris, Darmstadt, Germany. [Download Paper (PDF)](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf) https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf. [Download Poster(PDF)](https://www.researchgate.net/profile/Robert_Rovetto/publication/316648084_An_Ontology_Architecture_Concept_for_Europe%27s_Space_Situational_Awareness_Program/links/5909c256458515ebb499498f/An-Ontology-Architecture-Concept-for-Europes-Space-Situational-Awareness-Program.pdf)
 
-* (10) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)" In CEUR Workshop proceedings for The Joint Ontology Workshops at the 9th International Conference of Formal Ontology for Information Systems (FOIS), Early Career Symposium, Annecy, France July 2016. [Download Paper(PDF)](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf), [Download PPT Presentation](https://www.dropbox.com/s/kels9r6b8ltmd1l/Presentation_TrentoPhDCourse2016_Rovetto.pdf?dl=0)
+* (10) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)" In CEUR Workshop proceedings for The Joint Ontology Workshops at the 9th International Conference of Formal Ontology for Information Systems (FOIS), Early Career Symposium, Annecy, France July 2016. [Download Paper(PDF)](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf), [Download PPT Presentation](https://www.dropbox.com/s/kels9r6b8ltmd1l/Presentation_TrentoPhDCourse2016_Rovetto.pdf?dl=0){:target="_blank" rel="noopener"}
 
 * (11) "Ontology" Live Webinar to the NASA Datanauts, Spring 2017 (PPT available on request) 
-* (12) "Ontologies – Creating Human-centered Taxonomies to Annotate Data" in Data Discovery Magazine, Summer 2017 (p.15), by ISSUU, SecondMuse. [Article in Magazine Site](https://issuu.com/secondmuse/docs/nasa-datanauts-2017), [On NASA Site](https://open.nasa.gov/blog/data-discovery-creating-human-centered-taxonomies-annotate-data/)
+* (12) "Ontologies – Creating Human-centered Taxonomies to Annotate Data" in Data Discovery Magazine, Summer 2017 (p.15), by ISSUU, SecondMuse. [Article in Magazine Site](https://issuu.com/secondmuse/docs/nasa-datanauts-2017){:target="_blank" rel="noopener"}, [On NASA Site](https://open.nasa.gov/blog/data-discovery-creating-human-centered-taxonomies-annotate-data/){:target="_blank" rel="noopener"}
 
-* (13) "[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/)", 68th International Astronautical Congress. September, 2017. [Download PDF here](https://www.researchgate.net/publication/320148742_Ontology-based_Knowledge_Management_for_Space_Data)
+* (13) "[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/){:target="_blank" rel="noopener"}", 68th International Astronautical Congress. September, 2017. [Download PDF here](https://www.researchgate.net/publication/320148742_Ontology-based_Knowledge_Management_for_Space_Data){:target="_blank" rel="noopener"}
 
 ### Author Bio
-Robert J. Rovetto, (Ontologist, Philosopher, Aspiring student), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
+Robert J. Rovetto, (Ontologist, Philosopher, Aspiring student), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra){:target="_blank" rel="noopener"}
 * <em>Seeking opportunities</em>: studentships, entry-level employment. Available as consultant. 
-* [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
-* [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/) (Unfunded affiliation)
+* [Research Affiliate](http://www.coder.umd.edu/node/287){:target="_blank" rel="noopener"}, Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
+* [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/){:target="_blank" rel="noopener"} (Unfunded affiliation){:target="_blank" rel="noopener"}
 * Committee member for Standards, American Institute of Aeronautics and Astronautics
 * Education Committee member, International Association for Ontology and its Applications
 * _Emails_: rrovetto[at]terpalum.umd.edu (Preferred. Forwards to: ontologos@yahoo.com); robert.rovetto[at]amu.apus.edu; robertjohnrovetto[at]gmail[dot]com
-* [ORCID Profile](http://orcid.org/0000-0003-3835-7817),  &nbsp; [GitHub Homepage](http://github.com/rrovetto)
+* [ORCID Profile](http://orcid.org/0000-0003-3835-7817){:target="_blank" rel="noopener"},  &nbsp; [GitHub Homepage](http://github.com/rrovetto){:target="_blank" rel="noopener"}
 * B.A. Philosophy, Minor Business & Management w/IT focus, University of Maryland (2007) 
 * M.A. Philosophy, Ontology focus, The State University of New York (2011) 
 * Coursework in Space Studies, American Military University (APUS) (varia 2009-2012, TBD).
