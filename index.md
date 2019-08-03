@@ -1,6 +1,6 @@
-Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto@terpalum.umd.edu)
+Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto@terpalum.umd.edu) I want to help build ontologies for space organizations and academia projects.
 <br>
-<center><strong>- I need an opportunity (sponsorship, employment, or studentship) to continue development -</strong></center>
+<center><strong>- I need an opportunity (sponsorship, employment, or studentship) to continue development of my ontologies -</strong></center>
 <center>I want this to be a PhD, but I need to find professors interested in it, as well as mentors.</center>
 <center>Open to partners & collaborative development. Interested persons or organizations should contact me.</center>
 
@@ -73,24 +73,27 @@ The following publications were unfunded, independent work, and not associated w
 
 ### Author Bio
 Robert J. Rovetto, (Ontologist, Philosopher, Aspiring student), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra){:target="_blank" rel="noopener"}
-* <em>Seeking opportunities</em>: studentships, entry-level employment. Available as consultant. 
+* <em>Seeking opportunities</em>: studentships, entry-level employment, contract work. Available as consultant. Seeking mentors. 
 * [Research Affiliate](http://www.coder.umd.edu/node/287){:target="_blank" rel="noopener"}, Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/){:target="_blank" rel="noopener"} (Unfunded affiliation)
-* Committee member for Standards, American Institute of Aeronautics and Astronautics
+* American Institute of Aeronautics and Astronautics, SA Committee on Standards
 * Education Committee member, International Association for Ontology and its Applications
 * _Emails_: rrovetto[at]terpalum.umd.edu (Preferred. Forwards to: ontologos@yahoo.com); robert.rovetto[at]amu.apus.edu; robertjohnrovetto[at]gmail[dot]com
 * [ORCID Profile](http://orcid.org/0000-0003-3835-7817){:target="_blank" rel="noopener"},  &nbsp; [GitHub Homepage](http://github.com/rrovetto){:target="_blank" rel="noopener"}
-* B.A. Philosophy, Minor Business & Management w/IT focus, University of Maryland (2007) 
-* M.A. Philosophy, Ontology focus, The State University of New York (2011) 
-* Coursework in Space Studies, American Military University (APUS) (varia 2009-2012, TBD).
+* B.A. Philosophy, Minor Business & Management w/IT focus, Dept. of Philosophy, University of Maryland (2007) 
+* M.A. Philosophy (ontology focus), Dept. of Philosophy, The State University of New York at Buffalo (2011) 
+* Coursework in Space Studies MS program, American Military University (APUS) (varia 2009-2013, TBD).
 * Maritime training, credentials and experience available on request 
 
 ### History & Context
-Orbital concepts have fascinated me since I was in my teens. In 2011 I thought of applying ontology to help with the orbital debris problem(1), after a astronautics conference presentation in Boulder, Colorado mentioned the need for more debris data-integration and sharing. My idea was to (i) help by facilitating data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts so that I could gain greater understanding.
+Orbits and orbital concepts have fascinated me since I was in my teens. In 2011 I thought of applying ontology to help with the orbital debris problem(1), after a astronautics conference presentation in Boulder, Colorado mentioned the need for more debris data-integration and sharing. My idea was to (i) facilitate data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts so that I could continue my space education. After years of pursuing a path away from my orginial interest in space, I saw this as a way to return to it, and a foot-in-the-door to a career-track to space. 
 
-I want to help build ontologies at/for space agencies, academia projects, and in industry. I want to learn astrodynamics and any necessary coding skills through a studensthip or employer-funded opportunity. I want to work in a team environment so that I can learn from professionals in the repsective disciplines (astrodynamics, astroinformatics, systems engineering, computer science, knowledge engineering, etc.). I seek interested professors and university departments so I can return to school for a philosophy or interedisciplinary ontology PhD. Since 2011 <em>I've wanted this project to be a PhD thesis and an opportunity for further space education toward a foot-in-the-door to my original passion--space--</em>and to serve at NASA (or another space org.) toward a career path in the space sector. <em>This is part of my hopeful vision for a future degree on a space or astronautics topic, and a career in the space sector.</em>
+I want to help build ontologies for the space sector (space orgs., agencies, academia or university projects, space companies, etc.) I want to learn astrodynamics and any necessary coding skills through a studensthip or employer-funded opportunity. 
+I want to work in a team environment so that I can learn from professionals in the repsective disciplines (astrodynamics, astroinformatics, systems engineering, computer science, knowledge engineering, etc.). 
+I need to find professors interested in this project, and appropriate departments, so I can return to university to get a PhD or other degree (e.g., philosophy, an interedisciplinary program, systems engineering, information studies, etc.). 
+Since 2011 <em>I've wanted this project to be a PhD thesis and an opportunity for further space education toward a foot-in-the-door to my original passion--space--</em>and to serve at NASA (or another space org.) toward a career path in the space sector. <em>This is part of my hopeful vision for a future degree on a space or astronautics topic, and a career in the space sector.</em>
 
-Unfortunately, no opportunity has been forthcoming. I have been struggling to find opportunties for this project since conception. Unnecessary obstacles and resistance to affording an opportunity have been the challenge. My non-stem degrees have been obstacles, despite the fact that many of cohort (former classmates, proffessor, supervisors) with identicially backgrounds/degrees were afforded opportunity. (Ontology is interdisciplinary and many projects use ontologists from non-STEM background to work on STEM topic areas.) I've also experienced persons and companies illegally take my ideas (proof of plagarism available upon request). A sense of urgency to realize this project (a work of love, and a life aspiration) has therefore driven me to write and publish at my expense. Given my creativity and drive, I wish for an opportunity.
+Unfortunately, no opportunity has been forthcoming. I've been struggling to find opportunties for this project since conception. Unnecessary obstacles and resistance to affording an opportunity have been the challenge. My non-stem degrees have been obstacles, despite the fact that many of cohort (former classmates, proffessor, supervisors) with identicially backgrounds/degrees were afforded opportunity. (Ontology is interdisciplinary and many projects use ontologists from non-STEM background to work on STEM topic areas.) I've also experienced persons and companies illegally take my ideas (proof of plagarism available upon request). A sense of urgency to realize this project (a work of love, and a life aspiration) has therefore driven me to write and publish at my expense. Given my creativity and drive, I wish for an opportunity.
 
 <strong>If you are interested in helping realize this project, please contact me.</strong> 
 
