@@ -3,7 +3,7 @@ This project consists of developing a domain reference ontology or ontology suit
 
 The following ontologies are conceived as part of a modular architecture. Some are under development, others are concepts. Some or all of these ontologies may compse a single ontology I call the Orbital Space Onology (OSO). Alternative names are 'orbital space domain ontology' (OSDO), and 'orbital space environment domain ontology' (OSEDO). In isolation, modular ontologies can be used for specific applications or offices, e.g. NASA's Orbital Debris Office. 
 
-## Ontologies
+## Ontologies to complete
 (subject to revision, merger, etc.)
 
 * **ODO - The Orbital Debris Ontology**
@@ -12,48 +12,52 @@ The following ontologies are conceived as part of a modular architecture. Some a
 * **SSAO - The Space Situational Awareness Ontology**
   An ontology for SSA processes yielding knowledge of orbital space environment 
   https://purl.org/space-ontology/ssao
-* **UCSSO - The Union of Concerned Scientists Satellite Ontology**
-  An ontology for spacecraft, based on the UCS Satellite Database. 
-  https://purl.org/space-ontology/ucsso
 * **OO - The Orbital Ontology Core (the "Orbitology Ontology")**
-  A general purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This will serve as a core ontology of high-level domain-specific classes for orbital entities for space domain ontologies. 
-* **OSO / OSDO/ OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Ontology**
-  The broadest scope encompassing and consisting of the following ontologies. A generic formal represenation for the orbital space aboat any central body or astronomical reference frame.  
+  An general purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This will serve as a core ontology of high-level domain-specific classes for orbital entities for space domain ontologies. 
+* **The Celestial Orbit Type Ontology**
+An ontology of orbital categories.
+* **OSO/OSDO/OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Domain Ontology**
+  The broadest scope encompassing and consisting of the following ontologies. A generic formal represenation for the orbital space about any central body or astronomical reference frame.  
+* **UCSSO - The Union of Concerned Scientists Satellite Ontology**
+  A case-study demonstration of building an ontology for a specific database. This is an ontology for UCS Satellite Database, not intended for any other (but intended to show that the SSAO or the OSO can be used for any database). 
+  https://purl.org/space-ontology/ucsso
+* **STMO - The Space Traffic Management Ontology**
 * **OEO - Orbital Event & Process Ontology**
   An ontology of occurrences in orbit, e.g. collisions
 * **OOO - Orbital Object Ontology**
-  An ontology of objects in orbital motion with orbital space of some central body or barycenter
+  An ontology of objects in orbital motion about some central body or barycenter. 
 * **Space Mission Ontology**
   An ontology of generic Space mission design concepts.
 * **NESEO - THe Near-Earth Space Environment Ontology**
-  An ontology specifically for the near-Earth environment
+  An ontology specifically for the near-Earth environment. This can be an ontological model of instance data, whereas OSO and the SSAO capture universal concepts. 
 * **AMO - The Astrodynamics Modeling Ontology**
   An ontology of the astrodynamic models for objects in orbits. 
 * **SWO - Space Weather Ontology**
   An ontology of space weather phenomena as contrasted with space artefacs such as artificial orbital debris. 
   SWO classes may be found in existing astronomy ontologies(TBD) 
 
-## Status
-Under development. Subject to revision. No claims to completeness. _Funding and project partners wanted_
+## Status & Desiderata
+* Some under development. All Subject to revision. No claims to completeness.
+* _Need funding and partners to complete work_ 
+* Seeking professors interested in me as a phd student for this project.
+* This effort is currently independent and unfunded by the author so funding and partners are needed to thoroughly develop the ontologies. Interested parties should make contact. Informaticisits, Astrodynamicists, computer scientistis, ontology engineers, AI professionals, etc. are requested.
 
-This effort is currently independent and unfunded by the author so funding and partners are needed to thoroughly develop the ontologies. Interested parties should make contact. Informaticisits, Astrodynamicists, computer scientistis, ontology engineers, AI professionals, etc. are requested.
-
-**SEEKING funded opportunities to sustainably develop this project. Opportunnities of interest include:**
-* A funded degree studentship (BS, MS in a space discipline; and PhD in ontology, philosophy, or interdisciplinary with space) 
-* An employment contract 
+**SEEKING sponsorship or other funded opportunities to sustainably continue development. Personal opportunnities of interest include:**
+* A university degree studentship (a BS or MS in a space discipline; or a PhD in ontology, philosophy, or interdisciplinary) 
+* An employment contract
 * Grants (e.g., with NASA, ESA, EU, etc.)
-* University professors and companies to partner with to apply for grants 
+* University professors and companies to partner with and apply for grants 
 * Partners, coauthors, etc.
 
 The scope of each ontology will overalp--there will be a set of ontology terms shared among the subdomain ontologies. This set of classes will tentatively be placed in an ontology file to be imported as a core orbital ontology for the others.
 
 ### Example Users
-* A planetary orbit visualization application, NASA
+* A planetary orbit visualization application by Dr.Daniel O'Neil, NASA MSFC.
 
 ## Creator/Developer
 Robert J. Rovetto
-rrovetto[at]terpalum.umd.edu
-Ontologist, Philosopher, Aspiring student
+rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
+Space Ontologist, Philosopher, Aspiring student
 [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
 [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
 Alumnus of Univ.of Maryland, & The State University of New York. 
@@ -75,8 +79,9 @@ PDF:
 
 * [7] "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 
+* [8] "Orbital Debris Ontology,Terminology, and Knowledge Modeling"(https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA.
 
-“Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
+* [9] “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
 ## History, Author Bio-Contextual-Efforts
 This has been a pursuit since 2011 when I conceived of the concept for applying ontology to the orbital debris domain to help ameliorate the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). I continue to search for an opportunity to work sustainably on and complete this project, ideally in a team environment with professionals with the required knowledge, e.g., astrodynamics, astroinformatics, computer science, and ontological engineering. I have developed enough paper concepts to make this a PhD project, but also seek to enter a space discipline degree program, with astronauitcs and orbital dynamics being my original passions. 
