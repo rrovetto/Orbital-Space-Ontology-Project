@@ -1,12 +1,11 @@
 Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto[at]terpalum.umd.edu). I want the resulting ontologies to be used by the community. I also want to help build ontologies for space organizations and academia projects.
 <br>
 ### Status
-* Need... a funded opportunity or stable environment to continue development: sponsors, partners, employment, or a studentship 
-* Professors interested in me as a student should send a message (so this can be a PhD).
+* I need a funded opportunity to continue development: sponsors, grants, employment, or a studentship to return to university 
+* Professors interested in me as a student for this project should send a message
 * Open to partners & collaborative development. Interested persons or organizations should contact me.
-
 ### How you can help
-Please [Donate Here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Become A Patron Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"}  so development can continue. (This has been independently pursued in author's own time, based on publications below)
+* Please [Donate here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (This has been independently pursued in author's own time, based on publications below)
 
 | Project Detail | Description |
 | -------------|:-------------|
