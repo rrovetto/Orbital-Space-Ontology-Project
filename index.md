@@ -1,10 +1,12 @@
-Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), by [Robert Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto[at]terpalum.umd.edu). I want to help build ontologies for space organizations and academia projects. I want my ontologies to be used and developed.
+Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto[at]terpalum.umd.edu). I want the resulting ontologies to be used by the community. I also want to help build ontologies for space organizations and academia projects.
 <br>
-<center><strong>- I need an opportunity (sponsorship, employment, or studentship) to continue development -</strong></center>
-<center>I want this to be a PhD, but I need to find professors interested in it, as well as mentors.</center>
-<center>Open to partners & collaborative development. Interested persons or organizations should contact me.</center>
+### Status
+* Need... a funded opportunity or stable environment to continue development: sponsors, partners, employment, or a studentship 
+* Professors interested in me as a student should send a message (so this can be a PhD).
+* Open to partners & collaborative development. Interested persons or organizations should contact me.
 
-In the meantime, please [Donate Here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Become A Patron Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"}  so development can continue. (This has been independently pursued in author's own time, based on publications below)
+### How you can help
+Please [Donate Here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Become A Patron Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"}  so development can continue. (This has been independently pursued in author's own time, based on publications below)
 
 | Project Detail | Description |
 | -------------|:-------------|
@@ -71,6 +73,8 @@ The following publications were unfunded, independent work, and not associated w
 
 * (13) "[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/){:target="_blank" rel="noopener"}", 68th International Astronautical Congress. September, 2017. [Download PDF here](https://www.researchgate.net/publication/320148742_Ontology-based_Knowledge_Management_for_Space_Data){:target="_blank" rel="noopener"}
 
+* (14) "[Orbital Debris Ontology,Terminology, and Knowledge Modeling](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", 1st International Orbital Debris Conference. December, 2019. [Poster here](https://www.hou.usra.edu/meetings/orbitaldebris2019/eposter/6172.pdf){:target="_blank" rel="noopener"}
+
 ### Author Bio
 Robert J. Rovetto, (Ontologist, Philosopher, Aspiring student), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra){:target="_blank" rel="noopener"}
 * <em>Seeking opportunities</em>: studentships, entry-level employment, contract work. Available as consultant. Seeking mentors. 
@@ -86,15 +90,17 @@ Robert J. Rovetto, (Ontologist, Philosopher, Aspiring student), [Google Scholar]
 * Maritime training, credentials and experience available on request 
 
 ### History & Context
-Orbits and orbital concepts have fascinated me since I was in my teens. In 2011 I thought of applying ontology to help with the orbital debris problem(1), after a astronautics conference presentation in Boulder, Colorado mentioned the need for more debris data-integration and sharing. My idea was to (i) facilitate data sharing/integration so that greater actionable knowledge & awareness of the orbital debris environment can be achieved, as well as to (ii) formally and ontologically model orbital concepts, while also addressing any relevant philosophical questions. After some years pursuing a path away from my orginial love of space, I saw this as a way to return to it, applying what I had studied, continuing my space education, and ideally finding a space career-path. 
+Orbitology has fascinated me since my teens. In 2011 I thought of applying ontology to help with the orbital debris problem (1), after an orbital debris conference presentation in Boulder, Colorado mentioned the need for more debris data-integration and sharing. My idea was to (a) facilitate data sharing/integration so that more actionable knowledge of the orbital space environment can be achieved, and to (b) formally and ontologically represent orbital concepts and objects, while also exploring relevant philosophical questions. After years on path away from my orginial love of space, I was excited that this could be a way to return to it--by applying what I had studied so that I could continue my space education, and ideally finding a space career-path. 
 
-I want to help build ontologies for the space sector (space orgs., agencies, academia or university projects, space companies, etc.).
-I want my ontologies to be used by space orgs. 
-I want to learn astrodynamics and any necessary coding skills through a studensthip or employer-funded opportunity. 
-I want to work in a team environment so that I can learn from professionals in the repsective disciplines (astrodynamics, astroinformatics, systems engineering, computer science, knowledge engineering, etc.). 
-But I need to find professors interested in this project (and appropriate departments that will accept my non-stem degree) so I can return to university to get a PhD or other degree (e.g., philosophy, an interedisciplinary program, systems engineering, information studies, etc.). Since 2011 <em>I've wanted this project to be a PhD thesis and an opportunity for further space education toward a foot-in-the-door to my original passion--space--</em>and to serve at NASA (or another space org.). <em>This is part of my hopeful vision for a future degree on a space or astronautics topic, and a career in the space sector.</em>
+* I want my ontologies to be used by others
+* I want to help build ontologies for the space sector (orgs., agencies, academia or university projects, companies, etc.)
+* I want to work in a team environment so that I can learn from professionals in the repsective disciplines (astrodynamics, astroinformatics, systems engineering, computer science, AI, ontology, etc.). 
+* I want to learn any necessary skills and knowledge (e.g., coding, astrodynamics) through a studensthip, on-the-job, or employer-funded opportunity. 
+But I need to find professors interested in this project (and departments/programs that'll accept my non-stem degree) so I can return to university for a PhD or other degree. 
+<em> This is part of my hopeful vision for a future degree on an astronautics topic, and a career in space.</em>
+* I need professionals who see my potential, and would like to help me realize my project or give me the opportunity to work on a related project with them.
 
-Unfortunately, no opportunity has been forthcoming. I've been struggling to find opportunties for this project since conception. Red-tape and my non-stem degrees have been obstacles, despite the fact that many of cohort with identicially backgrounds/degrees were afforded opportunity. Ontology is interdisciplinary and many projects use ontologists from non-STEM background to work on STEM topic areas. Relevant technical skills can and often are learned on the job. Negative experiences of being plagarised and treated poorly created a sense of urgency to realize my project (a work of love, and a life aspiration). This drove me to write and publish at my expense and prematurely. I need and have needed a stable environment to develop my ideas sutainably and toward a mature state. Given my creativity and drive, I need to find professionals who see my potential and would either like to help me realize my project, or afford me the opportunity to work on a related project.
+Unfortunately, no opportunity has been forthcoming. I've been struggling to find opportunties for this project since conception. Red-tape and my non-stem degrees have been obstacles, despite the fact that many of cohort with identicially backgrounds/degrees were afforded opportunity. Ontology is interdisciplinary and many projects use ontologists from non-STEM background to work on STEM topic areas. Relevant technical skills can and often are learned on the job. Negative experiences of being plagarised and treated poorly (all documented) created a sense of urgency to pursue this project (a work of love). This drove me to write and publish and prematurely, all out-of-pocket and in my own time. A stable environment to develop and implement the ideas sutainably is needed. 
 
 <strong>If you are interested in helping realize this project, please contact me.</strong> 
 
@@ -104,5 +110,5 @@ _Computational ontologies_ are computer-readable terminologies/taxonomies with a
 Ontology development & engineering is related to aritifial intelligence (AI), informatics, information & data science, linked-data, big data, the semantic web, knowledge graphs, and database management. They are part of the branch of AI known as knowledge engineering. Aims of ontologies include: knowledge representation & reasoning, domain modeling, semantic interoperability, data-exchange, information fusion, data-mining, and data search & retrieval. Having philosophical origins, concepts, distinctions and methodologies from philosophical and formal ontology may or may not be used in contemporary computation ontology. Formal ontology is a branch of analytical metaphysics that uses formal logics to represent an ontological model. 
 
 ### License
-Copyright (c) Robert J. Rovetto 2011-2019.
+Copyright (c) Robert J. Rovetto 2011-2020.
 Contact author with questions, and opportunity offers.
