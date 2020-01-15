@@ -1,12 +1,10 @@
-Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto[at]terpalum.umd.edu). I want the resulting ontologies to be used by the community. I also want to help build ontologies for space organizations and academia projects.
+Welcome to the description page for the [Orbital Space Domain Ontology & Terminology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto[at]terpalum.umd.edu). I want the resulting ontologies (and metadata) to be used by the community. I also want to help build ontologies for space organizations and academia projects.
 <br>
-### Status
-* I need a funded opportunity to continue development: sponsors, grants, employment, or a studentship to return to university 
-* Professors interested in me as a student for this project should send a message
-* Open to collaborative development
-* Seeking partners and mentors
-### How you can help
-* Please [Donate here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (This has been independently pursued in author's own time, based on publications below)
+### Status - Desiderata - How you can help
+* Needs a funded opportunity to continue development: sponsors, grants, employment, or a studentship to return to university (ongoing search since at least 2015 see pub (1))
+* Seeking Professors interested in me as a student
+* Open to collaborative development; seeking partners, mentors, and interdisicpliary team
+* [Donate here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (This has been independently pursued in author's own time, based on publications below)
 
 | Project Detail | Description |
 | -------------|:-------------|
