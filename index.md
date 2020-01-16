@@ -99,7 +99,7 @@ But I need to find professors interested in this project (and departments/progra
 <em> This is part of my hopeful vision for a future degree on an astronautics topic, and a career in space.</em>
 * I need professionals who see my potential, and would like to help me realize my project or give me the opportunity to work on a related project with them.
 
-Unfortunately, no opportunity has been forthcoming since project conception. Experiences of being treated poorly (documented) created a sense of urgency to pursue this project (a work of love), driving me to write and publish prematurely, all out-of-pocket and in my own time. A stable environment with professionals to develop and implement my ideas sutainably is needed. 
+Unfortunately, no opportunity has been forthcoming since project conception, despite appealing to many similar projects appearing since my publications. A stable environment with professionals to develop and implement my ideas sutainably is needed. 
 
 <strong>If you are interested in helping realize this project, please contact me.</strong> 
 
