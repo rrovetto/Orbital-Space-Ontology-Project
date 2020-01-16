@@ -6,7 +6,7 @@ Welcome to the description page for the [Orbital Space Domain Ontology Project](
 * Join -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
 * [DONATE here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
 
-<br><strong>NEWS</strong>: Latest paper presented at Orbital Debris Conference in Texas Dec 2019 (See pub (19) below)
+<strong>NEWS</strong>: Latest paper presented at Orbital Debris Conference in Texas Dec 2019 (See pub (19) below)
 
 | Project Detail | Description |
 | -------------|:-------------|
