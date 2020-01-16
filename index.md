@@ -75,13 +75,13 @@ The following publications were unfunded, independent work, and not associated w
 
 ### Author Bio
 Robert J. Rovetto, (Ontologist, Philosopher), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra){:target="_blank" rel="noopener"}
-* <em>Seeking Opportunities</em>: studentships, entry-level employment, and available as contractor or consultant. 
+* <em>Seeking Opportunities</em>: either studentships or entry-level employment or freelance 
 * [Research Affiliate](http://www.coder.umd.edu/node/287){:target="_blank" rel="noopener"}, Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/){:target="_blank" rel="noopener"} (Unfunded affiliation)
-* American Institute of Aeronautics and Astronautics (AIAA), Space Traffic Management Committee
+* American Institute of Aeronautics & Astronautics (AIAA), Space Traffic Management Committee
 * AIAA, SA Committee on Standards
 * Education Committee member, International Association for Ontology and its Applications
-* _Emails_: rrovetto[at]terpalum.umd.edu (Preferred. Forwards to: ontologos@yahoo.com); robert.rovetto[at]amu.apus.edu; robertjohnrovetto[at]gmail[dot]com
+* _Emails_: rrovetto[at]terpalum.umd.edu (Preferred. Forwards to: ontologos[at]yahoo.com); robert.rovetto[at]amu.apus.edu; robertjohnrovetto[at]gmail[dot]com
 * [ORCID Profile](http://orcid.org/0000-0003-3835-7817){:target="_blank" rel="noopener"},  &nbsp; [GitHub Homepage](http://github.com/rrovetto){:target="_blank" rel="noopener"}
 * B.A. Philosophy, Minor Business & Management w/IT focus, Dept. of Philosophy, University of Maryland (2007) 
 * M.A. Philosophy (ontology focus), Dept. of Philosophy, The State University of New York at Buffalo (2011) 
