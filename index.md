@@ -2,9 +2,9 @@ Welcome to the description page for OSEDO -- the [Orbital Space Environment Doma
 <br>
 ### Status - How you can help
 * NEEDS opportunity to continue development: <em>sponsors</em>, <em>grants</em>, <em>employment</em>, or a <em>studentship</em>
-* Seeking Professors interested in me as a student for a return to university
-* Invite me to work on your similar project. Or invite me as a contractor, visiting researcher, consultant, etc. 
-* Join -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
+* SEEKING Professors interested in me as a student for a return to university
+* INVITE me to work on your similar project. Or invite me as a contractor, visiting researcher, consultant, etc. 
+* JOIN -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
 * [DONATE here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
 
 <strong>NEWS</strong>: Latest [paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at Orbital Debris Conference in Texas Dec 2019.
