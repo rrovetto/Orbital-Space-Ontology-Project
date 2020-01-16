@@ -1,11 +1,12 @@
 Welcome to the description page for the [Orbital Space Domain Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (rrovetto[at]terpalum.umd.edu). I want the resulting ontologies (and metadata) to be used by the community. I also want to help build ontologies for space organizations and academia projects.
 <br>
 ### Status - How you can help
-* Needs a opportunity to continue development: sponsors, grants, employment, or a studentship to return to university (ongoing search since at least 2015 see pub (1))
-* Seeking Professors interested in me as a student.
+* Needs a opportunity to continue development: sponsors, grants, employment, or a studentship to return to university (ongoing search since at least 2015 see publication (1) below). 
+* Seeking Professors interested in me as a student. Available also as contractor or visiting researcher on projects.
 * Join -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
 * [DONATE here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
-<br><strong>News</strong>: Latest paper presented at Orbital Debris Conference in Texas Dec 2019 (See pub (19) below)
+
+<br><strong>NEWS</strong>: Latest paper presented at Orbital Debris Conference in Texas Dec 2019 (See pub (19) below)
 
 | Project Detail | Description |
 | -------------|:-------------|
@@ -87,7 +88,7 @@ Robert J. Rovetto, (Ontologist, Philosopher), [Google Scholar](https://scholar.g
 * Maritime & Emergency Response - credentials, training and experience available on request.
 
 ### History & Context
-Orbitology has fascinated me since my teens. In 2011 I thought of applying ontology to help with the orbital debris problem (1), after an orbital debris conference presentation in Boulder, Colorado mentioned the need for more debris data-integration and sharing. My idea was to (a) facilitate data sharing/integration so that more actionable knowledge of the orbital space environment can be achieved, and to (b) formally and ontologically represent orbital concepts and objects, while also exploring relevant philosophical questions. After years on path away from my orginial love of space, I was excited that this could be a way to return to it--by applying what I had studied so that I could continue my space education, and ideally finding a space career-path. 
+Orbitology has fascinated me since my teens. In 2011 I thought of applying ontology to help with the orbital debris problem (1), after a space conference presentation in Colorado mentioned the need for more debris data-integration and sharing. My idea was to (a) facilitate data sharing/integration so that more actionable knowledge of the orbital space environment can be achieved, and to (b) ontologically represent orbital concepts and objects, while also exploring relevant philosophical questions. After a few years on a path away from my orginial love of space, I've wanted this idea to afford a return to it--by applying what I had studied so that I could continue my space education, and ideally finding a space career-path. This will be an example of how non-stem background and interdisciplinary studies can contribute to stem and enter the stem community.
 
 * I want my ontologies to be used by others
 * I want to help build ontologies for the space sector (orgs., agencies, academia or university projects, companies, etc.)
@@ -97,7 +98,7 @@ But I need to find professors interested in this project (and departments/progra
 <em> This is part of my hopeful vision for a future degree on an astronautics topic, and a career in space.</em>
 * I need professionals who see my potential, and would like to help me realize my project or give me the opportunity to work on a related project with them.
 
-Unfortunately, no opportunity has been forthcoming since project conception. Red-tape and my non-stem degrees have been obstacles. Negative experiences of being plagarised and treated poorly (all documented) created a sense of urgency to pursue this project (a work of love), driving me to write and publish prematurely, all out-of-pocket and in my own time. A stable environment to develop and implement the ideas sutainably is needed. 
+Unfortunately, no opportunity has been forthcoming since project conception. Experiences of being treated poorly (documented) created a sense of urgency to pursue this project (a work of love), driving me to write and publish prematurely, all out-of-pocket and in my own time. A stable environment with professionals to develop and implement my ideas sutainably is needed. 
 
 <strong>If you are interested in helping realize this project, please contact me.</strong> 
 
