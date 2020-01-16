@@ -111,5 +111,5 @@ _Computational ontologies_ are basically computer-readable terminologies/taxonom
 Ontology development & engineering is related to <em>aritifial intelligence (AI), informatics, information & data science, linked data, big data, the semantic web, knowledge graphs, and database management. It is part of knowledge engineering, a branch of AI. Aims of ontologies include: knowledge representation & reasoning, domain modeling, semantic interoperability, data-exchange, information fusion, data-mining, chatbots, and search & retrieval. WIth philosophical origins, the concepts, distinctions and methodologies from philosophical and formal ontology may be used in contemporary computation ontology. Formal ontology is a branch of analytical metaphysics that uses formal logics to represent an ontological model. 
 
 ### License
-Copyright (c) Robert J. Rovetto 2011-2020.
+Copyright © Robert J. Rovetto 2011-2020.
 Contact author with questions, and opportunity offers.
