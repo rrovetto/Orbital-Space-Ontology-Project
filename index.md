@@ -4,7 +4,7 @@ Welcome to the description page for the [Orbital Space Domain Ontology Project](
 * Needs a opportunity to continue development: sponsors, grants, employment, or a studentship to return to university (ongoing search since at least 2015 see pub (1))
 * Seeking Professors interested in me as a student.
 * Join -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
-* [Donate here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (This has been independently pursued in author's own time)
+* [DONATE here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Become a patron here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded & independent in authors spare time)
 
 | Project Detail | Description |
 | -------------|:-------------|
