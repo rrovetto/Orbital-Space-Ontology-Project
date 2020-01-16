@@ -1,7 +1,7 @@
 Welcome to the description page for OSEDO -- the [Orbital Space Environment Domain Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)<strong> (rrovetto[at]terpalum.umd.edu) I want the resulting ontologies (and metadata) to be used by the community. I also want to help build ontologies for space organizations and academia projects.
 <br>
 ### Status - How you can help
-* NEEDS opportunity to continue development: <em>sponsors</em>, <em>grants</em>, <em>employment</em>, or a <em>studentship</em>, etc.
+* NEEDS opportunity to continue development: <em>sponsors</em>, <em>grants</em>, <em>employment</em>, or a <em>studentship</em>
 * Seeking Professors interested in me as a student for a return to university
 * Invite me to work on your similar project. Or invite me as a contractor, visiting researcher, consultant, etc. 
 * Join -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
