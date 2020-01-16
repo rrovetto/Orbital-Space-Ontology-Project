@@ -7,7 +7,7 @@ Welcome to the description page for the [Orbital Space Domain Ontology Project](
 * Join -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
 * [DONATE here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
 
-<strong>NEWS</strong>: Latest paper presented at Orbital Debris Conference in Texas Dec 2019 (See pub (19) below)
+<strong>NEWS</strong>: Latest [paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at Orbital Debris Conference in Texas Dec 2019.
 
 | Project Detail | Description |
 | -------------|:-------------|
@@ -75,7 +75,7 @@ The following publications were unfunded, independent work, and not associated w
 
 ### Author Bio
 Robert J. Rovetto, (Ontologist, Philosopher), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra){:target="_blank" rel="noopener"}
-* <em>Seeking opportunities</em>: studentships, entry-level or junior employment, contract work. Available as consultant. 
+* <em>Seeking Opportunities</em>: studentships, entry-level employment, and available as contractor or consultant. 
 * [Research Affiliate](http://www.coder.umd.edu/node/287){:target="_blank" rel="noopener"}, Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/){:target="_blank" rel="noopener"} (Unfunded affiliation)
 * American Institute of Aeronautics and Astronautics (AIAA), Space Traffic Management Committee
@@ -85,7 +85,7 @@ Robert J. Rovetto, (Ontologist, Philosopher), [Google Scholar](https://scholar.g
 * [ORCID Profile](http://orcid.org/0000-0003-3835-7817){:target="_blank" rel="noopener"},  &nbsp; [GitHub Homepage](http://github.com/rrovetto){:target="_blank" rel="noopener"}
 * B.A. Philosophy, Minor Business & Management w/IT focus, Dept. of Philosophy, University of Maryland (2007) 
 * M.A. Philosophy (ontology focus), Dept. of Philosophy, The State University of New York at Buffalo (2011) 
-* Coursework in Space Studies MS program, American Military University (APUS) (varia 2009-2013, TBD).
+* Coursework in Space Studies MS program, American Military University (APUS) (varia 2009-2013)
 * Maritime & Emergency Response - credentials, training and experience available on request.
 
 ### History & Context
