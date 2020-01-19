@@ -111,7 +111,7 @@ Ontology is interdisciplinary, originating in philosophy, and typically yields a
 _Computational ontologies_ provide human- and computer-readable terminologies/taxonomies with a formally-specified semantics. Terms in the ontology tag data elements in databases, and are encoded in a language that allows computers to draw inferences (automated reasoning) and answer user-generated questions (database queries). Ontologies therefore provide metadata, a common vocabulary, and express a knowledge model for software applications to draw from and reason over. Ontology class terms (and their formal definitions) provide <em>semantic annotation</em> for database terms, which provides meaning to data that users can access. Ontologies can be developed to varying degrees of abstraction and formality, from the highly generic to the domain-specific, from a set of terms in OWL to a full axiomatic theory of a terminology or taxonomy/classification. 
 
 Ontology development & engineering is has application in AI, informatics, information & data science, linked data, big data, the semantic web, and database management. It is part of knowledge engineering, a branch of AI. Practical goals of ontologies include: knowledge representation & reasoning, semantic interoperability, data-exchange, information fusion, data-mining, chatbots, and search & retrieval, etc. The concepts, distinctions and methodologies from philosophical and formal ontology may be used in contemporary computation ontology. Formal ontology is a branch of analytical metaphysics that uses logics to represent an ontological model. 
-
+f
 ### License
 Copyright © Robert J. Rovetto 2011-2020.
 Contact author with questions, and opportunity offers.
