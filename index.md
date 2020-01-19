@@ -1,10 +1,10 @@
-Welcome to the description page for OSEDO -- the [Orbital Space Environment Domain Ontology Project](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (Contact: rrovetto[at]terpalum.umd.edu). I want the resulting ontologies (and metadata) to be used by the community. I also want to help build ontologies (aka knowledge graphs) for space organizations & academia projects.
+Welcome to the description page for OSEDO - the [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (Contact: rrovetto[at]terpalum.umd.edu). I want the resulting ontologies (and metadata) to be used by the community. I also want to help build ontologies (aka knowledge graphs) for space organizations & academia projects.
 <br>
 ### Status - How you can help
 * NEEDS opportunity to continue development: <em>sponsors</em>, <em>grants</em>, <em>employment</em>, or a <em>studentship</em>
 * SEEKING Professors interested in me as a student for a return to university for this or a similar project
 * INVITE me to work on your similar project. Or invite me as a contractor, visiting researcher, consultant, etc. 
-* JOIN -- Open to collaborative development; seeking partners, mentors, and interdisicpliary team
+* JOIN -- Open to collaborative development; seeking partners, and interdisicpliary team
 * [DONATE here](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Here](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
 
 <strong>NEWS</strong>: Latest [paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at Orbital Debris Conference in Texas Dec 2019.
