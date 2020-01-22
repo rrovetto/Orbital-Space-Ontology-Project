@@ -1,6 +1,6 @@
-The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbital-Space-Ontology-Project) (or OSEDO) is a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (<em>Contact:</em> rrovetto[at]terpalum.umd.edu), to create a standard formally defined vocabulary and <em>knowledge model</em> for the astronautical domain. I want the resulting ontologies (and thus metadata) to be used by the community. But I also want to help build ontologies (aka knowledge graphs) for organizations & academia projects. 
+The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbital-Space-Ontology-Project) (or OSEDO) is a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra), to create a standard formally defined vocabulary and <em>knowledge model</em> for the astronautical domain. <em>Contact:</em> rrovetto[at]terpalum[dot]umd[dot]edu. I want the resulting ontologies (and thus metadata) to be used by the community. But I also want to help build ontologies (aka knowledge graphs) for organizations & academia projects. 
 <br>
-<strong> N-E-W-S </strong>: Latest [paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at the 1st Orbital Debris Conference.
+<strong> N-E-W-S </strong>: [Latest paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at the 1st International Orbital Debris Conference.
 
 ### Status & How you can help
 * <strong>NEED</strong> opportunity to realize the project: I need either <em>sponsors</em>, <em>an employer</em>, or a <em>studentship</em>
