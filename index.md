@@ -8,7 +8,7 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 * <strong>INVITE </strong>me to work on your project. Or <em> invite me as a contractor, visiting researcher, consultant,</em> etc. 
 * [DONATE HERE](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Become a patron HERE](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} 
 * <strong>JOIN </strong>-- Open to collaborative development; seeking partners, and interdisicpliary team
-* Seeking applicaitons for these ontologies, and coauthoring for grants
+* Also SEEKING applicaitons for these ontologies, coauthors for grant proposal, mentors and team to development it fully 
 
 | Project Detail | Description |
 | -------------|:-------------|
