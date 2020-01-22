@@ -3,11 +3,12 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 <strong> N-E-W-S </strong>: [Latest paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at the 1st International Orbital Debris Conference.
 
 ### Status & How you can help
-* <strong>NEED</strong> opportunity to realize the project: I need either <em>sponsors</em>, <em>an employer</em>, or a <em>studentship</em>. Seeking also applicaitons for these ontologies.
-* <strong>SEEKING Professors </strong> interested in me as a student to return to university for this, or a similar, project
-* <strong>INVITE </strong>me to work on your project. Or invite me as a contractor, visiting researcher, consultant, etc. 
+* <strong>NEED</strong> either <em>sponsors</em>, <em>an employer</em>, or a <em>studentship</em> to realize this project.
+* <strong>SEEKING professors </strong> interested in me as a student to return to university for this, or a similar, project
+* <strong>INVITE </strong>me to work on your project. Or <em> invite me as a contractor, visiting researcher, consultant,</em> etc. 
 * [DONATE HERE](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [Become a patron HERE](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} 
 * <strong>JOIN </strong>-- Open to collaborative development; seeking partners, and interdisicpliary team
+* Seeking applicaitons for these ontologies, and coauthoring for grants
 
 | Project Detail | Description |
 | -------------|:-------------|
