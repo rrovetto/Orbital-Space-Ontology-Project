@@ -30,9 +30,9 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 | The Spacecraft/SpaceSystem Ontology | An ontology of spacecraft, their systems and parts | TBD | NEEDs funding or work opportunity to development. Seeking partners.
 | [The Union of Concerned Scientists Satellite Database Ontology](https://purl.org/space-ontology/ucsso){:target="_blank" rel="noopener"} (UCSSO) | A database-specific ontology for the [UCS Satellite Database](http://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database){:target="_blank" rel="noopener"} . Uses terms from the other ontologies to demonstrate reuse. | https://purl.org/space-ontology/ucsso | Preliminary version complete, but subject to revisions when/if requested by users or the UCS. | 
    
-**NOTES:**
+###Misc.**
 * SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery){:target="_blank" rel="noopener"}  project at NASA.
-* Other ontologies to be developed: Space Weather ontology (SWO), Astrodynamics Modeling Ontology (AMO), Orbital Event & Process Ontology, Orbital Object Ontology, Space Object Ontology, Near-Earth Space Environment Ontology (NESEO), STM Ontology. 
+* Other ontologies to be developed: Space Weather ontology (SWO), Astrodynamics Modeling Ontology (AMO), Space Object Ontology, Near-Earth Space Environment Ontology (NESEO). 
 
 **BENEFITS**
 * These ontologies can be used by (and with) space agency/actor ontologies and data resources, e.g., NASA SWEET ontologies, USAF & DoD projects, IVOA ontologies, EU-funded projects, university or PhD projects, etc. 
@@ -42,10 +42,10 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 
 ### Publications
 
-The following publications were unfunded, independent work, and not associated with any past or present affiliations.
-* In-progress (2017-present): NASA Technical Manual with co-author.
-* Proposal (2018): “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N.
-* White Paper (2019): “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (with Dr.J.Luciano, University of Virgin Islands)
+The following publications were unfunded, independently pursued, and not associated with past or present affiliations.
+* <em>In-progress (2017-present)</em>: NASA Technical Manual with co-author.
+* <em>Proposal (2018)<em>: “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N.
+* <em>White Paper (2019)</em>: “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (with Dr.Joanne Luciano, University of Virgin Islands)
 
 * (1) “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3){:target="_blank" rel="noopener"} ”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014, online 2015). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3. [Download Paper (PDF)](https://arxiv.org/ftp/arxiv/papers/1704/1704.01014.pdf){:target="_blank" rel="noopener"} , https://arxiv.org/abs/1704.01014
 
