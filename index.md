@@ -65,7 +65,7 @@ The following publications were unfunded, independently pursued, and not associa
 
 * (9) "[Ontology for Europe's Space Situational Awareness Programme](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf)", 7th European Conference on Space Debris, Darmstadt, Germany. [Download Paper](https://conference.sdo.esoc.esa.int/proceedings/sdc7/paper/1046/SDC7-paper1046.pdf). [Download Poster](https://www.researchgate.net/profile/Robert_Rovetto/publication/316648084_An_Ontology_Architecture_Concept_for_Europe%27s_Space_Situational_Awareness_Program/links/5909c256458515ebb499498f/An-Ontology-Architecture-Concept-for-Europes-Space-Situational-Awareness-Program.pdf)
 
-* (10) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)" In CEUR Workshop proceedings of The Joint Ontology Workshops at the 9th International Conference of Formal Ontology for Information Systems (FOIS), Early Career Symposium, Annecy, France July 2016. [Download Paper](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf), [Download Poster](https://www.dropbox.com/s/kels9r6b8ltmd1l/Presentation_TrentoPhDCourse2016_Rovetto.pdf?dl=0){:target="_blank" rel="noopener"}
+* (10) "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)" In CEUR Workshop proceedings of The Joint Ontology Workshops at the 9th International Conference of Formal Ontology for Information Systems (FOIS), Early Career Symposium, Annecy, France July 2016. [Download Paper](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf), [Download PPT Presentation](https://www.dropbox.com/s/kels9r6b8ltmd1l/Presentation_TrentoPhDCourse2016_Rovetto.pdf?dl=0){:target="_blank" rel="noopener"}
 
 * (11) "Ontology" Live Webinar to the NASA Datanauts Spring 2017 class
 * (12) "Ontologies – Creating Human-centered Taxonomies to Annotate Data" in Data Discovery Magazine, Summer 2017 (p.15), ISSUU, SecondMuse. [Article in Magazine Site](https://issuu.com/secondmuse/docs/nasa-datanauts-2017){:target="_blank" rel="noopener"}, [On NASA Site](https://open.nasa.gov/blog/data-discovery-creating-human-centered-taxonomies-annotate-data/){:target="_blank" rel="noopener"}
@@ -74,15 +74,15 @@ The following publications were unfunded, independently pursued, and not associa
 
 * (14) "[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", 1st International Orbital Debris Conference. December, 2019. [Download Poster](https://www.hou.usra.edu/meetings/orbitaldebris2019/eposter/6172.pdf){:target="_blank" rel="noopener"}
 
-### Author Bio
+### Author
 Robert J. Rovetto, (Ontologist, Philosopher), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra){:target="_blank" rel="noopener"}
-* <em>Seeking Opportunities</em>: either studentships or entry-level employment or freelance 
+* <em>SEEKING OPPORTUNITIES</em>: either studentships or entry-level employment or freelance 
 * [Research Affiliate](http://www.coder.umd.edu/node/287){:target="_blank" rel="noopener"}, Center for Orbital Debris Education and Research (CODER), University of Maryland (Unfunded affiliation)
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/){:target="_blank" rel="noopener"} (Unfunded affiliation)
 * American Institute of Aeronautics & Astronautics (AIAA), Space Traffic Management Committee
 * AIAA, SA Committee on Standards
 * Education Committee member, International Association for Ontology and its Applications
-* _Emails_: rrovetto[at]terpalum.umd.edu (Preferred. Forwards to: ontologos[at]yahoo.com); robert.rovetto[at]amu.apus.edu; robertjohnrovetto[at]gmail[dot]com
+* _Emails_: rrovetto[at]terpalum.umd.edu (Preferred. Forwards to: ontologos[at]yahoo.com); robert.rovetto[at]amu.apus.edu
 * [ORCID Profile](http://orcid.org/0000-0003-3835-7817){:target="_blank" rel="noopener"},  &nbsp; [GitHub Homepage](http://github.com/rrovetto){:target="_blank" rel="noopener"}
 * B.A. Philosophy, Minor Business & Management w/IT focus, Dept. of Philosophy, University of Maryland (2007) 
 * M.A. Philosophy (ontology focus), Dept. of Philosophy, The State University of New York at Buffalo (2011) 
@@ -90,20 +90,15 @@ Robert J. Rovetto, (Ontologist, Philosopher), [Google Scholar](https://scholar.g
 * Maritime & Emergency Response - credentials, training and experience available on request.
 
 ### History & Context
-Orbitology has fascinated me since my teens. In 2011 I thought of applying ontology to help with the orbital debris problem (1), after a space conference pr
-esentation in Colorado mentioned the need for more debris data-integration and sharing. My idea was to (a) facilitate data sharing/integration so that more actionable knowledge of the orbital space environment can be achieved, and to (b) ontologically represent orbital concepts and objects, while also exploring relevant philosophical questions. After a few years on a path away from my orginial love of space, I've wanted this idea to afford a return to it--by applying what I had studied so that I could continue my space education, and ideally finding a space career-path. This will be an example of how non-stem background and interdisciplinary studies can contribute to stem and enter the stem community.
-
+Orbitology has fascinated me since my teens. In 2011 I thought of applying ontology to help with the orbital debris problem (1), after a space conference presentation in Colorado mentioned the need for more debris data-integration and sharing. My idea was to (a) facilitate that, and to (b) ontologically represent orbital concepts and objects, while also exploring relevant philosophical questions. I've wanted this idea to afford me an opportunity to return to my original love of space--by applying what I had studied so that I could continue my space education, and find a space careerpath. Please help if you can.
 * I want my ontologies to be used by others
-* I want to help build ontologies for the space sector (orgs., agencies, academia or university projects, companies, etc.)
-* I want to work in a team environment so that I can learn from professionals in the repsective disciplines (astrodynamics, astroinformatics, systems engineering, computer science, AI, ontology, etc.). 
-* I want to learn any necessary skills and knowledge (e.g., coding, astrodynamics) through a studensthip, on-the-job, or employer-funded opportunity. 
-But I need to find professors interested in this project (and departments/programs that'll accept my non-stem degree) so I can return to university for a PhD or other degree. 
+* I want to help build ontologies for space orgs., academia or university projects, companies, etc.
+* I want to work ideally in a team environment to learn from professionals in astrodynamics, informatics, systems engineering, computer science, AI, ontology, etc. 
+* I want to learn any necessary skills and knowledge, e.g., coding, astrodynamics, through a studensthip, on-the-job, or employer-funded opportunity. 
+* I have wanted to return to university for a PhD or other degree in order to complete this project
 <em> This is part of my hopeful vision for a future degree on an astronautics topic, and a career in space.</em>
-* I need professionals who see my potential, and would like to help me realize my project or give me the opportunity to work on a related project with them.
-
-Unfortunately, no opportunity has been forthcoming since project conception, despite appealing to many similar projects appearing since my publications. A stable environment with professionals to develop and implement my ideas sutainably is needed. 
-
-<strong>If you are interested in helping realize this project, please contact me.</strong> 
+* I need professionals who see my potential, and would like to help me realize this project, or afford the opportunity to work on a related project with them.
+Thusfar, no opportunity has been forthcoming, despite appealing to many similar projects appearing in universities and industry since my publications. I would like a stable environment with professionals and mentors to sustainably develop and implement my ideas. <strong>Please contact me if you would like to help. </strong>
 
 ### About Ontology
 <em>Related topics & Keywords</em>: metadata, artificial intelligence (AI), knowledge model, domain model, knowledge graph, semantic model, linked data, big data, open data, knowledge representation and reasoning, conceptual model.
