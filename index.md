@@ -72,7 +72,7 @@ The following publications were unfunded, independently pursued, and not associa
 
 * (13) "[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/){:target="_blank" rel="noopener"}", 68th International Astronautical Congress. September, 2017. [Download Paper](https://www.researchgate.net/publication/320148742_Ontology-based_Knowledge_Management_for_Space_Data){:target="_blank" rel="noopener"}
 
-* (14) "[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", 1st International Orbital Debris Conference. December, 2019. [Download Poster](https://www.hou.usra.edu/meetings/orbitaldebris2019/eposter/6172.pdf){:target="_blank" rel="noopener"}
+* (14) "[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", Rovetto, T.S. Kelso, and D.A. O'Neil. 1st International Orbital Debris Conference. December, 2019. [Download Poster](https://www.hou.usra.edu/meetings/orbitaldebris2019/eposter/6172.pdf){:target="_blank" rel="noopener"}
 
 ### Author
 Robert J. Rovetto, (Ontologist, Philosopher), [Google Scholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra){:target="_blank" rel="noopener"}
