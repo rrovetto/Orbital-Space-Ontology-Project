@@ -30,18 +30,17 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 | The Spacecraft/SpaceSystem Ontology | An ontology of spacecraft, their systems and parts | TBD | NEEDs funding or work opportunity to development. Seeking partners.
 | [The Union of Concerned Scientists Satellite Database Ontology](https://purl.org/space-ontology/ucsso){:target="_blank" rel="noopener"} (UCSSO) | A database-specific ontology for the [UCS Satellite Database](http://www.ucsusa.org/nuclear-weapons/space-weapons/satellite-database){:target="_blank" rel="noopener"} . Uses terms from the other ontologies to demonstrate reuse. | https://purl.org/space-ontology/ucsso | Preliminary version complete, but subject to revisions when/if requested by users or the UCS. | 
    
-###Misc.**
+### Misc.
 * SSAO has been used by an [ontology-driver orrery](https://github.com/daoneil/spacemission/tree/master/OntologyDrivenOrrery){:target="_blank" rel="noopener"}  project at NASA.
 * Other ontologies to be developed: Space Weather ontology (SWO), Astrodynamics Modeling Ontology (AMO), Space Object Ontology, Near-Earth Space Environment Ontology (NESEO). 
 
-**BENEFITS**
-* These ontologies can be used by (and with) space agency/actor ontologies and data resources, e.g., ESI/NASA SWEET ontologies, USAF & DoD projects, IVOA ontologies, EU-funded projects, university or PhD projects, etc. 
+### Benefits
+* These ontologies can be used by space agencies, their data resources or ontologies, e.g., ESI/NASA SWEET ontologies, USAF & DoD projects, IVOA ontologies, EU-funded projects, university or PhD projects, etc. 
 * Potential for innovation in teaching by applying ontologies to <em>space visualizations/graphical-simulations</em>, and conceptual modeling.
 * Potential for reducing complexity in programming by providing a thorough knowledge model
 * ...
 
 ### Publications
-
 The following publications were unfunded, independently pursued, and not associated with past or present affiliations.
 * <em>In-progress (2017-present)</em>: An Ontology Oriented Orrery (NASA Technical Manual) with Dr. D.A.O'Neil.
 * <em>Proposal (2018)</em>: “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N.
