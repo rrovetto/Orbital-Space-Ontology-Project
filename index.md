@@ -3,11 +3,11 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 <strong> N-E-W-S </strong>: Latest [paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at the 1st Orbital Debris Conference.
 
 ### Status & How you can help
-* NEED opportunity to realize the project: I need either <em>sponsors</em>, <em>an employer</em>, or a <em>studentship</em>
-* SEEKING Professors interested in me as a student to return to university for this, or a similar, project
-* INVITE me to work on your project. Or invite me as a contractor, visiting researcher, consultant, etc. 
-* JOIN -- Open to collaborative development; seeking partners, and interdisicpliary team
-* [DONATE HERE](https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [HERE](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
+* <strong>NEED</strong> opportunity to realize the project: I need either <em>sponsors</em>, <em>an employer</em>, or a <em>studentship</em>
+* <strong>SEEKING Professors </strong> interested in me as a student to return to university for this, or a similar, project
+* <strong>INVITE me </strong>to work on your project. Or invite me as a contractor, visiting researcher, consultant, etc. 
+* <strong>JOIN </strong>-- Open to collaborative development; seeking partners, and interdisicpliary team
+* [DONATE HERE]</strong>(https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [HERE](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
 
 | Project Detail | Description |
 | -------------|:-------------|
