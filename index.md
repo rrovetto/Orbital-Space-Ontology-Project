@@ -7,7 +7,7 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 * <strong>SEEKING Professors </strong> interested in me as a student to return to university for this, or a similar, project
 * <strong>INVITE me </strong>to work on your project. Or invite me as a contractor, visiting researcher, consultant, etc. 
 * <strong>JOIN </strong>-- Open to collaborative development; seeking partners, and interdisicpliary team
-* [DONATE HERE]</strong>(https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [HERE](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
+* <strong>[DONATE HERE]</strong>(https://tinyurl.com/y9qegjsh){:target="_blank" rel="noopener"} or [HERE](https://www.patreon.com/user?u=6298778){:target="_blank" rel="noopener"} (To date, has been unfunded. pursued in authors spare time)
 
 | Project Detail | Description |
 | -------------|:-------------|
