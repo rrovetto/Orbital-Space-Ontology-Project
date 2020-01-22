@@ -1,9 +1,9 @@
-Welcome to the description page for OSEDO - the [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (Contact: rrovetto[at]terpalum.umd.edu). I want the resulting ontologies (and metadata) to be used by the community. I also want to help build ontologies (aka knowledge graphs) for organizations & academia projects.
+Welcome to the description page for OSEDO - the [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbital-Space-Ontology-Project), a knowledge modeling effort by [Robert J. Rovetto](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra) (Contact: rrovetto[at]terpalum.umd.edu) to create a standard formally defined vocabulary and knowledge model for the astronautical domain. I want the resulting ontologies (and thus metadata) to be used by the community. But I also want to help build ontologies (aka knowledge graphs) for organizations & academia projects.
 <br>
 <strong>NEWS</strong>: Latest [paper](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf) presented at Orbital Debris Conference in Texas Dec 2019.
 
 ### Status & How you can help
-* Opportunity iS NEEDed to continue development: <em>sponsors</em>, <em>grants</em>, <em>employment</em>, or a <em>studentship</em>
+* Opportunity iS NEEDed to realize the project: <em>sponsors</em>, <em>grants</em>, <em>an employer</em>, or a <em>studentship</em>
 * SEEKING Professors interested in me as a student to return to university for this or a similar project
 * INVITE me to work on your similar project. Or invite me as a contractor, visiting researcher, consultant, etc. 
 * JOIN -- Open to collaborative development; seeking partners, and interdisicpliary team
