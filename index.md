@@ -35,7 +35,7 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 * Other ontologies to be developed: Space Weather ontology (SWO), Astrodynamics Modeling Ontology (AMO), Space Object Ontology, Near-Earth Space Environment Ontology (NESEO). 
 
 **BENEFITS**
-* These ontologies can be used by (and with) space agency/actor ontologies and data resources, e.g., NASA SWEET ontologies, USAF & DoD projects, IVOA ontologies, EU-funded projects, university or PhD projects, etc. 
+* These ontologies can be used by (and with) space agency/actor ontologies and data resources, e.g., ESI/NASA SWEET ontologies, USAF & DoD projects, IVOA ontologies, EU-funded projects, university or PhD projects, etc. 
 * Potential for innovation in teaching by applying ontologies to <em>space visualizations/graphical-simulations</em>, and conceptual modeling.
 * Potential for reducing complexity in programming by providing a thorough knowledge model
 * ...
@@ -43,11 +43,11 @@ The [Orbital Space Environment Domain Ontology](https://github.com/rrovetto/Orbi
 ### Publications
 
 The following publications were unfunded, independently pursued, and not associated with past or present affiliations.
-* <em>In-progress (2017-present)</em>: NASA Technical Manual with co-author.
-* <em>Proposal (2018)<em>: “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N.
+* <em>In-progress (2017-present)</em>: An Ontology Oriented Orrery (NASA Technical Manual) with Dr. D.A.O'Neil.
+* <em>Proposal (2018)</em>: “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N.
 * <em>White Paper (2019)</em>: “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (with Dr.Joanne Luciano, University of Virgin Islands)
 
-* (1) “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3){:target="_blank" rel="noopener"} ”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014, online 2015). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3. [Download Paper (PDF)](https://arxiv.org/ftp/arxiv/papers/1704/1704.01014.pdf){:target="_blank" rel="noopener"} , https://arxiv.org/abs/1704.01014
+* (1) “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3){:target="_blank" rel="noopener"} ”, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (Online 2015). DOI: 10.1007/s12145-015-0233-3. [Download Paper (PDF) here](https://arxiv.org/ftp/arxiv/papers/1704/1704.01014.pdf){:target="_blank" rel="noopener"}, [or here](https://arxiv.org/abs/1704.01014){:target="_blank" rel="noopener"}
 
 * (2) “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf){:target="_blank" rel="noopener"} ”_, Rovetto, R,J. and Kelso, T.S. In proceedings of 26th AIAA/AAS Space Flight Mechanics meeting, Napa, California, USA, Feb 14-18th, 2016. Advances in the Astronautical Sciences, Univelt Inc. [Download Paper(PDF)](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf){:target="_blank" rel="noopener"} , [Download PPT Presentation](http://www.slideshare.net/RobertRovetto/napa2016presentation-ssaorovettov8-59614620){:target="_blank" rel="noopener"} 
 
