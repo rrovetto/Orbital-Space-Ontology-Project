@@ -14,3 +14,12 @@ Space Domain Ontology
 Space Domain Reference Ontology
 Space Situational Awareness Ontology
 Space Domain Aawareness Ontology
+
+
+Scope:
+- SSA (data, activities, infrastructure, actors, etc.)
+- object & events in orbit about a celestial body
+-- spacecraft and their parts and systems
+-- obrital debris
+-- etc.
+- associated data 
