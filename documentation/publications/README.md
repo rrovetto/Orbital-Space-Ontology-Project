@@ -4,12 +4,12 @@ A list of publicaitons on this project by the author.
 ### Forthcoming
 * NASA Technical Manual: “Ontology-based Virtual Orrery”, with Dr. Daniel A. O’Neil of NASA, MSFC.
 Grant Proposals 
-* “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, 
-NNH18ZHA003N. (Submitted only, but was not accepted)
+
+### Grant Proposals
+* “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NNH18ZHA003N. (Submitted only, but was not accepted)
 
 ### White Paper Proposals 
-* “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (2019)
-with. Dr. Joanne S. Luciano, University of Virgin Islands (UVI). Submitted to UVI call.
+* “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (2019) with. Dr. Joanne S. Luciano, University of Virgin Islands (UVI). Submitted to UVI call.
 
 ### Magazine Articles
 * “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
