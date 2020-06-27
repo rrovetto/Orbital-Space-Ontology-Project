@@ -6,7 +6,7 @@ First, thank you!
 
 Second, [email me](mailto:rrovetto@terpalum.umd.edu) saying in what way you would like to contribute, and to what project task or need.
 
-## You can contribute by supporting the project in the following general ways:
+### You can contribute by supporting the project in the following general ways:
 
 **FINANCIAL SUPPORT** - because it's been unfunded, and because the author is in need of an income and sustainable opportunity.
 * *Donate or sponsor here* (Patreon page): www.patreon.com/user?u=6298778
@@ -27,7 +27,7 @@ Second, [email me](mailto:rrovetto@terpalum.umd.edu) saying in what way you woul
 * * Business plan development
 * * IP
 
-## You can contribute to the following tasks and project needs**
+### You can contribute to the following tasks and project needs**
 * Creating an online hosting website, or other system, for the ontologies
 * Creating a dynamic and interactive search and display feature for the content (terms, etc.) of the ontologies
 * Creating interactive visualiazations of the ontologies, such as dynamic interactive graphs
