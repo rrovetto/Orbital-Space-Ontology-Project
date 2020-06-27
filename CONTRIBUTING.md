@@ -32,4 +32,4 @@ Second, [email me](mailto:rrovetto@terpalum.umd.edu) saying in what way you woul
 * Creating interactive visualiazations of the ontologies, such as dynamic interactive graphs
 * Linking online databases to the ontologies
 * Annotating databases and data with ontology terms
-* ...
+* Ontology development: adding axioms, rules, constraints, etc.
