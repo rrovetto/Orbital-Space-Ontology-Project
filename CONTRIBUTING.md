@@ -19,17 +19,17 @@ Second, [email me](mailto:rrovetto@terpalum.umd.edu) saying in what way you woul
 
 
 **3 - SUBJECT-MATTER EXPERTISE SUPPORT** - because the project is about specific disciplines, and it needs specialized knowledge, expertise, and professionals in those disciplines to help develop and to verify the accuracy of the discipline-specific content in the project products.
-* * Astrodynamics, Astronomy, Astronautical engineering, Aerospace science
+* Astrodynamics, Astronomy, Astronautical engineering, Aerospace science
 
 
 **4 - MENTORSHIP** - because we all need it, and because the author needs a team, supporters, and experienced professionals to learn how to realize the project vision.
-* * If you are a professor, invite me to be a PhD student
+* If you are a professor, invite me to be a PhD student
 
 
 **5 - BUSINESS SUPPORT & DEVELOPMENT** - because the project needs
-* * Entrepreneurs
-* * Business plan development
-* * IP
+* Entrepreneurs
+* Business plan development
+* IP
 
 
 ### You can contribute to the following tasks and project needs**
