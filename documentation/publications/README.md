@@ -16,10 +16,10 @@ with. Dr. Joanne S. Luciano, University of Virgin Islands (UVI). Submitted to UV
 
 ### Journal & Conference Papers 
 
-* [1] “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
+* [1] “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)” , Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
 PDF: 
 
-* [2] “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
+* [2] “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)” , Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
 
 * [3] "[The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf)", Rovetto, R.J. The Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016, (Paper, and Poster presentation)
 
