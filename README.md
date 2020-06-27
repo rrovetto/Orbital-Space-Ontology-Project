@@ -1,4 +1,4 @@
-# The Orbital Space Environment Domain Ontology Project
+# The Orbital Space Environment Domain Reference Ontology Project
 This project consists of developing a domain reference ontology or ontology suite, whose domain scope is the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The ontologies will provide formal representaitons of orbits, orbital phenomena & knowledge, space objects (spacecraft, orbital debris), spacecraft maneuvers, orbital events, and other related entities, as well as space traffic management concepts. These entities will be delineated into modular ontologies the whole of which may be merged into a single space domain ontology file. It is intended to be applicable to any central body or orbital reference frame, i.e., to any planet, and internationally applicable. 
 Project landing page: http://purl.org/space-ontology. Contact the author for the ontology files.   
 
