@@ -49,3 +49,5 @@ Original paper submitted to the National Academy of Sciences, Committee on Human
 * "[Orbital Debris Ontology]()", (2016) As a panelist on the Space Situational Awareness session of the Center for Orbital Debris Education and Research workshop, University of Maryland.
 
 * "[Ontology]()", (2017) Live webinar presentation to and in the NASA Datanauts group.
+
+* "[Improving Space Data Management & Space Situational Awareness: Ontology and Knowledge-based Approaches]()", Live conference call presentation (7 December 2018), A Proposal to European Space Agency.
