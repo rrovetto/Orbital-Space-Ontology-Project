@@ -6,7 +6,7 @@ A list of publicaitons on this project by the author.
 Grant Proposals 
 
 ### Grant Proposals
-* “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NNH18ZHA003N. (Submitted only, but was not accepted)
+* “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NNH18ZHA003N.
 
 ### White Paper Proposals 
 * “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (2019) with. Dr. Joanne S. Luciano, University of Virgin Islands (UVI). Submitted to UVI call.
