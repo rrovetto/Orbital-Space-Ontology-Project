@@ -1,20 +1,20 @@
 ## Publications
 A list of publicaitons on this project by the author.
 
-Forthcoming
+### Forthcoming
 * NASA Technical Manual: “Ontology-based Virtual Orrery”, with Dr. Daniel A. O’Neil of NASA, MSFC.
 Grant Proposals 
 * “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, 
 NNH18ZHA003N. (Submitted only, but was not accepted)
 
-White Paper Proposals 
+### White Paper Proposals 
 * “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (2019)
 with. Dr. Joanne S. Luciano, University of Virgin Islands (UVI). Submitted to UVI call.
 
-Magazine Articles
+### Magazine Articles
 * “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
-Journal & Conference Papers 
+### Journal & Conference Papers 
 
 * [1] “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
 PDF: 
@@ -33,7 +33,7 @@ PDF:
 
 * [8] "[Orbital Debris Ontology,Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/search.jsp?R=20200000988)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA. "Conference webpage"(https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)
 
-* [9] “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
+* [9] “[Ontologies – Creating Human-centered Taxonomies to Annotate Data(https://open.nasa.gov/blog/data-discovery-creating-human-centered-taxonomies-annotate-data/)” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
 * [10] “[The Essential Role of Human Spaceflight(https://www.sciencedirect.com/science/article/abs/pii/S0265964613000660)”, Space Policy, Elsevier. (2013)
 Original paper submitted to the National Academy of Sciences, Committee on Human Spaceflight call for input papers on the future of U.S. human spaceflight. The resultant 2014 report mentions my paper.
