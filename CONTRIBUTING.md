@@ -4,7 +4,7 @@ Want to contribute?
 
 First, thank you!
 
-Second, tell me in what way you would like to contribute, and to what project task or need.
+Second, "[email me](mailto:rrovetto@terpalum.umd.edu)" and say in what way you would like to contribute, and to what project task or need.
 
 You can contribute by supporting the project in the following general ways.
 
