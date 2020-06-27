@@ -26,9 +26,10 @@ Second, [email me](mailto:rrovetto@terpalum.umd.edu) saying in what way you woul
 * * Business plan development
 * * IP
 
-**You can contribute to the following tasks and project needs**
+## You can contribute to the following tasks and project needs**
 * Creating an online hosting website, or other system, for the ontologies
 * Creating a dynamic and interactive search and display feature for the content (terms, etc.) of the ontologies
 * Creating interactive visualiazations of the ontologies, such as dynamic interactive graphs
 * Linking online databases to the ontologies
-* 
+* Annotating databases and data with ontology terms
+* ...
