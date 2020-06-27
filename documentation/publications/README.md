@@ -33,7 +33,7 @@ PDF:
 
 * [8] "[Orbital Debris Ontology,Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/search.jsp?R=20200000988)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA. "Conference webpage"(https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)
 
-* [9] “[Ontologies – Creating Human-centered Taxonomies to Annotate Data(https://open.nasa.gov/blog/data-discovery-creating-human-centered-taxonomies-annotate-data/)” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
+* [9] “[Ontologies – Creating Human-centered Taxonomies to Annotate Data](https://open.nasa.gov/blog/data-discovery-creating-human-centered-taxonomies-annotate-data/)” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
 * [10] “[The Essential Role of Human Spaceflight(https://www.sciencedirect.com/science/article/abs/pii/S0265964613000660)”, Space Policy, Elsevier. (2013)
 Original paper submitted to the National Academy of Sciences, Committee on Human Spaceflight call for input papers on the future of U.S. human spaceflight. The resultant 2014 report mentions my paper.
