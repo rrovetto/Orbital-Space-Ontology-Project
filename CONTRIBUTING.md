@@ -8,7 +8,7 @@ Second, [email me](mailto:rrovetto@terpalum.umd.edu) saying in what way you woul
 
 ### You can contribute by supporting the project in the following general ways:
 
-**1. FINANCIAL SUPPORT** - because it's been unfunded, and because the author is in need of an income and sustainable opportunity.
+**1. FINANCIAL SUPPORT** - because it's been unfunded since 2011, and because the author is in need of an income and sustainable opportunity.
 * *[Donate or sponsor on the Patreon page](www.patreon.com/user?u=6298778)
 * *[Donate or sponor on the GoGetFunding page](https://tinyurl.com/y9qegjsh) 
 
