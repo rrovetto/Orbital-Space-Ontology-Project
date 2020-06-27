@@ -43,3 +43,9 @@ Original paper submitted to the National Academy of Sciences, Committee on Human
 * [11]	“[Defending Spaceflight – The Echoes of Apollo](https://www.sciencedirect.com/science/article/abs/pii/S0265964615300060)", Space Policy, Elsevier. (Download Paper) (2016)
 
 * [12]	"[Resurrecting Space Guard: Concepts for a Coast Guard of Space](https://iafastro.directory/iac/paper/id/40148/summary/)", 68th International Astronautical Congress. (Download Paper PDF) (Download PPT presentation) (2017)
+
+### Presentations
+
+* "[Orbital Debris Ontology]()", (2016) As a panelist on the Space Situational Awareness session of the Center for Orbital Debris Education and Research workshop, University of Maryland.
+
+* "[Ontology]()", (2017) Live webinar presentation to and in the NASA Datanauts group.
