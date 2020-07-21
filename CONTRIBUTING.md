@@ -4,27 +4,24 @@ Want to contribute?
 
 First-- thanks! You're great!
 
-Second-- [email me](mailto:rrovetto@terpalum.umd.edu) saying in what way you would like to contribute, and to what project task or need.
+Second-- [email me](mailto:rrovetto@terpalum.umd.edu) please say in what way you would like to team-up, and to what task or project need.
 
 ### You can contribute by supporting the project in the following general ways:
 
-**1 - FINANCIAL SUPPORT** - because it's been unfunded since 2011, and because the author is in need of an income and sustainable opportunity.
+**1 - FINANCIAL SUPPORT** 
 * [Donate or sponsor on the Patreon page](www.patreon.com/user?u=6298778)
 * [Donate or sponor on the GoGetFunding page](https://tinyurl.com/y9qegjsh) 
+CONTEXT: It's been unfunded since 2011. All publicaitons on it have been in the author's own time, while searching for employment or a studentship. To date, these basic needs are still not forthcoming. Some in university and industry have taken an interest in the ideas, but sadly some ran with ideas and made money off of them.
 
-
-**2 - TECHNICAL SUPPORT** - because to realize the project vision, it needs technical expertise to create the desired software, functionality, and tools.
+**2 - TECHNICAL SUPPORT** - to realize the project vision, it needs your technical expertise to create the desired functionality, tools, etc. I can create the models, but I need your help on the more technical programming aspects to apply them.
 * Computer science, Data science
 * Database management, Semantic technologies Ontology engineering, AI, machine learning
-
 
 **3 - SUBJECT-MATTER EXPERTISE SUPPORT** - because the project is about specific disciplines, and it needs specialized knowledge, expertise, and professionals in those disciplines to help develop and to verify the accuracy of the discipline-specific content in the project products.
 * Astrodynamics, Astronomy, Astronautical engineering, Aerospace science
 
-
-**4 - MENTORSHIP** - because we all need it, and because the author needs a team, supporters, and experienced professionals to learn how to realize the project vision.
+**4 - MENTORSHIP** - because we all need it, and because the author needs a team, supporters, and experienced professionals to learn how to realize the project vision. I'm interested in, and need to, continue to my education. I have a lot to learn, and I continue to search for a  studenetship. 
 * If you are a professor, invite me to be a PhD student
-
 
 **5 - BUSINESS SUPPORT & DEVELOPMENT** - because the project needs
 * Entrepreneurs
