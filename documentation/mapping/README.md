@@ -1,2 +1,2 @@
-This provides a mapping or crosswalk between terms in the ontologies of this project, with the terms found in external sources.
-A spreadsheet will be provided.
+This area provides a mapping or crosswalk between terms in the ontologies of this project, with those of external sources (e.g. vocabularies, ontologies, etc.).
+May include a spreadsheet.
