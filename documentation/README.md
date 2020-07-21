@@ -1,0 +1,1 @@
+This folder contains documentation for each ontology. Documentation may include a MS Word, Spreadsheet, or other file formats containing descriptions and other information to understand and navigation the ontologies.
