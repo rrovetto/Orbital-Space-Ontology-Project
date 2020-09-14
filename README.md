@@ -6,10 +6,11 @@
 ## Sumamry
 This project consists of developing a living domain reference ontology, and ontology suite, whose scope is astronautics (spaceflight) and the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'orbital space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.). The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, space missions (and their space systems and ground systems), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
 
-Project landing page currently at: http://purl.org/space-ontology and https://ontospace.wordpress.com/
-Contact the author with interest in the ontology files.
+Project landing page currently at: 
+http://purl.org/space-ontology or 
+https://ontospace.wordpress.com/
 
-The following ontologies are conceived as part of a modular architecture. They presently need: sponsors, contributors, technical services and support, or a work/study opportunity for the author to continue development. Some or all may compse a single ontology I call The Orbital Space Onology (OSO) or The Space Domain Ontology. There are various equivalent names that may be given to this ontology suite, such as: 'astronautical ontology suite', 'orbital space domain ontology' (OSDO), and 'orbital space environment domain ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application or office, e.g. NASA's Orbital Debris Office may use ODO: The Orbital Debris Ontology. All content is subject to revision.
+The following ontologies are conceived as part of a modular architecture. They presently need: sponsors, contributors, technical services and support, or a work/study opportunity for the author to continue development. Some or all may compse a single ontology I call The Orbital Space Onology (OSO) or The Space Domain Ontology. There are various equivalent names that may be given to this ontology suite, such as: 'astronautical ontology suite', 'orbital space domain ontology' (OSDO), and 'orbital space environment domain ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application or office, e.g. NASA's Orbital Debris Office may use ODO: The Orbital Debris Ontology. All content is subject to revision. If interested, contact the author.
 
 ## Ontologies to develop
 (subject to revision, merger, etc.)
@@ -50,16 +51,14 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
 * Under development. All Subject to revision. No claims to completeness.
 * _Need funding, sponsorship, employment option, and/or partners to complete work_ 
 * Seeking professors interested in me as a PhD student for this project.
-* Currently independently pursued by the author so an opportunity and resources is needed to thoroughly develop the ontologies as envisioned. Interested parties should make contact. Informaticisits, Astrodynamicists, computer scientistis, ontology engineers, AI professionals, etc. are needed to realize the vision.
+* Since 2011, this has been independently pursued by the author. So support, a team environment, mentorship, and work or study opportunity, is needed to sustainably develop and realize the project vision. Interested parties should make contact.
 
-**SEEKING sponsorship or other funded opportunities to sustainably continue development. Personal opportunnities of interest include:**
+**SEEKING sponsors and other opportunities to sustainably continue development. The author is interested in:**
 * A university degree studentship (a BS or MS in a space discipline; or a PhD in ontology, philosophy, or interdisciplinary) 
-* An employment contract
+* Formal collaborations, e.g., contract work, regular employment, internships, etc.
 * Grants (e.g., with NASA, ESA, EU, etc.)
 * University professors and companies to partner with and apply for grants 
-* Partners, coauthors, etc.
-
-The scope of each ontology will overalp--there will be a set of ontology terms shared among the subdomain ontologies. This set of classes will tentatively be placed in an ontology file to be imported as a core ontology for the others.
+* Coauthors
 
 ### Example Users
 * A planetary orbit visualization application with NASA colleagues.
@@ -67,14 +66,14 @@ The scope of each ontology will overalp--there will be a set of ontology terms s
 ## Creator/Author/Developer
 Robert J. Rovetto
 rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
-Ontologist, Philosopher, Astronautical Ontologist.
+Ontologist, Philosopher, Terminologist, Astronautical Ontologist.
 [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
 [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
-Alumnus of Univ.of Maryland, & The State University of New York. 
-Space studies coursework from American Military University.
-AIAA Space Flight Mechanics Committee
-AIAA Space Architecture Committee on Standards
 Education Committee, International association for Ontology and its Applicaitons
+Co-lead in lexicon development, AIAA Space Traffic Management working group
+Committee Member, AIAA Space Architecture Committee on Standards
+Alumnus of University of Maryland, & The State University of New York. 
+Space studies graduate coursework from American Military University (APUS).
 
 ## Publications
 * [1]_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
