@@ -99,4 +99,4 @@ PDF:
 This has been a pursuit since 2011 when I thought of applying ontology to the orbital debris domain to help ameliorate the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). I continue to search for an opportunity to work sustainably on and complete this project, ideally in a team environment with professionals with the required knowledge, e.g., astrodynamics, astroinformatics, computer science, and ontological engineering. I have developed enough paper concepts to make this a PhD project, but also seek to enter a space discipline degree program, with astronauitcs and orbital dynamics being my original passions. 
 
 ## License
-Copyright (c) Robert J. Rovetto 2011-2020.
+Copyright (c) Robert J. Rovetto 2011-2020. All rights reserved.
