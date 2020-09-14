@@ -20,14 +20,18 @@ CONTEXT: It's been unfunded since 2011. All efforts  have been in the author's o
 CONTEXT: To realize the project vision, this project is best developed in a stable team environment, such as in a PhD program, under employment with a company, or a formal affiliations with a supporting/collaborating organization (e.g. NASA). 
 The author is actively looking and applying for a study opportunity to pursue this as a project, but thusfar, no opportunity has been forthcoming.
 
-## 3 - TECHNICAL SUPPORT - to realize the project vision, technical experts and expertise are needed to achieve the desired goals and functionalities. 
+## 3 - TECHNICAL SUPPORT  
 * Please make contact if  you are a professional in semantic technology, computer/data science, ontology engineering, knowledge represenation & reasoning, and AI. 
+CONTEXT: to realize the project vision, technical experts and expertise are needed to achieve the desired goals and functionalities.
 
-## 4 - SUBJECT-MATTER EXPERTISE SUPPORT - experts in the target disciplines are needed to help understand the subjectmatter, develop and to verify the accuracy of the models.
+## 4 - SUBJECT-MATTER EXPERTISE SUPPORT 
 * Please make contact if you are a professional in astrodynamics, celestial mechanics, astronomy, astronautical engineering, aerospace science
 
-## 5 - MENTORSHIP - because we all need it, and because the author needs a team, supporters, and experienced professionals to realize the project vision.  
+CONTEXT: experts in the target disciplines are needed to help understand the subjectmatter, develop and to verify the accuracy of the models.
+
+## 5 - MENTORSHIP
 * Please make contact if you'd like to be a mentor. Please make contact if you are experienced profession with interest in helping other succeed, and in positively developing this project. 
+CONTEXT: because we all need it, and because the author needs a team, supporters, and experienced professionals to realize the project vision.  
 
 ## 6 - BUSINESS SUPPORT & DEVELOPMENT - the project needs
 * Entrepreneurs
