@@ -1,8 +1,10 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 
+This project needs support: sponsors, formal collaborations, technical experts, and work or study opportunities for the author.
 * Please see the CONTRIBUTING page about the needs of the project.
 
-This project consists of developing a domain reference ontology, and ontology suite, whose scope is astronautics and the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'orbital space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.). The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, space missions (and their space systems and ground systems), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
+## Sumamry
+This project consists of developing a living domain reference ontology, and ontology suite, whose scope is astronautics (spaceflight) and the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'orbital space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.). The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, space missions (and their space systems and ground systems), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
 
 Project landing page currently at: http://purl.org/space-ontology and https://ontospace.wordpress.com/
 Contact the author with interest in the ontology files.
@@ -34,15 +36,18 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
   An ontology of the astrodynamic models for objects in orbits. 
 * **SWO - Space Weather Ontology**
   An ontology of space weather phenomena as contrasted with space artefacs such as artificial orbital debris. 
-  SWO classes may be found in existing astronomy ontologies(TBD) 
+  SWO classes may be found in existing astronomy ontologies(TBD)  
+* **OSO/OSDO/OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Domain Ontology**
+  The broadest scope encompassing and consisting of the following ontologies. A generic formal represenation for the orbital space about any central body or 
+  astronomical reference frame.  
 * **UCSSO - The Union of Concerned Scientists Satellite Ontology**
   A case-study demonstration of building an ontology for a specific database. This is an ontology for UCS Satellite Database, not intended for any other (but intended to show that the SSAO or the OSO can be used for any database). 
   https://purl.org/space-ontology/ucsso
-* **STMO - The Space Traffic Management Ontology**
-  An ontology of the STM domain, to include organization, coordination and other activities for traffic in the orbital space environment. 
+* **STMO - The Space Traffic Management Ontology (Space Traffic Coordination Ontology)**
+  An ontology of STM concepts, to include organization, coordination and other activities for traffic in the orbital space environment. 
 
 ## Status & Desiderata
-* Some under development, others concepts to be developed. All Subject to revision. No claims to completeness.
+* Under development. All Subject to revision. No claims to completeness.
 * _Need funding, sponsorship, employment option, and/or partners to complete work_ 
 * Seeking professors interested in me as a PhD student for this project.
 * Currently independently pursued by the author so an opportunity and resources is needed to thoroughly develop the ontologies as envisioned. Interested parties should make contact. Informaticisits, Astrodynamicists, computer scientistis, ontology engineers, AI professionals, etc. are needed to realize the vision.
@@ -57,7 +62,7 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
 The scope of each ontology will overalp--there will be a set of ontology terms shared among the subdomain ontologies. This set of classes will tentatively be placed in an ontology file to be imported as a core ontology for the others.
 
 ### Example Users
-* A planetary orbit visualization application by Dr.Daniel O'Neil, NASA MSFC.
+* A planetary orbit visualization application with NASA colleagues.
 
 ## Creator/Author/Developer
 Robert J. Rovetto
@@ -87,7 +92,7 @@ PDF:
 
 * [7] "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 
-* [8] "Orbital Debris Ontology,Terminology, and Knowledge Modeling"(https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA.
+* [8] "Orbital Debris Ontology,Terminology, and Knowledge Modeling"(https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA. In "[NASA NTRS server](https://ntrs.nasa.gov/citations/20200000988). And in "[Journal of Space Safety Engineering](https://www.sciencedirect.com/science/article/abs/pii/S2468896720300720) (2020)
 
 * [9] “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
