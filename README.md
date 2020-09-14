@@ -1,26 +1,29 @@
 # The Orbital Space Environment Domain Reference Ontology Project
-This project consists of developing a domain reference ontology or ontology suite, whose domain scope is the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'Orbital Space Domain'. The ontologies will provide formal representaitons of orbits, orbital phenomena & knowledge, space objects (spacecraft, orbital debris), spacecraft maneuvers, orbital events, and other related entities, as well as space traffic management concepts. These entities will be delineated into modular ontologies the whole of which may be merged into a single space domain ontology file. It is intended to be applicable to any central body or orbital reference frame, i.e., to any planet, and internationally applicable. 
-Project landing page: http://purl.org/space-ontology. Contact the author for the ontology files.   
 
-The following ontologies are conceived as part of a modular architecture. All presently need sponsorship, funding, or a work opportunity to continue development. Some or all may compse a single ontology I call the Orbital Space Onology (OSO) or The Space Domain Ontology. Alternative names are 'orbital space domain ontology' (OSDO), and 'orbital space environment domain ontology' (OSEDO). In isolation, modular ontologies can be used for specific applications or offices, e.g. NASA's Orbital Debris Office may use ODO: The Orbital Debris Ontology. 
+* Please see the CONTRIBUTING page about the needs of the project.
+
+This project consists of developing a domain reference ontology, and ontology suite, whose scope is astronautics and the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'orbital space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.). The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, space missions (and their space systems and ground systems), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
+
+Project landing page currently at: http://purl.org/space-ontology and https://ontospace.wordpress.com/
+Contact the author with interest in the ontology files.
+
+The following ontologies are conceived as part of a modular architecture. They presently need: sponsors, contributors, technical services and support, or a work/study opportunity for the author to continue development. Some or all may compse a single ontology I call The Orbital Space Onology (OSO) or The Space Domain Ontology. There are various equivalent names that may be given to this ontology suite, such as: 'astronautical ontology suite', 'orbital space domain ontology' (OSDO), and 'orbital space environment domain ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application or office, e.g. NASA's Orbital Debris Office may use ODO: The Orbital Debris Ontology. All content is subject to revision.
 
 ## Ontologies to develop
 (subject to revision, merger, etc.)
 
 * **ODO - The Orbital Debris Ontology**
-  An ontology for orbital debris objects.
+  An ontology representing orbital debris objects, and related things.
   https://purl.org/space-ontology/odo
 * **SSAO - The Space Situational Awareness Ontology**
-  An ontology for SSA processes yielding knowledge of orbital space environment 
+  An ontology for SSA processes, data, actors, and infrastructure, which yield actionable knowledge of orbital space environment.
   https://purl.org/space-ontology/ssao
 * **OO - The Orbital Ontology Core (the "Orbitology Ontology")**
-  An general purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This will serve as a core ontology of high-level domain-specific classes for orbital entities for space domain ontologies. 
+  A general-purpose ontology for (i) fundamental orbital concepts, (ii) representing the orbits of any satellite, (iii) providing a common orbital terminology for other ontologies. This is a base ontology consisting of generic but domain-specific classes for orbital entities for space domain ontologies. 
 * **The Celestial Orbit Type Ontology (the Gravitaitonal/Astronomical Orbit Type Ontology)**
-An ontology of orbital categories. A taxonomy of orbits.
-* **OSO/OSDO/OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Domain Ontology**
-  The broadest scope encompassing and consisting of the following ontologies. A generic formal represenation for the orbital space about any central body or astronomical reference frame.  
-* **OEO - Orbital Event & Process Ontology**
-  An ontology of occurrences in orbit, e.g. collisions
+An ontology of orbit categories. An orbit type taxonomy with features unique to each.
+* **OEO - Orbital Event & Process Ontology (the Orbital Activity Ontology)**
+  An ontology of occurrences in orbit, e.g. collisions.
 * **OOO - Orbital Object Ontology**
   An ontology of objects in orbital motion about some central body or barycenter. 
 * **Space Mission Ontology**
