@@ -1,6 +1,6 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 
-This project needs support: sponsors, formal collaborations, technical experts, and work or study opportunities for the author.
+**This project needs support: sponsors, formal collaborations, technical experts, and work or study opportunities for the author**
 * Please see the CONTRIBUTING page about the needs of the project.
 
 ## Sumamry
