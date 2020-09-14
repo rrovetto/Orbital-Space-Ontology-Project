@@ -2,7 +2,7 @@
 
 First, thanks for your interest in contributing!
 
-Second, [email me](mailto:rrovetto@terpalum.umd.edu), and please say in what way you would like to contribute, and to what task or project need (listed below).
+Second, [email the author](mailto:rrovetto@terpalum.umd.edu), and please say in what way you would like to contribute, and to what task or project need (listed below).
 
 ## You can contribute by supporting the project in the following ways:
 
