@@ -1,9 +1,9 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 
-* This project needs support: sponsors, formal collaborations, technical experts, and work or study opportunities for the author
+* **This project needs support**: sponsors, formal collaborations, technical experts, and work or study opportunities for the author
 * Please see the CONTRIBUTING page about the needs of the project.
 
-## Sumamry
+## Summary
 This project consists of developing a living domain reference ontology, and ontology suite, whose scope is astronautics (spaceflight) and the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'orbital space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.). The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, space missions (and their space systems and ground systems), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
 
 Project landing page currently at: 
