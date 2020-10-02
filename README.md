@@ -1,19 +1,25 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 
-* **This project needs support**: sponsors, formal collaborations, technical experts, and work or study opportunities for the author
-* Please see the CONTRIBUTING page about the needs of the project.
+* **This project needs support**: sponsors, formal collaborations, technical experts, and work or study opportunities for the author. See the CONTRIBUTING page about the needs of the project.
 
 ## Summary
-This project consists of developing a living domain reference ontology, and ontology suite, whose scope is astronautics (spaceflight) and the orbital space environemnt, including space situational awareness (SSA), here collectively called the 'orbital space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.). The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, space missions (and their space systems and ground systems), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
+This on-going project consists of developing a living domain reference ontology (knowledge model), and ontology suite for astronautics (spaceflight), the orbital space environemnt, and space situational awareness (SSA), here collectively called the 'orbital space domain' or 'space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.), but tailored models can be built for a given actor or sector (please contact author). The ontologies will provide formal representaitons of  phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
 
-Project landing page currently at: 
-http://purl.org/space-ontology or 
-https://ontospace.wordpress.com/
+## Purpose
+* To support spaceflight and space situational awareness
+* To provide a set of modular, re-usable, buy dynamic and correctable ontologies for astronautics and related discplines
+* To form a unified knowlege model of the target domain with these ontologies
+* To offer an accurate formal representation of the target domain objects and domain knowledge
+* To offer a set of vocabularies, taxonomies, and classificaitons that are comprehensible, accurate and widely-applicable
 
-The following ontologies are conceived as part of a modular architecture. They presently need: sponsors, contributors, technical services and support, or a work/study opportunity for the author to continue development. Some or all may compse a single ontology I call The Orbital Space Onology (OSO) or The Space Domain Ontology. There are various equivalent names that may be given to this ontology suite, such as: 'astronautical ontology suite', 'orbital space domain ontology' (OSDO), and 'orbital space environment domain ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application or office, e.g. NASA's Orbital Debris Office may use ODO: The Orbital Debris Ontology. All content is subject to revision. If interested, contact the author.
+## Access 
+* Project landing page currently at: http://purl.org/space-ontology and https://ontospace.wordpress.com/
+
 
 ## Ontologies to develop
 (subject to revision, merger, etc.)
+
+The following ontologies are conceived as part of a modular architecture. Some or all may compse a single ontology that I call The Orbital Space Onology (OSO), or The Space Domain Ontology. There are various synonymous names that may be given to this ontology suite, depending on intended meaning and scoping, such as: 'Astronautical Ontology Suite', 'Orbital Space Domain Ontology' (OSDO), and 'Orbital Space Environment Domain Ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application or office, e.g. NASA's Orbital Debris Office may use ODO: The Orbital Debris Ontology. All content is subject to revision. If interested, contact the author.
 
 * **ODO - The Orbital Debris Ontology**
   An ontology representing orbital debris objects, and related things.
@@ -47,18 +53,18 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
 * **STMO - The Space Traffic Management Ontology (Space Traffic Coordination Ontology)**
   An ontology of STM concepts, to include organization, coordination and other activities for traffic in the orbital space environment. 
 
-## Status & Desiderata
-* Under development. All Subject to revision. No claims to completeness.
-* _Need funding, sponsorship, employment option, and/or partners to complete work_ 
-* Seeking professors interested in me as a PhD student for this project.
-* Since 2011, this has been independently pursued by the author. So support, a team environment, mentorship, and work or study opportunity, is needed to sustainably develop and realize the project vision. Interested parties should make contact.
+## Development Status 
+* Under development (as of 2020). All content is subject to revision. No claims to completeness.
+* Since 2011, this has been independently pursued by the author in free time. 
+* So opportunities are needed to sustainably continue development and realize the project vision.  
 
-**SEEKING sponsors and other opportunities to sustainably continue development. The author is interested in:**
-* A university degree studentship (a BS or MS in a space discipline; or a PhD in ontology, philosophy, or interdisciplinary) 
+## Desiderata (How you can help)
+* _Needs_: formal collaborations, mentors, sponsors, contributors, a team environment, study options or employment options for the author.
+* The author seeks a PhD fellowship. If you are a professor interested in Rovetto as a PhD student, please make contact.
+* Co-authors to complete and write papers, ideally funded (please contact--many papers on the shelf)
+* University professors and companies to partner with and apply for grants 
 * Formal collaborations, e.g., contract work, regular employment, internships, etc.
 * Grants (e.g., with NASA, ESA, EU, etc.)
-* University professors and companies to partner with and apply for grants 
-* Coauthors
 
 ### Example Users
 * A planetary orbit visualization application with NASA colleagues.
@@ -66,14 +72,14 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
 ## Creator/Author/Developer
 Robert J. Rovetto
 rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
-Ontologist, Philosopher, Terminologist, Astronautical Ontologist.
-[Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
-[National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
-Education Committee, International association for Ontology and its Applicaitons
-Co-lead in lexicon development, AIAA Space Traffic Management working group
-Committee Member, AIAA Space Architecture Committee on Standards
-Alumnus of University of Maryland, & The State University of New York. 
-Space studies graduate coursework from American Military University (APUS).
+* Ontologist, Philosopher, Terminologist, Astronautical Ontologist.
+* [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
+* [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
+* Education Committee, International association for Ontology and its Applicaitons
+* Co-lead in lexicon development, AIAA Space Traffic Management working group
+* Committee Member, AIAA Space Architecture Committee on Standards
+* Alumnus of University of Maryland, & The State University of New York. 
+* Space studies graduate coursework from American Military University (APUS).
 
 ## Publications
 * [1]_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
@@ -97,6 +103,9 @@ PDF:
 
 ## History, Author Bio-Contextual-Efforts
 This has been a pursuit since 2011 when I thought of applying ontology to the orbital debris domain to help ameliorate the OD hazard via ontology-based data-sharing and integration (verifying documents and references available upon request). I continue to search for an opportunity to work sustainably on and complete this project, ideally in a team environment with professionals with the required knowledge, e.g., astrodynamics, astroinformatics, computer science, and ontological engineering. I have developed enough paper concepts to make this a PhD project, but also seek to enter a space discipline degree program, with astronauitcs and orbital dynamics being my original passions. 
+
+## Warranty
+No warranty. Presented "AS IS"
 
 ## Rights
 © 2011-2020, Robert John Rovetto. All right reserved.
