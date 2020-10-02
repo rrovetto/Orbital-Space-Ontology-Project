@@ -3,7 +3,7 @@
 * **This project needs support**: sponsors, formal collaborations, technical experts, and work or study opportunities for the author. See the CONTRIBUTING page about the needs of the project.
 
 ## Summary
-This on-going project consists of developing a living domain reference ontology (knowledge model), and ontology suite for astronautics (spaceflight), the orbital space environemnt, and space situational awareness (SSA), here collectively called the 'orbital space domain' or 'space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.), but tailored models can be built for a given actor or sector (please contact author). The ontologies will provide formal representaitons of  phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single space domain ontology file. Together this will form a unified knowledge model of the target domain, providing knowledge representation, metadata, vocabularies, and ontologies for astronautics.  
+This on-going project consists of developing a living domain reference ontology (knowledge model), and ontology suite for astronautics (spaceflight), the orbital space environemnt, and space situational awareness (SSA), and space traffic management (STM) here collectively called the 'orbital space domain' or 'space domain'. It is neutral with respect to sector (civil, gov't, mil, etc.), but tailored models can be built for a given actor or sector (please contact author). The ontologies will provide formal representaitons of  phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single master ontology file. Together this is intended to form a unified knowledge model of the target domain, providing a semantic layer for data, and providing knowledge representation, metadata elements, vocabularies, and ontologies for astronautics and SSA.  
 
 ## Purpose
 * To support spaceflight and space situational awareness
@@ -14,9 +14,9 @@ This on-going project consists of developing a living domain reference ontology 
 
 ## Access 
 * Project landing page currently at: http://purl.org/space-ontology and https://ontospace.wordpress.com/
+* Please contact if interested in using, helping develop, sponsoring, or hiring the author. 
 
-
-## Ontologies to develop
+## Ontologies under development
 (subject to revision, merger, etc.)
 
 The following ontologies are conceived as part of a modular architecture. Some or all may compse a single ontology that I call The Orbital Space Onology (OSO), or The Space Domain Ontology. There are various synonymous names that may be given to this ontology suite, depending on intended meaning and scoping, such as: 'Astronautical Ontology Suite', 'Orbital Space Domain Ontology' (OSDO), and 'Orbital Space Environment Domain Ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application or office, e.g. NASA's Orbital Debris Office may use ODO: The Orbital Debris Ontology. All content is subject to revision. If interested, contact the author.
@@ -67,7 +67,7 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
 * Grants (e.g., with NASA, ESA, EU, etc.)
 
 ### Example Users
-* A planetary orbit visualization application with NASA colleagues.
+* A planetary orbit visualization application by NASA.
 
 ## Creator/Author/Developer
 Robert J. Rovetto
