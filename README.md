@@ -1,7 +1,7 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 
 ## Status
-* **Project Needs Support**: sponsors, formal collaborations, technical experts, and employment or study opportunities for the author to continue development. It has been indepently pursued and unsupported in author's spare time since inception in 2011. Therefore, opportunities are needed to sustain and provide income and realize the project vision.
+* **Project Needs Support**: sponsors, formal collaborations, technical experts, and employment or study opportunities for the author to continue development. It has been independently pursued and unsupported in author's spare time since inception in 2011. Therefore, opportunities are needed to sustain and provide income and realize the project vision.
 * See the CONTRIBUTING page about the needs of the project. 
 * All content is subject to revision. No claims to completeness. 
 * Landing page currently at https://ontospace.wordpress.com/
@@ -62,10 +62,10 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
   An ontology of STM concepts, to include organization, coordination and other activities for traffic in the orbital space environment. 
 
 ## Desiderata (How you can help)
-* _Needs_: formal collaborations, mentors, sponsors, contributors, a team environment, study options or employment options for the author.
-* The author seeks a PhD fellowship. If you are a professor interested in Rovetto as a PhD student, please make contact.
-* Co-authors to complete and write papers, ideally funded (please contact--many papers on the shelf)
-* University professors and companies to partner with and apply for grants 
+* _Needs_: Financial support, formal collaborations, mentors, contributors, a team environment, study options or employment options for the author.
+* A PhD study opportunity to do this work. (Professors interested in me as a PhD student should make contact)
+* Co-authors to complete and write papers (please contact--many papers on the shelf)
+* University professors and companies to formall partner with and apply to grants 
 * Formal collaborations, e.g., contract work, regular employment, internships, etc.
 * Grants (e.g., with NASA, ESA, EU, etc.)
 
