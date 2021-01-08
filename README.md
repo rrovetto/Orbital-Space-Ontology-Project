@@ -2,7 +2,7 @@
 
 ## Status
 * **Project Needs Support**: sponsors, formal collaborations, technical experts, and employment or study opportunities for the author to continue development. It has been independently pursued and unsupported in author's spare time since inception in 2011. Therefore, opportunities are needed to sustain and provide income and realize the project vision.
-* See the CONTRIBUTING page about the needs of the project. 
+* See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project. 
 * All content is subject to revision. No claims to completeness. 
 * Landing page currently at https://ontospace.wordpress.com/
 
