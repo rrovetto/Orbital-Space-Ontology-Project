@@ -1,6 +1,8 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 
-* **Project needs support**: sponsors, formal collaborations, technical experts, and work or study opportunities for the author. It has been pursued in author's spare time. See the CONTRIBUTING page about the needs of the project. 
+## Status
+* **Project needs support**: sponsors, formal collaborations, technical experts, and employment or study opportunities for the author to continue development. It has been pursued unsupported in author's spare time since inception in 2011. 
+* See the CONTRIBUTING page about the needs of the project. 
 
 ## Access 
 Ontologies, and ontology development services, are currently available only under formal arrangement with the author. The project has been pursued unfunded, in author's own time, while needing formal support since inception in 2011. Therefore compensation for time/work is necessary.
