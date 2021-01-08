@@ -1,13 +1,13 @@
-## Publications
+## Articles / Publications
 A list of publicaitons on this project by the author.
 
 ### Forthcoming
 * NASA Technical Manual: “Ontology-based Virtual Orrery”, Dr. Daniel A. O’Neil (NASA MSFC).
 
 ### Grant Proposals
-* “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NNH18ZHA003N.
+* “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NNH18ZHA003N. (Submitted, no accepted)
 
-### Univesity White Paper Proposals 
+### White Paper Proposals 
 * “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” (2019) with. Dr. Joanne S. Luciano, University of Virgin Islands (UVI). Submitted to UVI call.
 
 ### Magazine Articles
@@ -43,7 +43,6 @@ Original paper submitted to the National Academy of Sciences, Committee on Human
 
 * [13]	“[Space Object Ontology, aka Space Object Ontology and Taxonomy Development](https://philpapers.org/archive/ROVSOO.pdf)”, Rovetto, R.J. (2016 online PhilPapers), Submitted to journal. Forthcoming. Note: There is evidence that is and other papers were plagiarized, so please do not use or give business to the offenders.
 
-
 ### Presentations
 
 * "[Orbital Debris Ontology]()", (2016) As a panelist on the Space Situational Awareness session of the Center for Orbital Debris Education and Research workshop, University of Maryland.
@@ -52,4 +51,4 @@ Original paper submitted to the National Academy of Sciences, Committee on Human
 
 * "[Improving Space Data Management & Space Situational Awareness: Ontology and Knowledge-based Approaches]()", Live conference call presentation (7 December 2018), A Proposal to European Space Agency.
 
-* "Astronautical Knowledge Modeling to improve spaceflight safety and data management", Live webinar preentation (PPT) (July 2020)
+* "Astronautical Knowledge Modeling to improve spaceflight safety and data management", Live webinar preentation (PPT), Earth Science Information Partners Summer Meeting (July 2020)
