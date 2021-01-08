@@ -1,1 +1,1 @@
-A folder containing documents expressing the knowledge or statements to be formally captured by the ontologies, i.e. the concepts, ideas, and both general and specific knowledge to represent in the ontologies.
+A folder containing documents expressing the knowledge or listing statements to be formally represented in the ontologies, i.e., the concepts, ideas, and both general and specific knowledge.
