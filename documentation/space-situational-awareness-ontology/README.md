@@ -41,5 +41,5 @@ URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
 ##Contact##
 rrovetto[at]terpalum.umd.edu
 
-##License##
-(c) Copyright 2011-2016 Robert J. Rovetto. All rights reserved.
+##Copyright
+(c) Copyright 2011-2021 Robert J. Rovetto. All rights reserved.
