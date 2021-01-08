@@ -1,9 +1,9 @@
 # The Space Situational Awareness Ontology (SSAO)
 
 ## Description
-The SSAO is an ontology of SSA, which involves observeration, detection, identification, tracking and propogation (predition of future behavior or motion) of objects in orbit; and the knowledge and beliefs generated from that. This knowledge and beliefs may be actual or confirmed, or predicted. SSAO aims to formally and computationally represent the relationships between objects near Earth (or any planetary reference frame), and annotate orbital and other SSA instance data to facilitate data-sharing and integration.
+The SSAO is an ontology describing the topic of space situational awareness (SSA): the observeration, detection, identification, tracking, and propogation (predition of future behavior or motion) of objects in orbit; SSA-relevant data, and the knowledge and beliefs generated from that. Knowledge and beliefs may be actual or confirmed, or predicted. SSAO aims to formally and computationally represent the relationships between objects near Earth (or any planetary reference frame), and annotate orbital and other SSA instance data to facilitate data-sharing and integration.
 
-NOTE: Contact rrovetto@terpalum.umd.edu for to help develop this ontology.
+NOTE: Contact rrovetto@terpalum.umd.edu to help develop this ontology.
 
 ## Scope
 It minimally consists of class terms representing the processes and infrastructure by which persons and organizations achieve situational awareness (knowledge and beliefs) of the orbital space environment (or events and causal interactions therein). It includes at least that which affords awareness of the space environment.
@@ -19,14 +19,12 @@ Given the domain, synonymous names include: 'space domain ontology' (SDO), and '
 
 ## Status
 * Under development. Subject to revision. No claims to completeness are made.
-* SEEKING grant partners (companies and/or professors), and other funded opportunities to work sustainably on this project.
+* Needing/seeking funded opportunities to continue development. Open to work or study opportunities, short-term contracts, etc. 
 
-## Creator
-Robert J. Rovetto,
-Alumn of Univ.Maryland (2007), and SUNY (2011); Coursework in Space Studies from AMU/APUS
-Seeking space degree studentship
+## Creator / Author
+Robert J. Rovetto
 
-##Publications & References##
+## Publications & References
 * [2] “Preliminaries of a Space Situational Awareness Ontology”, Robert John Rovetto, T.S. Kelso. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016. Proceedings published in the Advances in the Astronautical Sciences, vol 158, Univelt Inc. URL= http://www.univelt.com/book=5920. Proceedings URL= http://www.univelt.com/book=5955. Pre-print(PDF): https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf
 
 * [1] “An Ontological Architecture for Orbital Debris Data”_, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 
@@ -38,8 +36,8 @@ URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
 
 * https://github.com/rrovetto/
 
-##Contact##
+## Contact 
 rrovetto[at]terpalum.umd.edu
 
-##Copyright
+## Copyright
 (c) Copyright 2011-2021 Robert J. Rovetto. All rights reserved.
