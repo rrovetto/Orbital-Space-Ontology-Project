@@ -2,7 +2,7 @@
 * Description currently at https://ontospace.wordpress.com/
 
 ## Status
-* _Project Needs Support_: stable funding source and development environment, e.g., sponsors, donations, or PhD study opportunity for the author to continue development in a sustainable and mentored environment. 
+* **Project Needs Support:** it needs a stable funding source & development environment, e.g., sponsors, donations, or PhD study opportunity for the author to continue development in a sustainable and mentored environment. 
 * To date, it has been independently pursued in author's spare time since inception in 2011. Therefore, opportunities are needed to realize the project vision.
 * See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project. 
 
