@@ -20,9 +20,9 @@ This on-going project consists of developing a living reference model (a knowled
 ## Purpose
 * To support spaceflight and space situational awareness
 * To provide a set of modular, re-usable, buy dynamic and correctable ontologies for astronautics and related discplines
-* To form a unified knowlege model of the target domain with these ontologies
+* To form a unified knowledge model of the target domain with these ontologies
 * To offer an accurate formal representation of the target domain objects and domain knowledge
-* To offer a set of vocabularies, taxonomies, and classificaitons that are comprehensible, accurate and widely-applicable
+* To offer a set of vocabularies, taxonomies, and classifications that are comprehensible, accurate and widely-applicable
 
 ## Ontologies under development
 (subject to revision, merger, etc.)
@@ -53,7 +53,7 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
   An ontology of space weather phenomena as contrasted with space artefacs such as artificial orbital debris. 
   SWO classes may be found in existing astronomy ontologies(TBD)  
 * **OSO/OSDO/OSEDO - The Orbital Space Ontology / Orbital Space Domain Ontology / Orbital Space Environment Domain Ontology**
-  The broadest scope encompassing and consisting of the following ontologies. A generic formal represenation for the orbital space about any central body or 
+  The broadest scope encompassing and consisting of the following ontologies. A generic formal representation for the orbital space about any central body or 
   astronomical reference frame.  
 * **UCSSO - The Union of Concerned Scientists Satellite Ontology**
   A case-study demonstration of building an ontology for a specific database. This is an ontology for UCS Satellite Database, not intended for any other (but intended to show that the SSAO or the OSO can be used for any database). 
@@ -78,7 +78,7 @@ rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
 * Ontologist, Philosopher, Terminologist, Astronautical Ontologist.
 * [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
-* Education Committee, International association for Ontology and its Applicaitons
+* Education Committee, International association for Ontology and its Applications
 * Co-lead in lexicon development, AIAA Space Traffic Management working group
 * Committee Member, AIAA Space Architecture Committee on Standards
 * Alumnus of University of Maryland, & The State University of New York. 
