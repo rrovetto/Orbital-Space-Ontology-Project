@@ -2,12 +2,12 @@
 * Description currently at https://ontospace.wordpress.com/
 
 ## Status
-* **Project Needs Support**: stable funding source and development environment...sponsors, donations, or PhD study opportunity for the author to continue development in a sustainable and mentored environment. To date, it has been independently pursued in author's spare time since inception in 2011. Therefore, opportunities are needed to realize the project vision.
+* _Project Needs Support_: stable funding source and development environment, e.g., sponsors, donations, or PhD study opportunity for the author to continue development in a sustainable and mentored environment. 
+* To date, it has been independently pursued in author's spare time since inception in 2011. Therefore, opportunities are needed to realize the project vision.
 * See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project. 
-* All content is subject to revision. No claims to completeness. 
 
 ## Support the project
-* If you find value in the project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+* If you find value in the project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Click also the pink heart 'Sponsor' button at the top of the page. 
 * [Schedule a Partnership Discussion Here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d)
 
 ## Access
@@ -15,9 +15,8 @@
   [Purchase Use of an ontology here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s331e7027edcbaefe7e2759be90ca0c48bb46125e).
 * Please email or [schedule a meeting at this link](https://tinyurl.com/yas7trzy).
 
-
-## Summary
-This on-going project consists of developing a living domain reference model (or a knowledge model), in the form of an ontology suite for astronautics (spaceflight), the orbital space environemnt, space situational awareness (SSA), and space traffic coordination/management (STC/M) here collectively called the 'orbital space domain', 'space domain', or 'astronautical domain'. It is neutral with respect to nation and sector (civil, gov't, mil, etc.), but tailored models can be built for a given actor or sector. The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single master ontology file. Together this is intended to form a unified knowledge model of the target domain, providing a semantic layer for data, and providing knowledge representation, metadata elements, vocabularies, and ontologies for astronautics and SSA.  
+## About
+This in-progress project consists of developing a living domain reference model (or a knowledge model), in the form of an ontology suite for astronautics (spaceflight), the orbital space environemnt, space situational awareness (SSA), and space traffic coordination/management (STC/M) here collectively called the 'orbital space domain', 'space domain', or 'astronautical domain'. It is neutral with respect to nation and sector (civil, gov't, mil, etc.), but tailored models can be built for a given actor or sector. The ontologies will provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. These, and related, entities will be grouped into modular ontologies the whole of which may be merged into a single master ontology file. Together this is intended to form a unified knowledge model of the target domain, providing a semantic layer for data, and providing knowledge representation, metadata elements, vocabularies, and ontologies for astronautics and SSA.  
 
 ## Purpose
 * To support safe spaceflight and space situational awareness
@@ -106,12 +105,14 @@ PDF:
 
 * [9] “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
-## History, Author Bio-Contextual-Efforts
+## History, Author Bio-Contextual Efforts
 This has been a pursuit since 2011 when I thought of applying ontology to the orbital debris domain to help ameliorate the debris hazard via ontology-based data-sharing and integration (documented proof & references available upon request). I continue to search for an opportunity to work sustainably on and complete this project, ideally in a team environment with professionals, e.g., astrodynamics, astroinformatics, computer science, and ontological engineering. I have developed enough paper concepts to make this a PhD project, so I hope to enter a degree program involving study of astronauitcs and orbital dynamics (my original passion). 
 
 ## Warranty
 No warranty. Presented "AS IS". Author and copyright holder is not liable.
+All content, work and products are subject to revision. No claims to completeness. 
+
 
 ## Copyright
 © 2011-2021, Robert John Rovetto. All right reserved.
-Not authorized for commercial use unless explicitly negotiated with the author.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation required.
