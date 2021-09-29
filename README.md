@@ -1,5 +1,6 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 * Description currently at https://ontospace.wordpress.com/
+* [Github Page](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
 
 ## Status
 * **Project Needs Support:** it needs a stable funding source & development environment, e.g., sponsors, donations, or PhD study opportunity for the author to continue development in a sustainable and mentored environment. 
@@ -112,7 +113,6 @@ This has been a pursuit since 2011 when I thought of applying ontology to the or
 No warranty. Presented "AS IS". Author and copyright holder is not liable.
 All content, work and products are subject to revision. No claims to completeness. 
 
-
 ## Copyright
-© 2011-2021, Robert John Rovetto. All right reserved.
-Not authorized for commercial use unless explicitly negotiated with the author. Citation required.
+© 2011-2021, Robert John Rovetto. All right reserved. 
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
