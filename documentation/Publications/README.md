@@ -2,7 +2,6 @@
 A list of publicaitons on this project by the author.
 
 ### Forthcoming
-* NASA Technical Manual: “Ontology-based Virtual Orrery”, Dr. Daniel A. O’Neil (NASA MSFC).
 
 ### Grant Proposals
 * “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NNH18ZHA003N. (Submitted, no accepted)
