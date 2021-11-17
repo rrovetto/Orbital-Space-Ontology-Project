@@ -77,7 +77,7 @@ Financial support, Educational support, and Technical support needed:
 ## Creator/Author/Developer
 Robert J. Rovetto
 rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
-* Ontologist, Philosopher, Terminologist, Astronautical Ontologist.
+* Knowledge Modeling, Formmal ontology, Philosophy, Terminology, Conceptual engineering, Space Ontologist.
 * [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
 * [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
 * Education Committee, International association for Ontology and its Applicaitons
