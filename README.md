@@ -1,23 +1,25 @@
 # The Orbital Space Environment Domain Reference Ontology Project
+Developing a suite of ontologies for the space domain, with a focus on astronautics.
 * Description currently at https://ontospace.wordpress.com/
 * [GitPage](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
 
 ## Status
-* In-progress, subject-to-revision.
-* **Needs Formal Support:** the project needs funding sources, formal work collaborations, and a stable development environment. As unfunded work, donations, sponsors, and work or PhD study offers are welcome, appreciated and needed. These opportunities are needed for the author to continue development in a sustainable, protected, mentored, and learning environment. 
-* To date, the project has been independently pursued by author since inception in 2011. Therefore, opportunities are needed to realize the project vision.
-* See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project. 
+* In-progress, subject-to-revision. Independently pursued by author since inception in 2011, but actively open to formal partnerships and support.
+* **Needs Formal Support:** the project needs funding, formal work collaborations, and a stable development environment. As unfunded work, donations or sponsors are welcome. Employment or PhD study options to sustainably realize the project vision are desired. These opportunities are needed for the author to continue development in a sustainable, protected, mentored, and learning environment. Please [contact](https://ontospace.wordpress.com/contact) if you can help.  
 
-## Support the project
-* If you find value in the project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Also click the pink heart 'Sponsor' button at the top of the page. 
-* [Schedule a Partnership Discussion Here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d)
+## Support the project - How you can help
+* If you find value in this project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the pink heart 'Sponsor' button at the top of the page. 
+* See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project.
+* [Schedule a Partnership Discussion Here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) 
 
 ## Access
 * Ontologies, and ontology development/consulting services, are currently available by formal arrangement with the author. 
-  [Purchase Use of an ontology here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s331e7027edcbaefe7e2759be90ca0c48bb46125e).
-* Please email or [schedule a meeting at this link](https://tinyurl.com/yas7trzy).
+* [Contact](https://ontospace.wordpress.com/contact) or [purchase use of an ontology here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s331e7027edcbaefe7e2759be90ca0c48bb46125e).
 
 ## About
+
+![alt text](http://url/to/img.png)
+
 This in-progress project consists of developing a living domain reference model (or a knowledge model) in the form of an suite of ontologies for astronautics (spaceflight), the orbital space environemnt, space situational awareness (SSA), space domain awareness, and space traffic coordination/management (STC/M) here collectively called the 'orbital space domain', 'space domain', or 'astronautical domain'. The ontologies aim to provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. The representaitons will take the form of the ontology vocabulary and its formal semantics, including any logical formalizations, computable implementations, and annotations. The listed, and related, domain entities will be grouped into modular ontologies the whole of which may be merged into a single master ontology file, or master model. Together this is intended to form a unified knowledge model of the target universe of discourse, providing a semantic layer for data, and providing knowledge representation, metadata elements, vocabularies, and ontologies for astronautics and SSA. The ontology voacbulary may also be used in less complex systems and applications such as taxonomies, glossaries, , etc. 
 
 ## Purpose
