@@ -5,7 +5,7 @@ Developing a suite of ontologies for the space domain, with a focus on astronaut
 
 ## Status
 * In-progress, subject-to-revision. Independently pursued by author since inception in 2011, but actively open to formal partnerships and support.
-* **Needs Formal Support:** the project needs funding, formal work collaborations, and a stable development environment. As unfunded work, donations or sponsors are welcome. Employment or PhD study options to sustainably realize the project vision are desired. These opportunities are needed for the author to continue development in a sustainable, protected, mentored, and learning environment. Please [contact](https://ontospace.wordpress.com/contact) if you can help.  
+* **Needs Formal Support:** financial, educational, and technical support needed. The project needs funding, formal work collaborations, and a stable development environment. As unfunded work, donations or sponsors are welcome. Employment or PhD study options to sustainably realize the project vision are desired. These opportunities are needed for the author to continue development in a sustainable, protected, mentored, and learning environment. Please [contact](https://ontospace.wordpress.com/contact) if you can help.  
 
 ## Support the project - How you can help
 * If you find value in this project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the pink heart 'Sponsor' button at the top of the page. 
@@ -18,7 +18,7 @@ Developing a suite of ontologies for the space domain, with a focus on astronaut
 
 ## About
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/rrovetto/Orbital-Space-Ontology-Project/raw/master/images/OSEDO_DescriptionWebsite.JPG)
 
 This in-progress project consists of developing a living domain reference model (or a knowledge model) in the form of an suite of ontologies for astronautics (spaceflight), the orbital space environemnt, space situational awareness (SSA), space domain awareness, and space traffic coordination/management (STC/M) here collectively called the 'orbital space domain', 'space domain', or 'astronautical domain'. The ontologies aim to provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. The representaitons will take the form of the ontology vocabulary and its formal semantics, including any logical formalizations, computable implementations, and annotations. The listed, and related, domain entities will be grouped into modular ontologies the whole of which may be merged into a single master ontology file, or master model. Together this is intended to form a unified knowledge model of the target universe of discourse, providing a semantic layer for data, and providing knowledge representation, metadata elements, vocabularies, and ontologies for astronautics and SSA. The ontology voacbulary may also be used in less complex systems and applications such as taxonomies, glossaries, , etc. 
 
@@ -68,10 +68,10 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
 
 ## Desiderata (How you can help)
 Financial support, Educational support, and Technical support needed:
-* Formal collaborations, e.g., a sponsoring employer, regular employment, etc.
-* A PhD study opportunity so I can realize the project vision (Professors interested in me as a PhD student should make contact)
+* Formal work collaborations, e.g., a sponsoring employer, regular employment, etc.
+* A PhD study opportunity so the author can realize the project vision (university professors are encouraged to make contact)
 * Mentors, volunteer technical contributors, a team environment. 
-* Co-authors to complete and write papers (please contact--many papers on the shelf)
+* Co-authors to complete and write papers (please [contact](https://ontospace.wordpress.com/contact)--many papers on the shelf)
 * Grants (e.g., with NASA, ESA, EU, etc.)
 
 ### Example Users
@@ -90,6 +90,7 @@ rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
 * Space studies graduate coursework from AMU/APUS.
 
 ## Publications
+[Visit this publication page](https://ontospace.wordpress.com/publications)
 * [1]_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
 PDF: 
 
