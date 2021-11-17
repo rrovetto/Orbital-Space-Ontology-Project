@@ -1,6 +1,6 @@
 # The Orbital Space Environment Domain Reference Ontology Project
 * Description currently at https://ontospace.wordpress.com/
-* [Github Page](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
+* [GitPage](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
 
 ## Status
 * **Project Needs Support:** it needs a stable funding source & development environment, e.g., sponsors, donations, or PhD study opportunity for the author to continue development in a sustainable and mentored environment. 
