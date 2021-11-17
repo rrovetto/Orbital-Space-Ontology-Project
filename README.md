@@ -90,25 +90,14 @@ rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
 * Space studies graduate coursework from AMU/APUS.
 
 ## Publications
-[Visit this publication page](https://ontospace.wordpress.com/publications)
-* [1]_“[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”_, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
-PDF: 
-
-* [2]_“[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”_, Rovetto,R.J. & T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
-
-* [3] _"[The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf)", Rovetto, R.J. The Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016, (Paper, and Poster presentation)
-
-* [4] "[Orbital Space Environment and Space Situational Awareness Domain Ontology](http://ceur-ws.org/Vol-1660/ecs-paper1.pdf)", Rovetto, R.J. In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016.
-
-* [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](http://ceur-ws.org/Vol-1660/womocoe-paper3.pdf)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
-
-* [6] "[Orbital Debris Ontology](http://dx.doi.org/10.13140/RG.2.2.26231.21928)" (PPT presentation), presented at Center for Orbital Debris Education and Research (CODER), University of Maryland, College Park, MD, USA, 15-17 November 2016. Panel URL= http://www.coder.umd.edu/coder2016/sessions
-
+[Visit this publication page](https://ontospace.wordpress.com/publications). Selected articles include the following 
+* [1] “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)”, Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer. DOI: 10.1007/s12145-015-0233-3
+* [2] “[Preliminaries of a Space Situational Awareness Ontology](https://arxiv.org/ftp/arxiv/papers/1606/1606.01924.pdf)”, with T.S. Kelso. In Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
+* [3] "[The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data](http://www.amostech.com/TechnicalPapers/2016/Poster/Rovetto.pdf)", Rovetto, R.J. The Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016, (Paper, and Poster presentation)
+* [5] "[Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/sa94bff516877d90ab0e5f6eac85e90c1a65e7c47)", Rovetto, R.J. International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th International Conference on Formal Ontology in Information Systems.
+* [6] "[Orbital Debris Ontology](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/s73face6d391370e0ac51295db29f2c9d6dce1c9c)" (PPT presentation), presented at Center for Orbital Debris Education and Research (CODER), University of Maryland, College Park, MD, USA, 15-17 November 2016. Panel URL= http://www.coder.umd.edu/coder2016/sessions
 * [7] "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
-
 * [8] ["Orbital Debris Ontology,Terminology, and Knowledge Modeling"](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA. In "[NASA NTRS server](https://ntrs.nasa.gov/citations/20200000988). And in "[Journal of Space Safety Engineering](https://www.sciencedirect.com/science/article/abs/pii/S2468896720300720) (2020)
-
-* [9] “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
 ## History, Author Bio-Contextual Efforts
 This has been a pursuit since 2011 when I thought of applying ontology to the orbital debris domain to help ameliorate the debris hazard via ontology-based data-sharing and integration (documented proof & references available upon request). I continue to search and apply for opportunities to work sustainably on this, ideally in a team and educational environment with mentors so that I can continue my studies on astro topics and other subjects. I have developed enough paper drafts and concepts to make this a PhD project, so I hope to find an interdisicplinary a degree program involving study of astronauitcs, orbital dynamics (my original passion), philosophy, space policy, knowledge representation & reasoning, ontology, etc.. 
