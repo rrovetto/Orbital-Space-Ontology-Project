@@ -2,7 +2,7 @@
 A list of publicaitons on this project by the author.
 
 ### Forthcoming
-
+- TBD
 ### Grant Proposals
 * “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NNH18ZHA003N. (Submitted, no accepted)
 
@@ -13,7 +13,6 @@ A list of publicaitons on this project by the author.
 * “Ontologies – Creating Human-centered Taxonomies to Annotate Data” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
 ### Journal & Conference Papers 
-
 * [1] “[An Ontological Architecture for Orbital Debris Data](http://link.springer.com/article/10.1007/s12145-015-0233-3)” , Rovetto, R.J. (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3
 PDF: 
 
