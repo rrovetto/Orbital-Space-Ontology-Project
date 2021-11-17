@@ -26,9 +26,9 @@ PDF:
 
 * [6] "[Orbital Debris Ontology](http://dx.doi.org/10.13140/RG.2.2.26231.21928)" (PPT presentation), presented at Center for Orbital Debris Education and Research (CODER), University of Maryland, College Park, MD, USA, 15-17 November 2016. Panel URL= http://www.coder.umd.edu/coder2016/sessions
 
-* [7] "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
+* [7] "[An Ontology for Satellite Databases](https://link.springer.com/article/10.1007/s12145-017-0290-x)", Robert J. Rovetto. Earth Science Informatics, April 2017.
 
-* [8] "[Orbital Debris Ontology,Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/search.jsp?R=20200000988)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA. "Conference webpage"(https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)
+* [8] "[Orbital Debris Ontology,Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/search.jsp?R=20200000988)", Robert J. Rovetto, T.S. Kelso, and Daniel A. O’Neil, December 2019, First International Orbital Debris Conference, Texas USA. [Conference webpage](https://www.hou.usra.edu/meetings/orbitaldebris2019/orbital2019paper/pdf/6172.pdf)
 
 * [9] “[Ontologies – Creating Human-centered Taxonomies to Annotate Data](https://open.nasa.gov/blog/data-discovery-creating-human-centered-taxonomies-annotate-data/)” in Data Discovery - Summer 2017 (p.15), magazine by ISSUU, SecondMuse.
 
