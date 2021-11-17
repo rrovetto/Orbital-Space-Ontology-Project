@@ -11,6 +11,7 @@ Ontologies are presently available as pay-per-download.
 Ontology development services are available by formal work arrangement. 
 
 Please [contact here](https://ontospace.wordpress.com) if you are interested in sponsoring, formally collaborating, or purchasing use of an ontology.
+
 Or [schedule a meeting or purchase services here](https://tinyurl.com/yas7trzy)
 
 _Implementation Language_: currently, OWL is use, but it is anticipated/desired that KIF, CLIF, and other more expressive knowledge represenation languages will be use.
