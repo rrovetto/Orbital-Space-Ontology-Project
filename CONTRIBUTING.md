@@ -11,6 +11,7 @@ Second, [contact here](https://ontospace.wordpress.com/contact). Please say in w
 * If you are an employer interested in hiring me, or are interested in sponsoring this project, then [schedule a discussion here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) or [send and email here](https://ontospace.wordpress.com/contact) 
 
 CONTEXT: As an personal project that is currently unfunded, pursued in the author own time where possible, a stable environment with resources is needed to sustainably developed into the future and realize the project vision.
+NOTE: Therefore, this project does not presently have any funding to hire anyone.
 
 ### 2 - EDUCATIONAL SUPPORT
 * Invite me to be a PhD student at your university for this project.
@@ -18,23 +19,27 @@ CONTEXT: As an personal project that is currently unfunded, pursued in the autho
 CONTEXT: To realize the project vision, and my educaitonal goals, it is best developed in a stable environment, such as in a university degree program, or a formal business collaboration with a supporting organization (e.g. NASA) that can provide financial, technical, educational, and human resources. The author is actively looking & applying for a study opportunities.
 
 ### 3 - TECHNICAL SUPPORT  
-* Please [schedule a meeting]((http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) if you can provide semantic technology, computer science, data science, ontology engineering, and AI technical expertise. 
-CONTEXT: to realize the full project vision, technical tasks and experts are needed to achieve the desired goals and functionalities.
+* Offer tools and technology
+* Offer to perform technical tasks. _Examples tasks include_: debugging tools (ontology/taxonomy editors, etc.); scripting & coding (e.g., R, Python, C++), using advanced features of tools such as MagicDraw, TopBraid Composer, Protege, etc.; applying ontologies to data and to external tools/systems; creating web-based website with GUI for the project (with specifically desired features & functionalities); etc.
+* 
+CONTEXT: to realize the full project vision, tools, software platforms, tasks, and experts are needed to achieve the desired technical goals and functionalities.
 
-### 4 - SUBJECT-MATTER EXPERTISE 
-* Please make contact if you are a professional in astrodynamics, celestial mechanics, astronomy, astronautical engineering, aerospace science, semantic web technology
-CONTEXT: experts in the target disciplines are needed to help understand the subject-matter, and to verify the accuracy of the models.
+### 4 - HUMAN RESOURCESS - SUBJECT-MATTER EXPERTISE, BUSINESS EXPERTISE, MISC. 
+* Professionals to provide subject-matter experitse in computer science, data science, informatics, semantic web technology, knowledge representation, ontology engineering AI; astrodynamics, astroinformatics; space operations; satellite operations; misc. 
+
+CONTEXT: experts in the target disciplines are needed to help understand and explain the subject-matter (domain knowledge, content; domain data, etc.), to verify the accuracy of the models, to help with identifying use-cases and applicaitons, etc.
+NOTE: Signing an NDA will be required.
 
 ### 5 - MENTORSHIP
-* Please make contact if you'd like to be a mentor, if you are an experienced profession with interest in helping others succeed, and in positively developing this project. 
-CONTEXT: because we all need it, and because the author needs a team, supporters, and experienced professionals to realize the project vision.  
+* Experienced mentors to help me reach my goals. Goals include continuing my education in topics of interest, realizing the project vision, finding sources of income to pursue this project, business development, contact-building, etc. Please make contact if you sincerely value helping others succeed, and in positively developing this project to realize its vision. 
+NOTE: Signing an NDA will be required.
 
-### 6 - BUSINESS SUPPORT & DEVELOPMENT - the project needs
-* Entrepreneurs
-* Business plan development
-* IP
+### 6 - BUSINESS DEVELOPMENT SUPPORT
+* Entrepreneurs or experienced business professionals, as well as legal professionals, to help develop business and capital avenues 
+  * Business plan development
+  * IP, Trade secret, etc.
 
-## You may be able to contribute to the following tasks and project needs**
+## Specific tasks you may be able to contribute include the following**
 * Creating an online hosting website, or other system, for the ontologies
 * Creating a dynamic and interactive search and display feature for the content (terms, etc.) of the ontologies
 * Creating interactive visualiazations of the ontologies, such as dynamic interactive graphs
