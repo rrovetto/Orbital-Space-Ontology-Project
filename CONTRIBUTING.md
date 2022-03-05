@@ -1,23 +1,21 @@
 # Contributing
 
 First, thanks for your interest in contributing!
+Second, [contact here](https://ontospace.wordpress.com/contact). Please say in what way you would like to contribute, and to what task or project need (listed below).
 
-Second, [email the author](mailto:rrovetto@terpalum.umd.edu), and please say in what way you would like to contribute, and to what task or project need (listed below).
-
-## You can contribute by supporting the project in the following ways:
+## You can support the project in the following ways:
 
 ### 1 - FINANCIAL SUPPORT 
-* [Donate via the Patreon page](www.patreon.com/user?u=6298778)
-* [Donate via the GoGetFunding page](https://tinyurl.com/y9qegjsh) 
-* If you are potential employer or organization interested in sponsoring, then [schedule a discussion here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+* [Donations via the Patreon page](www.patreon.com/user?u=6298778)
+* [Donations via the GoGetFunding page](https://tinyurl.com/y9qegjsh) 
+* If you are an employer interested in hiring me, or are interested in sponsoring this project, then [schedule a discussion here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) or [send and email here](https://ontospace.wordpress.com/contact) 
 
-CONTEXT: It's been unfunded since 2011. All effort have been in the author's own time where possible, while searching and needing employment or study opportunities, and therefore under challenging circumstances. To date, these opportunities are still needed so this project can be sustainably developed into the future. Some in university and industry have taken an interest in the ideas, but sadly some ran with ideas and made money off of them. Therefore, the project has no funding to pay for support at this time.
+CONTEXT: As an personal project that is currently unfunded, pursued in the author own time where possible, a stable environment with resources is needed to sustainably developed into the future and realize the project vision.
 
-### 2 - TEAM & EDUCATIONAL ENVIRONMENT
-* Invite me to be a PhD student at your university for my project.
-* Hire me if you are an agency or other organization interested in supporting this project
+### 2 - EDUCATIONAL SUPPORT
+* Invite me to be a PhD student at your university for this project.
 
-CONTEXT: To realize the project vision, this project is best developed in a stable team environment, such as in a PhD program, or a formal collaboration with a supporting organization (e.g. NASA). The author is actively looking & applying for a study opportunity, but thusfar, no opportunity has been forthcoming.
+CONTEXT: To realize the project vision, and my educaitonal goals, it is best developed in a stable environment, such as in a university degree program, or a formal business collaboration with a supporting organization (e.g. NASA) that can provide financial, technical, educational, and human resources. The author is actively looking & applying for a study opportunities.
 
 ### 3 - TECHNICAL SUPPORT  
 * Please [schedule a meeting]((http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) if you can provide semantic technology, computer science, data science, ontology engineering, and AI technical expertise. 
