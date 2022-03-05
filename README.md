@@ -4,12 +4,16 @@ Developing a suite of ontologies for the space domain, with a focus on astronaut
 * [GitPage](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
 
 ## Status
-* In-progress, subject-to-revision. Independently pursued by author since inception in 2011, but actively open to formal partnerships and support.
-* **Needs Formal Support:** financial, educational, and technical support needed. The project needs funding, formal work collaborations, and a stable development environment. As unfunded work, donations or sponsors are welcome. Employment or PhD study options to sustainably realize the project vision are desired. These opportunities are needed for the author to continue development in a sustainable, protected, mentored, and learning environment. Please [contact](https://ontospace.wordpress.com/contact) if you can help.  
+* In-progress, subject-to-revision. Independently pursued by author since inception in 2011. As a personal project that is presently unfunded, formal support is desired and needed.
 
 ## Support the project - How you can help
-* If you find value in this project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the pink heart 'Sponsor' button at the top of the page. 
-* See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project.
+The project vision needs financial, educational, technical, and human resources support, including a stable development environment. Open to formal work collaborations & partners.
+  * **Financial support:** Patrons and sponsors desired. Please [contact](https://ontospace.wordpress.com/contact) if you can help. If you find value in this project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the pink heart 'Sponsor' button at the top of the page.
+  * **Employment support:** employers who would like to hire me for this project or similar work should [contact](https://ontospace.wordpress.com/contact) me. 
+  * **Educational support:** I am interested in finding a PhD study opportunity with this as my phd project/thesis. Professors should [contact](https://ontospace.wordpress.com/contact)
+  * **Technical support:** Need subject-matter experts in astrodynamics, informatics, computer science, AI, semantic web technology, etc. 
+These opportunities are needed for the author to continue development in a sustainable, protected, mentored, and learning environment. *  
+* See also the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project.
 * [Schedule a Partnership Discussion Here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) 
 
 ## Access
@@ -29,10 +33,10 @@ This in-progress project consists of developing a living domain reference model 
 * To offer accurate formal representations of the target objects and domain knowledge
 * To offer a set of vocabularies, taxonomies, metadata schemas, and classificaitons that are comprehensible, accurate and widely-applicable
 
-## Ontologies under development
-(subject to revision, merger, etc.)
+## Selected Ontologies Under Development
+(in-progress. subject to revision, merger, etc.)
 
-The following ontologies are conceived as part of a modular architecture. Some or all may compose a single master ontology that I call The Orbital Space Onology (OSO), or The Space Domain Ontology. There are various synonymous names that may be given to this ontology suite, depending on scoping, such as: 'Astronautical Ontology Suite', 'Orbital Space Domain Ontology' (OSDO), and 'Orbital Space Environment Domain Ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application, or organizational office, e.g. NASA's Orbital Debris Program Office may use The Orbital Debris Ontology. All content is subject to revision. If interested, contact the author.
+The ontologies in the project vision are conceived as part of a modular architecture: they will be usable as stand-alone models, but also as part of the integrated whole. Some or all may compose a single master ontology that I call The Orbital Space Onology (OSO) or alternatively The Space Domain Ontology. There are various synonymous names that may be given to this ontology suite, depending on scoping, such as: 'Astronautical Ontology Suite', 'Orbital Space Domain Ontology' (OSDO), and 'Orbital Space Environment Domain Ontology' (OSEDO). Each modular ontology can be used for a specific purpose, application, or organizational office, e.g. NASA's Orbital Debris Program Office may use The Orbital Debris Ontology. All content is subject to revision. If interested, contact the author.
 
 * **ODO - The Orbital Debris Ontology**
   An ontology representing orbital debris objects, and related things.
@@ -78,16 +82,10 @@ Financial support, Educational support, and Technical support needed:
 * A visualization of the solar system application by NASA employee.
 
 ## Creator/Author/Developer
-[Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817), B.A., M.A. - Conceptual Engineer & Space Ontologist.
-rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
-* Knowledge Modeling, Formmal ontology, Philosophy, Terminology, Metadata, Model-based systems engineering.
-* [Research Affiliate](http://www.coder.umd.edu/node/287), Center for Orbital Debris Education and Research (CODER), University of Maryland
-* [National Aeronautical and Space Administration (NASA) Datanauts](https://open.nasa.gov/explore/datanauts/2017/spring/), 2017
-* Education Committee, International association for Ontology and its Applicaitons
-* Co-lead in lexicon topics, AIAA Space Traffic Management working group
-* Committee Member, AIAA Space Architecture Committee on Standards
-* Alumnus of University of Maryland, & The State University of New York. 
-* Space studies graduate coursework from AMU/APUS.
+[Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817), B.A., M.A. - Concept Engineer & Space Ontologist/Knowledge Modeler.
+_Contact_: https://ontospace.wordpress.com/contact
+* Metadata | Knowledge representation | Formmal ontology | Semantic modeling | Conceptual Modeling | Terminology | Model-based systems engineering | Philosophy.
+* [National Aeronautical and Space Administration (NASA) Datanauts](https://github.com/rrovetto/NASADatanauts), class of 2017
 
 ## Publications
 [Visit this publication page](https://ontospace.wordpress.com/publications). Selected articles include the following 
@@ -102,10 +100,10 @@ rrovetto[at]terpalum.umd.edu, ontologos[at]yahoo[dot]com
 ## History, Author Bio-Contextual Efforts
 This has been a pursuit since 2011 when I thought of applying ontology to the orbital debris domain to help ameliorate the debris hazard via ontology-based data-sharing and integration (documented proof & references available upon request). I continue to search and apply for opportunities to work sustainably on this, ideally in a team and educational environment with mentors so that I can continue my studies on astro topics and other subjects. I have developed enough paper drafts and concepts to make this a PhD project, so I hope to find an interdisicplinary a degree program involving study of astronauitcs, orbital dynamics (my original passion), philosophy, space policy, knowledge representation & reasoning, ontology, etc.. 
 
-## Warranty
-No warranty. Presented "AS IS". Author and copyright holder is not liable.
-All content, work and products are subject to revision. No claims to completeness. 
+## Terms & Warranty
+All content is presented "AS IS". All content, work and products are subject to revision.  No claims to completeness or accuracy. 
+No warranty. Author and copyright holder is not liable.
 
 ## Copyright
-© 2011-2021, Robert John Rovetto. All right reserved. 
+© 2011-2022, Robert John Rovetto. All right reserved. 
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
