@@ -1,4 +1,4 @@
-# The Orbital Space Environment Domain Reference Ontology Project
+# The Orbital Space Environment Domain Reference Ontology Project (OSEDO)
 Developing a suite of ontologies for the space domain, with a focus on astronautics.
 * Description currently at https://ontospace.wordpress.com/
 * [GitPage](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
