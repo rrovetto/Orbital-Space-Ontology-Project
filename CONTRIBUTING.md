@@ -48,3 +48,6 @@ NOTE: Signing an NDA will be required.
 * Ontology development: adding axioms, rules, constraints, etc.
 * Finding financial donors, sponsors
 * Finding use-cases, and applicaitons of the ontologies
+
+## Contact
+Thank you. [Contact by sending a message here](https://ontospace.wordpress.com/contact)
