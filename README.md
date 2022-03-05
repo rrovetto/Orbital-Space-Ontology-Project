@@ -4,22 +4,20 @@ Developing a suite of ontologies for the space domain, with a focus on astronaut
 * [GitPage](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
 
 ## Status
-* In-progress, subject-to-revision. Independently pursued by author since inception in 2011. 
-* As a personal project that is presently unfunded, formal support is desired and needed.
+* In-progress, subject-to-revision. Independently pursued by author since inception in 2011. As a personal project that is presently unfunded, formal support is desired and needed.
 
 ## Support the project - How you can help
-The project vision needs financial, educational, technical, and human resources support, including a stable and protected environment. Open to formal work collaborations & partners. [Schedule a Partnership Discussion Here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) 
-* **Financial support:** Patrons and sponsors desired. Please [contact](https://ontospace.wordpress.com/contact) if you can help. If you find value in this project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the pink heart 'Sponsor' button at the top of the page.
+The project needs financial, educational, technical, and human resources support, including a stable and protected development environment. Open to formal work collaborations & partners. Please [contact](https://ontospace.wordpress.com/contact) if you can help. [Schedule a work partnership discussion Here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d) 
+* See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) for details about the needs of the project.
+* **Financial support:** Patrons, sponsors and stable funding sources desired. If you find value in this project, please [Donate Here](https://tinyurl.com/y9qegjsh) or [Here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Or click the pink heart 'Sponsor' button at the top of the page.
 * **Employment support:** employers who would like to hire me for this project or similar work should [contact](https://ontospace.wordpress.com/contact) me. 
 * **Educational support:** I am interested in finding a PhD study opportunity with this as my phd project/thesis. Professors should [contact](https://ontospace.wordpress.com/contact)
-* **Technical support:** Need tools, online platforms, misc.
-* **Human resources:** Need subject-matter experts in astrodynamics, informatics, computer science, AI, semantic web technology, etc. 
+* **Technical support:** Need subject-matter experts in relevant disciplines 
 These opportunities are needed for the author to continue development in a sustainable, protected, mentored, and learning environment. *  
-* See also the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) about the needs of the project.
 
 ## Access
 * Ontologies, and ontology development/consulting services, are currently available by formal arrangement with the author. 
-* [Contact](https://ontospace.wordpress.com/contact) or [purchase negotiated use of an ontology here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s331e7027edcbaefe7e2759be90ca0c48bb46125e).
+* [Contact](https://ontospace.wordpress.com/contact) or [purchase use of an ontology here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s331e7027edcbaefe7e2759be90ca0c48bb46125e).
 
 ## About
 
