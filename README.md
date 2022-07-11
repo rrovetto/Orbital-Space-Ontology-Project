@@ -20,6 +20,8 @@ This in-progress project consists of developing a living domain reference model 
 * To offer accurate formal representations of the target objects and domain knowledge
 * To offer a set of vocabularies, taxonomies, metadata schemas, and classificaitons that are comprehensible, accurate and widely-applicable
 
+![image](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/47a625e246f6b97aa9e34029f747a9da4b2124a1/images/knowledgeModelingAspects_rovetto.png)
+
 ## Selected Ontologies Under Development
 (in-progress. subject to revision, merger, etc.)
 
