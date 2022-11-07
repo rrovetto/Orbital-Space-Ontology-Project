@@ -4,8 +4,9 @@ Developing a suite of ontologies for the space domain, with a focus on astronaut
 * [GitPage](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
 
 ## Status
-* In-progress, subject-to-revision. Independently pursued by author since inception in 2011. As a personal project that is presently unfunded, formal support is desired and needed.
+* Independently pursued by author since inception in 2011. As a personal project that is presently unfunded, formal support is desired and needed to develop the models.
 * See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) for details about the needs of the project, as well as the Suppport section below.
+* In-progress, subject-to-revision.
 
 ## About
 
@@ -61,7 +62,7 @@ An ontology of orbit categories. An orbit type taxonomy with features unique to 
 
 ## Access
 * Papers and presentaitons are [availble for purchasing at this page](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/) 
-* Ontologies, and ontology development/consulting services, are currently available by formal arrangement with the author. 
+* Ontologies are available AS IS by formal arrangement with the author. However, as a personal project, funding/sponsorship and work collaborations are needed and desired to sustain, continue and complete development of the models. 
 * [Contact](https://ontospace.wordpress.com/contact) or [purchase use of an ontology here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s331e7027edcbaefe7e2759be90ca0c48bb46125e).
 
 ## Support the project (How you can help)
