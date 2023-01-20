@@ -1,10 +1,10 @@
 # The Orbital Space Environment Domain Reference Ontology Project (OSEDO)
-Developing a suite of ontologies for the space domain, with a focus on astronautics.
+Developing a suite of ontologies for the space domain, with a non-exclusive focus on astronautics.
 * Description currently at https://ontospace.wordpress.com/
 * [GitPage](https://rrovetto.github.io/Orbital-Space-Ontology-Project/)
 
 ## Status
-* Independently pursued by author since inception in 2011. As a personal project that is presently unfunded, formal support is desired and needed to develop the models.
+* Independently pursued by author since inception in 2011. As a personal project that is presently unfunded, formal support is needed to develop the models and realize the vision. Please contact to help.
 * See the [CONTRIBUTING page](https://github.com/rrovetto/Orbital-Space-Ontology-Project/blob/master/CONTRIBUTING.md) for details about the needs of the project, as well as the Suppport section below.
 * In-progress, subject-to-revision.
 
@@ -12,10 +12,10 @@ Developing a suite of ontologies for the space domain, with a focus on astronaut
 
 ![alt text](https://github.com/rrovetto/Orbital-Space-Ontology-Project/raw/master/images/OSEDO_DescriptionWebsite.JPG)
 
-This in-progress project consists of developing a living domain reference model (or a knowledge model) in the form of an suite of ontologies for astronautics (spaceflight), the orbital space environemnt, space situational awareness (SSA), space domain awareness, and space traffic coordination/management (STC/M) here collectively called the 'orbital space domain', 'space domain', or 'astronautical domain'. The ontologies aim to provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. The representaitons will take the form of the ontology vocabulary and its formal semantics, including any logical formalizations, computable implementations, and annotations. The listed, and related, domain entities will be grouped into modular ontologies the whole of which may be merged into a single master ontology file, or master model. Together this is intended to form a unified knowledge model of the target universe of discourse, providing a semantic layer for data, and providing knowledge representation, metadata elements, vocabularies, and ontologies for astronautics and SSA. The ontology voacbulary may also be used in less complex systems and applications such as taxonomies, glossaries, , etc. 
+This in-progress project consists of developing a living domain reference model (or a knowledge model) in the form of an suite of ontologies (& other knowledge-organization systems) for astronautics (spaceflight), the space environemnt (and thus astronomy), space situational awareness (SSA), space domain awareness, and space traffic coordination/management (STC/M) here collectively called the 'orbital space domain', 'space domain', or 'astronautical domain'. The ontologies aim to provide formal representaitons of phenomena such as orbits, orbital knowledge, spacecraft, orbital debris, spacecraft maneuvers, orbital events, observational and other SSA data, spaceflight missions (and their space systems, ground systems, phases, objectives, etc.), as well as space traffic management and space policy concepts. The representaitons will take the form of the ontology vocabulary and its formal semantics, including any logical formalizations, computable implementations, and annotations. The listed, and related, domain entities will be grouped into modular ontologies the whole of which may be merged into a single master ontology file, or master model. Together this is intended to form a unified knowledge model of the target universe of discourse, providing a semantic layer for data, and providing knowledge representation, metadata elements, vocabularies, and ontologies for astronautics and SSA. The ontology voacbulary may also be used in less complex systems and applications such as taxonomies, glossaries, , etc. 
 
 ## Purpose
-* To support safe spaceflight and space situational awareness
+* To support safe spaceflight and space situational awareness, and other space communities (e.g. astronomy)
 * To provide a set of modular, re-usable, neutral, but dynamic ontologies for astronautics and related discplines
 * To form a unified knowlege model of the target domain
 * To offer accurate formal representations of the target objects and domain knowledge
